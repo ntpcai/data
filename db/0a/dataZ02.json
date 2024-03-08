@@ -1,0 +1,134 @@
+{
+  "set": "注音",
+  "subset": "韻母",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "ㄧ",
+        "side2": "yi",
+        "side2b": "蜥蜴"
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "ㄨ",
+        "side2": "wu",
+        "side2b": "烏鴉"
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "ㄩ",
+        "side2": "yu",
+        "side2b": "金魚"
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "ㄚ",
+        "side2": "a",
+        "side2b": "鯊魚"
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "ㄛ",
+        "side2": "o",
+        "side2b": "土撥鼠"
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "ㄜ",
+        "side2": "e",
+        "side2b": "天鵝"
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "ㄝ",
+        "side2": "e",
+        "side2b": "野狼"
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "ㄞ",
+        "side2": "ai",
+        "side2b": "海豚"
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "ㄟ",
+        "side2": "ei",
+        "side2b": "黑面琵鷺"
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "ㄠ",
+        "side2": "ao",
+        "side2b": "毛毛蟲"
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "ㄡ",
+        "side2": "ou",
+        "side2b": "海鷗"
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "ㄢ",
+        "side2": "an",
+        "side2b": "山羊"
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "ㄣ",
+        "side2": "en",
+        "side2b": "糞金龜"
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "ㄤ",
+        "side2": "ang",
+        "side2b": "螳螂"
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "ㄥ",
+        "side2": "eng",
+        "side2b": "蜜蜂"
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "ㄦ",
+        "side2": "er",
+        "side2b": "耳朵󠇡"
+      }
+    }
+  ]
+}

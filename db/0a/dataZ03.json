@@ -1,0 +1,195 @@
+{
+  "set": "注音",
+  "subset": "結合",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "ㄧㄚ",
+        "side2": "ya",
+        "side2b": "鴨子"
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "ㄧㄛ",
+        "side2": "yo",
+        "side2b": "哎唷"
+      }
+    },
+    {
+      "id": "00003",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄧㄝ",
+        "side2": "ye",
+        "side2b": "夜鶯"
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "ㄧㄞ",
+        "side2": "yai",
+        "side2b": "山崖"
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "ㄧㄠ",
+        "side2": "yao",
+        "side2b": "瓢蟲"
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "ㄧㄡ",
+        "side2": "you",
+        "side2b": "魷魚"
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "ㄧㄢ",
+        "side2": "yan",
+        "side2b": "綿羊"
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "ㄧㄣ",
+        "side2": "yin",
+        "side2b": "蚯蚓"
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "ㄧㄤ",
+        "side2": "yang",
+        "side2b": "大象"
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "ㄧㄥ",
+        "side2": "ying",
+        "side2b": "鸚鵡"
+      }
+    },
+    {
+      "id": "00011",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄚ",
+        "side2": "wa",
+        "side2b": "蝸牛"
+      }
+    },
+    {
+      "id": "00012",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄛ",
+        "side2": "wo",
+        "side2b": "駱駝"
+      }
+    },
+    {
+      "id": "00013",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄞ",
+        "side2": "wai",
+        "side2b": "蟋蟀"
+      }
+    },
+    {
+      "id": "00014",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄟ",
+        "side2": "wei",
+        "side2b": "海龜"
+      }
+    },
+    {
+      "id": "00015",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄢ",
+        "side2": "wan",
+        "side2b": "浣熊"
+      }
+    },
+    {
+      "id": "00016",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄣ",
+        "side2": "wen",
+        "side2b": "蚊子"
+      }
+    },
+    {
+      "id": "00017",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄤ",
+        "side2": "wang",
+        "side2b": "黃牛"
+      }
+    },
+    {
+      "id": "00018",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄨㄥ",
+        "side2": "ong",
+        "side2b": "白頭翁"
+      }
+    },
+    {
+      "id": "00019",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄩㄝ",
+        "side2": "yue",
+        "side2b": "孔雀"
+      }
+    },
+    {
+      "id": "00020",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄩㄢ",
+        "side2": "yuan",
+        "side2b": "鴛鴦"
+      }
+    },
+    {
+      "id": "00021",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄩㄣ",
+        "side2": "yun",
+        "side2b": "馴鹿"
+      }
+    },
+    {
+      "id": "00022",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄩㄥ",
+        "side2": "yong",
+        "side2b": "黑熊"
+      }
+    }
+  ]
+}
