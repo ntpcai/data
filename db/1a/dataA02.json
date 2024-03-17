@@ -7,7 +7,7 @@
       "fields": {
         "side1": "這",
         "side2": "這",
-        "side2b": "這是"
+        "side2b": "這裡"
       }
     },
     {
@@ -15,7 +15,7 @@
       "fields": {
         "side1": "是",
         "side2": "是",
-        "side2b": "不是"
+        "side2b": "是非"
       }
     },
     {
@@ -23,7 +23,7 @@
       "fields": {
         "side1": "誰",
         "side2": "誰",
-        "side2b": "找誰"
+        "side2b": "是誰"
       }
     },
     {
@@ -31,7 +31,7 @@
       "fields": {
         "side1": "的",
         "side2": "的",
-        "side2b": "你的"
+        "side2b": "好的"
       }
     },
     {
@@ -47,7 +47,7 @@
       "fields": {
         "side1": "分",
         "side2": "分",
-        "side2b": "分鐘"
+        "side2b": "分開"
       }
     },
     {
@@ -87,7 +87,7 @@
       "fields": {
         "side1": "個",
         "side2": "個",
-        "side2b": "個子󠇡"
+        "side2b": "個人"
       }
     }
   ]
