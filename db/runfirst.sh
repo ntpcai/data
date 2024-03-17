@@ -13,7 +13,7 @@ pyftsubset ../../fonts/ToneOZ-Zhuyin-Kai-Traditional.ttf --output-file="backfont
 pyftsubset ../../fonts/ToneOZ-RadicalZ-KaiTraditional.ttf --output-file="radicals.woff2" --flavor=woff2 --layout-features="ss10,vert,vrt2" --unicodes-file="unicode.txt"
 
 cp data.json ../first/data/
-cp *ttf ../first/fonts/
-cp *woff ../first/fonts/
+mv *ttf ../first/fonts/
+mv *woff2 ../first/fonts/
 
 echo "Done."
