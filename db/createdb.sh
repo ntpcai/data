@@ -3,6 +3,10 @@
 jq -s "." 0a/*.json 0b/*.json 1a/*.json 1b/*.json 2a/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
 
 jq -sr '.[] | "\(.set) \(.subset) \(.data[].fields.side1) \(.data[].fields.side2) \(.data[].fields.side2b)"' */*.json | jq -nR '[inputs | split("")] | flatten | unique' | jq -r 'join("")' > text.txt
+
+truncate --size -1 text.txt
+echo "練習" >> test.txt
+
 glyphhanger text.txt > unicode.txt
 
 pyftsubset ../../fonts/TW-Kai-98_1.ttf --output-file="frontfont.ttf" --layout-features="rtla,vert" --unicodes-file="unicode.txt"
