@@ -5,145 +5,161 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "爬",
-        "side2": "爬",
-        "side2b": "爬山"
+        "side1": "全",
+        "side2": "全",
+        "side2b": "全家"
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "梯",
-        "side2": "梯",
-        "side2b": "梯子"
+        "side1": "蛋",
+        "side2": "蛋",
+        "side2b": "雞蛋"
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "紙",
-        "side2": "紙",
-        "side2b": "紙箱"
+        "side1": "煎",
+        "side2": "煎",
+        "side2b": "煎菜"
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "條",
-        "side2": "條",
-        "side2b": "一條"
+        "side1": "圓",
+        "side2": "圓",
+        "side2b": "圓形"
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "線",
-        "side2": "線",
-        "side2b": "線條"
+        "side1": "番",
+        "side2": "番",
+        "side2b": "番茄"
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "像",
-        "side2": "像",
-        "side2b": "偶像"
+        "side1": "茄",
+        "side2": "茄",
+        "side2b": "茄醬"
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "身",
-        "side2": "身",
-        "side2b": "人身"
+        "side1": "切",
+        "side2": "切",
+        "side2b": "切刀"
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "生",
-        "side2": "生",
-        "side2b": "生日"
+        "side1": "輪",
+        "side2": "輪",
+        "side2b": "輪胎"
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "迫",
-        "side2": "迫",
-        "side2b": "迫及"
+        "side1": "司",
+        "side2": "司",
+        "side2b": "起司"
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "及",
-        "side2": "及",
-        "side2b": "及時"
+        "side1": "夾",
+        "side2": "夾",
+        "side2b": "夾克"
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "待",
-        "side2": "待",
-        "side2b": "等待"
+        "side1": "吐",
+        "side2": "吐",
+        "side2b": "吐司"
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "站",
-        "side2": "站",
-        "side2b": "站住"
+        "side1": "中",
+        "side2": "中",
+        "side2b": "中間"
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "沿",
-        "side2": "沿",
-        "side2b": "沿著"
+        "side1": "方",
+        "side2": "方",
+        "side2b": "方向"
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "頂",
-        "side2": "頂",
-        "side2b": "頭頂"
+        "side1": "城",
+        "side2": "城",
+        "side2b": "城市"
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "格",
-        "side2": "格",
-        "side2b": "格子"
+        "side1": "堡",
+        "side2": "堡",
+        "side2b": "城堡"
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "哪",
-        "side2": "哪",
-        "side2b": "哪裡"
+        "side1": "接",
+        "side2": "接",
+        "side2b": "接受"
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "才",
-        "side2": "才",
-        "side2b": "才會"
+        "side1": "畫",
+        "side2": "畫",
+        "side2b": "畫圖"
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "最",
-        "side2": "最",
-        "side2b": "最高"
+        "side1": "臉",
+        "side2": "臉",
+        "side2b": "臉紅"
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "餐",
+        "side2": "餐",
+        "side2b": "早餐"
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "醬",
+        "side2": "醬",
+        "side2b": "醬油"
       }
     }
   ]
