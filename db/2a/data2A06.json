@@ -5,145 +5,161 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "自",
-        "side2": "自",
-        "side2b": "自由"
+        "side1": "鎮",
+        "side2": "鎮",
+        "side2b": "鎮區"
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "己",
-        "side2": "己",
-        "side2b": "自己"
+        "side1": "餅",
+        "side2": "餅",
+        "side2b": "餅乾"
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "沙",
-        "side2": "沙",
-        "side2b": "沙灘"
+        "side1": "節",
+        "side2": "節",
+        "side2b": "節日"
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "撿",
-        "side2": "撿",
-        "side2b": "撿起"
+        "side1": "活",
+        "side2": "活",
+        "side2b": "活動"
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "垃",
-        "side2": "垃",
-        "side2b": "垃圾"
+        "side1": "進",
+        "side2": "進",
+        "side2b": "進步"
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "圾",
-        "side2": "圾",
-        "side2b": "圾袋"
+        "side1": "排",
+        "side2": "排",
+        "side2b": "排球"
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "眼",
-        "side2": "眼",
-        "side2b": "眼鏡"
+        "side1": "遠",
+        "side2": "遠",
+        "side2b": "遠方"
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "膠",
-        "side2": "膠",
-        "side2b": "塑膠"
+        "side1": "籃",
+        "side2": "籃",
+        "side2b": "籃球"
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "對",
-        "side2": "對",
-        "side2b": "對我"
+        "side1": "近",
+        "side2": "近",
+        "side2b": "靠近"
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "牠",
-        "side2": "牠",
-        "side2b": "牠們"
+        "side1": "愛",
+        "side2": "愛",
+        "side2b": "可愛"
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "安",
-        "side2": "安",
-        "side2b": "安全"
+        "side1": "月",
+        "side2": "月",
+        "side2b": "月亮"
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "吧",
-        "side2": "吧",
-        "side2b": "好吧"
+        "side1": "乾",
+        "side2": "乾",
+        "side2b": "風乾"
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "如",
-        "side2": "如",
-        "side2b": "如果"
+        "side1": "甜",
+        "side2": "甜",
+        "side2b": "甜品"
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "該",
-        "side2": "該",
-        "side2b": "應該"
+        "side1": "客",
+        "side2": "客",
+        "side2b": "遊客"
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "留",
-        "side2": "留",
-        "side2b": "留下"
+        "side1": "買",
+        "side2": "買",
+        "side2b": "買單"
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "便",
-        "side2": "便",
-        "side2b": "便條"
+        "side1": "親",
+        "side2": "親",
+        "side2b": "親戚"
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "減",
-        "side2": "減",
-        "side2b": "減少"
+        "side1": "如",
+        "side2": "如",
+        "side2b": "如意"
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "少",
-        "side2": "少",
-        "side2b": "多少"
+        "side1": "意",
+        "side2": "意",
+        "side2b": "意思"
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "柿",
+        "side2": "柿",
+        "side2b": "柿子"
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "埔",
+        "side2": "埔",
+        "side2b": "新埔"
       }
     }
   ]

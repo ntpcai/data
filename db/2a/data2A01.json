@@ -5,145 +5,161 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "呼",
-        "side2": "呼",
-        "side2b": "招呼"
+        "side1": "年",
+        "side2": "年",
+        "side2b": "新年"
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "白",
-        "side2": "白",
-        "side2b": "白色"
+        "side1": "希",
+        "side2": "希",
+        "side2b": "希望"
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "雲",
-        "side2": "雲",
-        "side2b": "雲朵"
+        "side1": "望",
+        "side2": "望",
+        "side2b": "希望"
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "柔",
-        "side2": "柔",
-        "side2b": "柔軟"
+        "side1": "坐",
+        "side2": "坐",
+        "side2b": "坐位"
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "前",
-        "side2": "前",
-        "side2b": "前天"
+        "side1": "位",
+        "side2": "位",
+        "side2b": "位子"
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "游",
-        "side2": "游",
-        "side2b": "游泳"
+        "side1": "本",
+        "side2": "本",
+        "side2b": "課本"
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "噴",
-        "side2": "噴",
-        "side2b": "噴泉"
+        "side1": "淡",
+        "side2": "淡",
+        "side2b": "淡水"
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "美",
-        "side2": "美",
-        "side2b": "美味"
+        "side1": "書",
+        "side2": "書",
+        "side2b": "書香"
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "麗",
-        "side2": "麗",
-        "side2b": "美麗"
+        "side1": "老",
+        "side2": "老",
+        "side2b": "老婆"
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "柱",
-        "side2": "柱",
-        "side2b": "水柱"
+        "side1": "師",
+        "side2": "師",
+        "side2b": "老師"
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "試",
-        "side2": "試",
-        "side2b": "考試"
+        "side1": "以",
+        "side2": "以",
+        "side2b": "以前"
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "吸",
-        "side2": "吸",
-        "side2b": "吸管"
+        "side1": "為",
+        "side2": "為",
+        "side2b": "成為"
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "用",
-        "side2": "用",
-        "side2b": ""
+        "side1": "故",
+        "side2": "故",
+        "side2b": "故事"
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "力",
-        "side2": "力",
+        "side1": "用",
+        "side2": "用",
         "side2b": "用力"
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "哇",
-        "side2": "哇",
-        "side2b": "哇塞"
+        "side1": "力",
+        "side2": "力",
+        "side2b": "力氣"
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "又",
-        "side2": "又",
-        "side2b": "又來"
+        "side1": "只",
+        "side2": "只",
+        "side2b": "只要"
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "第",
-        "side2": "第",
-        "side2b": "第一"
+        "side1": "現",
+        "side2": "現",
+        "side2b": "現在"
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "功",
-        "side2": "功",
-        "side2b": "成功"
+        "side1": "還",
+        "side2": "還",
+        "side2b": "還是"
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "聲",
+        "side2": "聲",
+        "side2b": "聲明"
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "矮",
+        "side2": "矮",
+        "side2b": "高矮"
       }
     }
   ]
