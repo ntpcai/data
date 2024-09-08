@@ -11,7 +11,7 @@ jq -r '
 
 truncate --size -1 text.txt
 echo "練習國子秀朗國小補校-南一書局創作者劉喆" >> text.txt
-jq -Rr 'split("") | unique | sort | join("")' text.txt >> text.txt
+jq -Rr 'split("") | unique | sort | join("")' text.txt > text.txt
 
 glyphhanger text.txt > unicode.txt
 
