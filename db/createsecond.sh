@@ -2,16 +2,34 @@
 jq -s "." 0a2/*.json 0b2/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
 
 jq -r '
-  reduce ( .. | select(type == "string") ) as $item (""; . + $item) |
-  split("") |
-  unique |
-  sort |
-  join("")
+  def top_level_keys:
+    keys | map(tostring) | join("");
+  
+  def next_level_keys:
+    (to_entries | map(.value | 
+      if type == "object" then 
+        (keys | map(tostring) | join(""))
+      else 
+        ""
+      end) | join(""));
+
+  def field_values:
+    reduce ( .. | select(type == "string") ) as $item (""; . + $item) |
+    split("") |
+    unique |
+    sort |
+    join("");
+
+  
+  def combined_string:
+    top_level_keys + next_level_keys + field_values + "練習國子秀朗國小補校-南一書局創作者劉喆";
+
+  combined_string | split("") | sort | unique | join("")
 ' data.json > text.txt
 
-truncate --size -1 text.txt
-echo "練習國子秀朗國小補校-南一書局創作者劉喆" >> text.txt
-jq -Rr 'split("") | unique | sort | join("")' text.txt > text.txt
+#truncate --size -1 tmp_text.txt
+#echo "練習國子秀朗國小補校-南一書局創作者劉喆" >> tmp_text.txt
+#jq -Rr 'split("") | unique | sort | join("")' tmp_text.txt > text.txt
 
 glyphhanger text.txt > unicode.txt
 
