@@ -6,7 +6,7 @@
       "id": "00001",
       "fields": {
         "side1": "ㄧㄚ",
-        "side2": "ya",
+        "side2": "ㄧㄚ",
         "side2b": "鴨子"
       }
     },
@@ -14,7 +14,8 @@
       "id": "00002",
       "fields": {
         "side1": "ㄨㄚ",
-        "side2": "wa",
+        "side1p": "蛙",
+        "side2": "ㄨㄚ",
         "side2b": "青蛙"
       }
     },
@@ -22,23 +23,26 @@
       "id": "00003",
       "fields": {
         "side1": "ㄧㄛ",
-        "side2": "yo",
+        "side1p": "呦",
+        "side2": "ㄧㄛ",
         "side2b": "哎呦"
       }
     },
     {
       "id": "00004",
+      "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄛ",
-        "side2": "wo",
+        "side2": "ㄨㄛ",
         "side2b": "鴕鳥"
       }
     },
     {
       "id": "00005",
+      "lang": "zh-CN",
       "fields": {
         "side1": "ㄧㄝ",
-        "side2": "ye",
+        "side2": "ㄧㄝ",
         "side2b": "蝴蝶"
       }
     },
@@ -47,7 +51,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄩㄝ",
-        "side2": "yue",
+        "side2": "ㄩㄝ",
         "side2b": "孔雀"
       }
     },
@@ -55,7 +59,7 @@
       "id": "00007",
       "fields": {
         "side1": "ㄧㄞ",
-        "side2": "yai",
+        "side2": "ㄧㄞ",
         "side2b": "山崖"
       }
     },
@@ -64,15 +68,16 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄞ",
-        "side2": "wai",
+        "side2": "ㄨㄞ",
         "side2b": "蟋蟀"
       }
     },
     {
       "id": "00009",
+      "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄟ",
-        "side2": "wei",
+        "side2": "ㄨㄟ",
         "side2b": "烏龜"
       }
     },
@@ -80,7 +85,7 @@
       "id": "00010",
       "fields": {
         "side1": "ㄧㄠ",
-        "side2": "yao",
+        "side2": "ㄧㄠ",
         "side2b": "瓢蟲"
       }
     },
@@ -88,7 +93,7 @@
       "id": "00011",
       "fields": {
         "side1": "ㄧㄡ",
-        "side2": "you",
+        "side2": "ㄧㄡ",
         "side2b": "蝸牛"
       }
     },
@@ -96,15 +101,16 @@
       "id": "00012",
       "fields": {
         "side1": "ㄧㄢ",
-        "side2": "yan",
+        "side2": "ㄧㄢ",
         "side2b": "綿羊"
       }
     },
     {
       "id": "00013",
+      "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄢ",
-        "side2": "wan",
+        "side2": "ㄨㄢ",
         "side2b": "浣熊"
       }
     },
@@ -113,7 +119,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄩㄢ",
-        "side2": "yuan",
+        "side2": "ㄩㄢ",
         "side2b": "長臂猿"
       }
     },
@@ -121,7 +127,7 @@
       "id": "00015",
       "fields": {
         "side1": "ㄧㄣ",
-        "side2": "yin",
+        "side2": "ㄧㄣ",
         "side2b": "金魚"
       }
     },
@@ -130,7 +136,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄣ",
-        "side2": "wen",
+        "side2": "ㄨㄣ",
         "side2b": "海豚"
       }
     },
@@ -139,7 +145,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄩㄣ",
-        "side2": "yun",
+        "side2": "ㄩㄣ",
         "side2b": "馴鹿"
       }
     },
@@ -147,7 +153,7 @@
       "id": "00018",
       "fields": {
         "side1": "ㄧㄤ",
-        "side2": "yang",
+        "side2": "ㄧㄤ",
         "side2b": "大象"
       }
     },
@@ -156,7 +162,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄤ",
-        "side2": "wang",
+        "side2": "ㄨㄤ",
         "side2b": "黃牛"
       }
     },
@@ -164,7 +170,7 @@
       "id": "00020",
       "fields": {
         "side1": "ㄧㄥ",
-        "side2": "ying",
+        "side2": "ㄧㄥ",
         "side2b": "貓頭鷹"
       }
     },
@@ -173,7 +179,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄨㄥ",
-        "side2": "ong",
+        "side2": "ㄨㄥ",
         "side2b": "變色龍"
       }
     },
@@ -182,7 +188,7 @@
       "lang": "zh-CN",
       "fields": {
         "side1": "ㄩㄥ",
-        "side2": "yong",
+        "side2": "ㄩㄥ",
         "side2b": "貓熊"
       }
     }

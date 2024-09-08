@@ -1,10 +1,17 @@
 
 jq -s "." 0a2/*.json 0b2/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
 
-jq -sr '.[] | "\(.set) \(.subset) \(.data[].fields.side1) \(.data[].fields.side2) \(.data[].fields.side2b)"' */*.json | jq -nR '[inputs | split("")] | flatten | unique' | jq -r 'join("")' > text.txt
+jq -r '
+  reduce ( .. | select(type == "string") ) as $item (""; . + $item) |
+  split("") |
+  unique |
+  sort |
+  join("")
+' data.json > text.txt
 
 truncate --size -1 text.txt
-echo "練習秀朗補創者劉喆" >> text.txt
+echo "練習國子秀朗國小補校-南一書局創作者劉喆" >> text.txt
+jq -Rr 'split("") | unique | sort | join("")' text.txt >> text.txt
 
 glyphhanger text.txt > unicode.txt
 
