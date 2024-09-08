@@ -1,0 +1,178 @@
+{
+  "set": "ㄅㄆㄇㄈ",
+  "subset": "聲符",
+  "data": [
+    {
+      "id": "00001",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄅ",
+        "side2": "b",
+        "side2b": "斑馬"
+      }
+    },
+    {
+      "id": "00002",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄆ",
+        "side2": "p",
+        "side2b": "螃蟹"
+      }
+    },
+    {
+      "id": "00003",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄇ",
+        "side2": "m",
+        "side2b": "貓咪"
+      }
+    },
+    {
+      "id": "00004",
+      "lang": "zh-CN",
+      "fields": {
+        "side1": "ㄈ",
+        "side2": "f",
+        "side2b": "飛鼠"
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "ㄉ",
+        "side2": "d",
+        "side2b": "袋鼠"
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "ㄊ",
+        "side2": "t",
+        "side2b": "兔子"
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "ㄋ",
+        "side2": "n",
+        "side2b": "犀牛"
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "ㄌ",
+        "side2": "L",
+        "side2b": "老鼠"
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "ㄍ",
+        "side2": "g",
+        "side2b": "小狗"
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "ㄎ",
+        "side2": "k",
+        "side2b": "恐龍"
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "ㄏ",
+        "side2": "h",
+        "side2b": "河馬"
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "ㄐ",
+        "side2": "j",
+        "side2b": "公雞"
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "ㄑ",
+        "side2": "q",
+        "side2b": "企鵝"
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "ㄒ",
+        "side2": "x",
+        "side2b": "猩猩"
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "ㄓ",
+        "side2": "zh",
+        "side2b": "蜘蛛"
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "ㄔ",
+        "side2": "ch",
+        "side2b": "長頸鹿"
+      }
+    },
+    {
+      "id": "00017",
+      "fields": {
+        "side1": "ㄕ",
+        "side2": "sh",
+        "side2b": "山豬"
+      }
+    },
+    {
+      "id": "00018",
+      "fields": {
+        "side1": "ㄖ",
+        "side2": "r",
+        "side2b": "乳牛"
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "ㄗ",
+        "side2": "z",
+        "side2b": "烏賊"
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "ㄘ",
+        "side2": "c",
+        "side2b": "刺蝟"
+      }
+    },
+    {
+      "id": "00021",
+      "fields": {
+        "side1": "ㄙ",
+        "side2": "s",
+        "side2b": "松鼠"
+      }
+    }
+  ]
+}

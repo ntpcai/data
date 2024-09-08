@@ -1,11 +1,10 @@
 
-#jq -s "." 0a/*.json 0b/*.json 1a/*.json 1b/*.json 2a/*.json 2b/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
-jq -s "." 0a/*.json 0b/*.json 1a/*.json 1b/*.json 2a/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
+jq -s "." 0a2/*.json 0b2/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
 
 jq -sr '.[] | "\(.set) \(.subset) \(.data[].fields.side1) \(.data[].fields.side2) \(.data[].fields.side2b)"' */*.json | jq -nR '[inputs | split("")] | flatten | unique' | jq -r 'join("")' > text.txt
 
 truncate --size -1 text.txt
-echo "練習" >> test.txt
+echo "練習秀朗補創者劉喆" >> text.txt
 
 glyphhanger text.txt > unicode.txt
 
@@ -17,8 +16,8 @@ pyftsubset ../../fonts/TW-Kai-98_1.ttf --output-file="frontfont.woff2" --flavor=
 pyftsubset ../../fonts/ToneOZ-Zhuyin-Kai-Traditional.ttf --output-file="backfont.woff2" --flavor=woff2 --layout-features="ss01,ss02,ss03,ss04,ss05,ss10,vert,vrt2" --unicodes-file="unicode.txt"
 pyftsubset ../../fonts/ToneOZ-RadicalZ-KaiTraditional.ttf --output-file="radicals.woff2" --flavor=woff2 --layout-features="ss10,vert,vrt2" --unicodes-file="unicode.txt"
 
-cp data.json ../first/data/
-mv *ttf ../first/fonts/
-mv *woff2 ../first/fonts/
+cp data.json ../second/data/
+mv *ttf ../second/fonts/
+mv *woff2 ../second/fonts/
 
-echo "Done."
+echo "Done second."
