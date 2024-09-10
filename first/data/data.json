@@ -3,173 +3,194 @@
     "聲符": [
       {
         "id": "00001",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄅ",
-          "side2": "b",
+          "side2": "ㄅ",
           "side2b": "斑馬"
         }
       },
       {
         "id": "00002",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄆ",
-          "side2": "p",
+          "side2": "ㄆ",
           "side2b": "螃蟹"
         }
       },
       {
         "id": "00003",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄇ",
-          "side2": "m",
+          "side2": "ㄇ",
           "side2b": "螞蟻"
         }
       },
       {
         "id": "00004",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄈ",
-          "side2": "f",
+          "side2": "ㄈ",
           "side2b": "飛鼠"
         }
       },
       {
         "id": "00005",
+        "type": "注音",
         "fields": {
           "side1": "ㄉ",
-          "side2": "d",
+          "side2": "ㄉ",
           "side2b": "袋鼠"
         }
       },
       {
         "id": "00006",
+        "type": "注音",
         "fields": {
           "side1": "ㄊ",
-          "side2": "t",
+          "side2": "ㄊ",
           "side2b": "鴕鳥"
         }
       },
       {
         "id": "00007",
+        "type": "注音",
         "fields": {
           "side1": "ㄋ",
-          "side2": "n",
+          "side2": "ㄋ",
           "side2b": "小鳥"
         }
       },
       {
         "id": "00008",
+        "type": "注音",
         "fields": {
           "side1": "ㄌ",
-          "side2": "L",
+          "side2": "ㄌ",
           "side2b": "梅花鹿"
         }
       },
       {
         "id": "00009",
+        "type": "注音",
         "fields": {
           "side1": "ㄍ",
-          "side2": "g",
+          "side2": "ㄍ",
           "side2b": "鴿子"
         }
       },
       {
         "id": "00010",
+        "type": "注音",
         "fields": {
           "side1": "ㄎ",
-          "side2": "k",
+          "side2": "ㄎ",
           "side2b": "蝌蚪"
         }
       },
       {
         "id": "00011",
+        "type": "注音",
         "fields": {
           "side1": "ㄏ",
-          "side2": "h",
+          "side2": "ㄏ",
           "side2b": "河豚"
         }
       },
       {
         "id": "00012",
+        "type": "注音",
         "fields": {
           "side1": "ㄐ",
-          "side2": "j",
+          "side2": "ㄐ",
           "side2b": "公雞"
         }
       },
       {
         "id": "00013",
+        "type": "注音",
         "fields": {
           "side1": "ㄑ",
-          "side2": "q",
+          "side2": "ㄑ",
           "side2b": "企鵝"
         }
       },
       {
         "id": "00014",
+        "type": "注音",
         "fields": {
           "side1": "ㄒ",
-          "side2": "x",
+          "side2": "ㄒ",
           "side2b": "犀牛"
         }
       },
       {
         "id": "00015",
+        "type": "注音",
         "fields": {
           "side1": "ㄓ",
-          "side2": "zh",
+          "side2": "ㄓ",
           "side2b": "蜘蛛"
         }
       },
       {
         "id": "00016",
+        "type": "注音",
         "fields": {
           "side1": "ㄔ",
-          "side2": "ch",
+          "side2": "ㄔ",
           "side2b": "長頸鹿"
         }
       },
       {
         "id": "00017",
+        "type": "注音",
         "fields": {
           "side1": "ㄕ",
-          "side2": "sh",
+          "side2": "ㄕ",
           "side2b": "獅子"
         }
       },
       {
         "id": "00018",
+        "type": "注音",
         "fields": {
           "side1": "ㄖ",
-          "side2": "r",
+          "side2": "ㄖ",
           "side2b": "乳牛"
         }
       },
       {
         "id": "00019",
+        "type": "注音",
         "fields": {
           "side1": "ㄗ",
-          "side2": "z",
+          "side2": "ㄗ",
           "side2b": "烏賊"
         }
       },
       {
         "id": "00020",
+        "type": "注音",
         "fields": {
           "side1": "ㄘ",
-          "side2": "c",
+          "side2": "ㄘ",
           "side2b": "刺蝟"
         }
       },
       {
         "id": "00021",
+        "type": "注音",
         "fields": {
           "side1": "ㄙ",
-          "side2": "s",
+          "side2": "ㄙ",
           "side2b": "鷺鷥"
         }
       }
@@ -177,129 +198,145 @@
     "韻母": [
       {
         "id": "00001",
+        "type": "注音",
         "fields": {
           "side1": "ㄧ",
-          "side2": "yi",
+          "side2": "ㄧ",
           "side2b": "蜥蜴"
         }
       },
       {
         "id": "00002",
+        "type": "注音",
         "fields": {
           "side1": "ㄨ",
-          "side2": "wu",
+          "side2": "ㄨ",
           "side2b": "烏鴉"
         }
       },
       {
         "id": "00003",
+        "type": "注音",
         "fields": {
           "side1": "ㄩ",
-          "side2": "yu",
+          "side2": "ㄩ",
           "side2b": "金魚"
         }
       },
       {
         "id": "00004",
+        "type": "注音",
         "fields": {
           "side1": "ㄚ",
-          "side2": "a",
+          "side2": "ㄚ",
           "side2b": "鯊魚"
         }
       },
       {
         "id": "00005",
+        "type": "注音",
         "fields": {
           "side1": "ㄛ",
-          "side2": "o",
+          "side2": "ㄛ",
           "side2b": "土撥鼠"
         }
       },
       {
         "id": "00006",
+        "type": "注音",
         "fields": {
           "side1": "ㄜ",
-          "side2": "e",
+          "side2": "ㄜ",
           "side2b": "天鵝"
         }
       },
       {
         "id": "00007",
+        "type": "注音",
         "fields": {
           "side1": "ㄝ",
-          "side2": "e",
+          "side2": "ㄝ",
           "side2b": "野狼"
         }
       },
       {
         "id": "00008",
+        "type": "注音",
         "fields": {
           "side1": "ㄞ",
-          "side2": "ai",
+          "side2": "ㄞ",
           "side2b": "海豚"
         }
       },
       {
         "id": "00009",
+        "type": "注音",
         "fields": {
           "side1": "ㄟ",
-          "side2": "ei",
+          "side2": "ㄟ",
           "side2b": "黑面琵鷺"
         }
       },
       {
         "id": "00010",
+        "type": "注音",
         "fields": {
           "side1": "ㄠ",
-          "side2": "ao",
+          "side2": "ㄠ",
           "side2b": "毛毛蟲"
         }
       },
       {
         "id": "00011",
+        "type": "注音",
         "fields": {
           "side1": "ㄡ",
-          "side2": "ou",
+          "side2": "ㄡ",
           "side2b": "海鷗"
         }
       },
       {
         "id": "00012",
+        "type": "注音",
         "fields": {
           "side1": "ㄢ",
-          "side2": "an",
+          "side2": "ㄢ",
           "side2b": "山羊"
         }
       },
       {
         "id": "00013",
+        "type": "注音",
         "fields": {
           "side1": "ㄣ",
-          "side2": "en",
+          "side2": "ㄣ",
           "side2b": "糞金龜"
         }
       },
       {
         "id": "00014",
+        "type": "注音",
         "fields": {
           "side1": "ㄤ",
-          "side2": "ang",
+          "side2": "ㄤ",
           "side2b": "螳螂"
         }
       },
       {
         "id": "00015",
+        "type": "注音",
         "fields": {
           "side1": "ㄥ",
-          "side2": "eng",
+          "side2": "ㄥ",
           "side2b": "蜜蜂"
         }
       },
       {
         "id": "00016",
+        "type": "注音",
         "fields": {
           "side1": "ㄦ",
-          "side2": "er",
+          "side2": "ㄦ",
           "side2b": "耳朵󠇡"
         }
       }
@@ -307,190 +344,212 @@
     "結合": [
       {
         "id": "00001",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄚ",
-          "side2": "ya",
+          "side2": "ㄧㄚ",
           "side2b": "鴨子"
         }
       },
       {
         "id": "00002",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄛ",
-          "side2": "yo",
+          "side2": "ㄧㄛ",
           "side2b": "哎唷"
         }
       },
       {
         "id": "00003",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄧㄝ",
-          "side2": "ye",
+          "side2": "ㄧㄝ",
           "side2b": "夜鶯"
         }
       },
       {
         "id": "00004",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄞ",
-          "side2": "yai",
+          "side2": "ㄧㄞ",
           "side2b": "山崖"
         }
       },
       {
         "id": "00005",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄠ",
-          "side2": "yao",
+          "side2": "ㄧㄠ",
           "side2b": "瓢蟲"
         }
       },
       {
         "id": "00006",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄡ",
-          "side2": "you",
+          "side2": "ㄧㄡ",
           "side2b": "魷魚"
         }
       },
       {
         "id": "00007",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄢ",
-          "side2": "yan",
+          "side2": "ㄧㄢ",
           "side2b": "綿羊"
         }
       },
       {
         "id": "00008",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄣ",
-          "side2": "yin",
+          "side2": "ㄧㄣ",
           "side2b": "蚯蚓"
         }
       },
       {
         "id": "00009",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄤ",
-          "side2": "yang",
+          "side2": "ㄧㄤ",
           "side2b": "大象"
         }
       },
       {
         "id": "00010",
+        "type": "注音",
         "fields": {
           "side1": "ㄧㄥ",
-          "side2": "ying",
+          "side2": "ㄧㄥ",
           "side2b": "鸚鵡"
         }
       },
       {
         "id": "00011",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄚ",
-          "side2": "wa",
+          "side2": "ㄨㄚ",
           "side2b": "蝸牛"
         }
       },
       {
         "id": "00012",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄛ",
-          "side2": "wo",
+          "side2": "ㄨㄛ",
           "side2b": "駱駝"
         }
       },
       {
         "id": "00013",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄞ",
-          "side2": "wai",
+          "side2": "ㄨㄞ",
           "side2b": "蟋蟀"
         }
       },
       {
         "id": "00014",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄟ",
-          "side2": "wei",
+          "side2": "ㄨㄟ",
           "side2b": "海龜"
         }
       },
       {
         "id": "00015",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄢ",
-          "side2": "wan",
+          "side2": "ㄨㄢ",
           "side2b": "浣熊"
         }
       },
       {
         "id": "00016",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄣ",
-          "side2": "wen",
+          "side2": "ㄨㄣ",
           "side2b": "蚊子"
         }
       },
       {
         "id": "00017",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄤ",
-          "side2": "wang",
+          "side2": "ㄨㄤ",
           "side2b": "黃牛"
         }
       },
       {
         "id": "00018",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄨㄥ",
-          "side2": "ong",
+          "side2": "ㄨㄥ",
           "side2b": "白頭翁"
         }
       },
       {
         "id": "00019",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄩㄝ",
-          "side2": "yue",
+          "side2": "ㄩㄝ",
           "side2b": "孔雀"
         }
       },
       {
         "id": "00020",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄩㄢ",
-          "side2": "yuan",
+          "side2": "ㄩㄢ",
           "side2b": "鴛鴦"
         }
       },
       {
         "id": "00021",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄩㄣ",
-          "side2": "yun",
+          "side2": "ㄩㄣ",
           "side2b": "馴鹿"
         }
       },
       {
         "id": "00022",
+        "type": "注音",
         "lang": "zh-CN",
         "fields": {
           "side1": "ㄩㄥ",
-          "side2": "yong",
+          "side2": "ㄩㄥ",
           "side2b": "黑熊"
         }
       }
@@ -511,7 +570,7 @@
         "fields": {
           "side1": "壹",
           "side2": "壹",
-          "side2b": "一圓"
+          "side2b": "一分"
         }
       },
       {
@@ -519,7 +578,7 @@
         "fields": {
           "side1": "貳",
           "side2": "貳",
-          "side2b": "二號"
+          "side2b": "二分"
         }
       },
       {
@@ -528,7 +587,7 @@
           "side1": "參",
           "side1p": "三",
           "side2": "參󠇣",
-          "side2b": "三圓"
+          "side2b": "三分"
         }
       },
       {
@@ -536,7 +595,7 @@
         "fields": {
           "side1": "肆",
           "side2": "肆",
-          "side2b": "四圓"
+          "side2b": "四分"
         }
       },
       {
@@ -544,7 +603,7 @@
         "fields": {
           "side1": "伍",
           "side2": "伍",
-          "side2b": "五圓"
+          "side2b": "五分"
         }
       },
       {
@@ -553,7 +612,7 @@
           "side1": "陸",
           "side1p": "六",
           "side2": "陸󠇡",
-          "side2b": "六圓"
+          "side2b": "六分"
         }
       },
       {
@@ -561,7 +620,7 @@
         "fields": {
           "side1": "柒",
           "side2": "柒",
-          "side2b": "七圓"
+          "side2b": "七分"
         }
       },
       {
@@ -569,7 +628,7 @@
         "fields": {
           "side1": "捌",
           "side2": "捌",
-          "side2b": "八圓"
+          "side2b": "八分"
         }
       },
       {
@@ -577,7 +636,7 @@
         "fields": {
           "side1": "玖",
           "side2": "玖",
-          "side2b": "九圓"
+          "side2b": "九分"
         }
       },
       {
@@ -585,7 +644,7 @@
         "fields": {
           "side1": "拾",
           "side2": "拾",
-          "side2b": "十圓"
+          "side2b": "十分"
         }
       },
       {
@@ -593,7 +652,7 @@
         "fields": {
           "side1": "佰",
           "side2": "佰",
-          "side2b": "百, 100"
+          "side2b": "百, 100分"
         }
       },
       {
@@ -601,7 +660,7 @@
         "fields": {
           "side1": "仟",
           "side2": "仟",
-          "side2b": "千, 1000"
+          "side2b": "千, 1000分"
         }
       },
       {
@@ -609,7 +668,7 @@
         "fields": {
           "side1": "萬",
           "side2": "萬",
-          "side2b": "10,000"
+          "side2b": "10,000分"
         }
       },
       {
@@ -617,7 +676,7 @@
         "fields": {
           "side1": "拾萬",
           "side2": "拾萬",
-          "side2b": "100,000"
+          "side2b": "100,000分"
         }
       },
       {
@@ -625,7 +684,7 @@
         "fields": {
           "side1": "佰萬",
           "side2": "佰萬",
-          "side2b": "1,000,000"
+          "side2b": "1,000,000分"
         }
       },
       {
@@ -633,7 +692,7 @@
         "fields": {
           "side1": "億",
           "side2": "億",
-          "side2b": "100,000,000"
+          "side2b": "100,000,000分"
         }
       },
       {
@@ -652,7 +711,7 @@
         "fields": {
           "side1": "甲",
           "side2": "甲",
-          "side2b": "一"
+          "side2b": "第一名"
         }
       },
       {
@@ -661,7 +720,7 @@
         "fields": {
           "side1": "乙",
           "side2": "乙",
-          "side2b": "二"
+          "side2b": "第二名"
         }
       },
       {
@@ -670,7 +729,7 @@
         "fields": {
           "side1": "丙",
           "side2": "丙",
-          "side2b": "三"
+          "side2b": "第三名"
         }
       },
       {
@@ -679,7 +738,7 @@
         "fields": {
           "side1": "丁",
           "side2": "丁",
-          "side2b": "四"
+          "side2b": "第四名"
         }
       },
       {
@@ -688,7 +747,7 @@
         "fields": {
           "side1": "戊",
           "side2": "戊",
-          "side2b": "五"
+          "side2b": "第五名"
         }
       },
       {
@@ -697,7 +756,7 @@
         "fields": {
           "side1": "己",
           "side2": "己",
-          "side2b": "六"
+          "side2b": "第六名"
         }
       },
       {
@@ -706,7 +765,7 @@
         "fields": {
           "side1": "庚",
           "side2": "庚",
-          "side2b": "七"
+          "side2b": "第七名"
         }
       },
       {
@@ -715,7 +774,7 @@
         "fields": {
           "side1": "辛",
           "side2": "辛",
-          "side2b": "八"
+          "side2b": "第八名"
         }
       },
       {
@@ -724,7 +783,7 @@
         "fields": {
           "side1": "壬",
           "side2": "壬",
-          "side2b": "九"
+          "side2b": "第九名"
         }
       },
       {
@@ -733,7 +792,7 @@
         "fields": {
           "side1": "癸",
           "side2": "癸",
-          "side2b": "十"
+          "side2b": "第十名"
         }
       }
     ]
@@ -5073,7 +5132,7 @@
         "fields": {
           "side1": "以",
           "side2": "以",
-          "side2b": "以前"
+          "side2b": "以後"
         }
       },
       {
@@ -5081,7 +5140,7 @@
         "fields": {
           "side1": "為",
           "side2": "為",
-          "side2b": "成為"
+          "side2b": "以為"
         }
       },
       {
@@ -5097,7 +5156,7 @@
         "fields": {
           "side1": "用",
           "side2": "用",
-          "side2b": "用力"
+          "side2b": "用心"
         }
       },
       {
@@ -5105,7 +5164,7 @@
         "fields": {
           "side1": "力",
           "side2": "力",
-          "side2b": "力氣"
+          "side2b": "力量"
         }
       },
       {
@@ -5138,7 +5197,7 @@
         "fields": {
           "side1": "聲",
           "side2": "聲",
-          "side2b": "聲明"
+          "side2b": "歌聲"
         }
       },
       {
@@ -5146,7 +5205,7 @@
         "fields": {
           "side1": "矮",
           "side2": "矮",
-          "side2b": "高矮"
+          "side2b": "矮小"
         }
       }
     ],
@@ -6925,13 +6984,13 @@
     ]
   },
   "生活": {
-    "十二生肖": [
+    "生肖": [
       {
         "id": "00001",
         "fields": {
           "side1": "鼠",
           "side2": "鼠",
-          "side2b": "膽小如鼠"
+          "side2b": "属鼠"
         }
       },
       {
@@ -6939,7 +6998,7 @@
         "fields": {
           "side1": "牛",
           "side2": "牛",
-          "side2b": "九牛一毛"
+          "side2b": "属牛"
         }
       },
       {
@@ -6947,7 +7006,7 @@
         "fields": {
           "side1": "虎",
           "side2": "虎",
-          "side2b": "騎虎難下"
+          "side2b": "属虎"
         }
       },
       {
@@ -6955,7 +7014,7 @@
         "fields": {
           "side1": "兔",
           "side2": "兔",
-          "side2b": "守株待兔"
+          "side2b": "属兔"
         }
       },
       {
@@ -6963,7 +7022,7 @@
         "fields": {
           "side1": "龍",
           "side2": "龍",
-          "side2b": "生龍活虎"
+          "side2b": "属龍"
         }
       },
       {
@@ -6971,7 +7030,7 @@
         "fields": {
           "side1": "蛇",
           "side2": "蛇",
-          "side2b": "引蛇出洞"
+          "side2b": "属蛇"
         }
       },
       {
@@ -6979,7 +7038,7 @@
         "fields": {
           "side1": "馬",
           "side2": "馬",
-          "side2b": "駟馬難追"
+          "side2b": "属馬"
         }
       },
       {
@@ -6987,7 +7046,7 @@
         "fields": {
           "side1": "羊",
           "side2": "羊",
-          "side2b": "羊入虎口"
+          "side2b": "属羊"
         }
       },
       {
@@ -6995,7 +7054,7 @@
         "fields": {
           "side1": "猴",
           "side2": "猴",
-          "side2b": "猴年馬月"
+          "side2b": "属猴"
         }
       },
       {
@@ -7003,7 +7062,7 @@
         "fields": {
           "side1": "雞",
           "side2": "雞",
-          "side2b": "土雞變鳳"
+          "side2b": "属雞"
         }
       },
       {
@@ -7011,7 +7070,7 @@
         "fields": {
           "side1": "狗",
           "side2": "狗",
-          "side2b": "人模狗樣"
+          "side2b": "属狗"
         }
       },
       {
@@ -7019,109 +7078,11 @@
         "fields": {
           "side1": "豬",
           "side2": "豬",
-          "side2b": "豬狗不如"
+          "side2b": "属豬"
         }
       }
     ],
-    "十二地支": [
-      {
-        "id": "00001",
-        "fields": {
-          "side1": "子",
-          "side2": "子",
-          "side2b": "23時至1時"
-        }
-      },
-      {
-        "id": "00002",
-        "fields": {
-          "side1": "醜",
-          "side2": "醜",
-          "side2b": "1時至3時"
-        }
-      },
-      {
-        "id": "00003",
-        "fields": {
-          "side1": "寅",
-          "side2": "寅",
-          "side2b": "3時至5時"
-        }
-      },
-      {
-        "id": "00004",
-        "fields": {
-          "side1": "卯",
-          "side2": "卯",
-          "side2b": "5時至7時"
-        }
-      },
-      {
-        "id": "00005",
-        "fields": {
-          "side1": "辰",
-          "side2": "辰",
-          "side2b": "7時至9時"
-        }
-      },
-      {
-        "id": "00006",
-        "fields": {
-          "side1": "巳",
-          "side2": "巳",
-          "side2b": "9時至11時"
-        }
-      },
-      {
-        "id": "00007",
-        "fields": {
-          "side1": "午",
-          "side2": "午",
-          "side2b": "11時至13時"
-        }
-      },
-      {
-        "id": "00008",
-        "fields": {
-          "side1": "未",
-          "side2": "未",
-          "side2b": "13時至15時"
-        }
-      },
-      {
-        "id": "00009",
-        "fields": {
-          "side1": "申",
-          "side2": "申",
-          "side2b": "15時至17時"
-        }
-      },
-      {
-        "id": "00010",
-        "fields": {
-          "side1": "酉",
-          "side2": "酉",
-          "side2b": "17時至19時"
-        }
-      },
-      {
-        "id": "00011",
-        "fields": {
-          "side1": "戌",
-          "side2": "戌",
-          "side2b": "19時至21時"
-        }
-      },
-      {
-        "id": "00012",
-        "fields": {
-          "side1": "亥",
-          "side2": "亥",
-          "side2b": "21時至23時"
-        }
-      }
-    ],
-    "國定假日": [
+    "假日": [
       {
         "id": "00001",
         "fields": {
@@ -7890,176 +7851,6 @@
           "side1": "扇",
           "side2": "扇",
           "side2b": "一扇窗"
-        }
-      }
-    ],
-    "數學": [
-      {
-        "id": "00001",
-        "fields": {
-          "side1": "表",
-          "side2": "表",
-          "side2b": "表示"
-        }
-      },
-      {
-        "id": "00002",
-        "fields": {
-          "side1": "示",
-          "side2": "示",
-          "side2b": "表示"
-        }
-      },
-      {
-        "id": "00003",
-        "fields": {
-          "side1": "直",
-          "side2": "直",
-          "side2b": "直線"
-        }
-      },
-      {
-        "id": "00004",
-        "fields": {
-          "side1": "線",
-          "side2": "線",
-          "side2b": "線條"
-        }
-      },
-      {
-        "id": "00005",
-        "fields": {
-          "side1": "曲",
-          "side2": "曲",
-          "side2b": "彎曲"
-        }
-      },
-      {
-        "id": "00006",
-        "fields": {
-          "side1": "排",
-          "side2": "排",
-          "side2b": "排隊"
-        }
-      },
-      {
-        "id": "00007",
-        "fields": {
-          "side1": "合",
-          "side2": "合",
-          "side2b": "合作"
-        }
-      },
-      {
-        "id": "00008",
-        "fields": {
-          "side1": "方",
-          "side2": "方",
-          "side2b": "四方形"
-        }
-      },
-      {
-        "id": "00009",
-        "fields": {
-          "side1": "盒",
-          "side2": "盒",
-          "side2b": "鉛筆盒"
-        }
-      },
-      {
-        "id": "00010",
-        "fields": {
-          "side1": "圓",
-          "side2": "圓",
-          "side2b": "圓形"
-        }
-      },
-      {
-        "id": "00011",
-        "fields": {
-          "side1": "片",
-          "side2": "片",
-          "side2b": "卡片"
-        }
-      },
-      {
-        "id": "00012",
-        "fields": {
-          "side1": "根",
-          "side2": "根",
-          "side2b": "根本"
-        }
-      },
-      {
-        "id": "00013",
-        "fields": {
-          "side1": "枝",
-          "side2": "枝",
-          "side2b": "一枝"
-        }
-      },
-      {
-        "id": "00014",
-        "fields": {
-          "side1": "前",
-          "side2": "前",
-          "side2b": "以前"
-        }
-      },
-      {
-        "id": "00015",
-        "fields": {
-          "side1": "加",
-          "side2": "加",
-          "side2b": "加法"
-        }
-      },
-      {
-        "id": "00016",
-        "fields": {
-          "side1": "法",
-          "side2": "法",
-          "side2b": "減法"
-        }
-      },
-      {
-        "id": "00017",
-        "fields": {
-          "side1": "共",
-          "side2": "共",
-          "side2b": "共同"
-        }
-      },
-      {
-        "id": "00018",
-        "fields": {
-          "side1": "指",
-          "side2": "指",
-          "side2b": "指是"
-        }
-      },
-      {
-        "id": "00019",
-        "fields": {
-          "side1": "針",
-          "side2": "針",
-          "side2b": "指針"
-        }
-      },
-      {
-        "id": "00020",
-        "fields": {
-          "side1": "時",
-          "side2": "時",
-          "side2b": "時後"
-        }
-      },
-      {
-        "id": "00021",
-        "fields": {
-          "side1": "間",
-          "side2": "間",
-          "side2b": "時間"
         }
       }
     ]
