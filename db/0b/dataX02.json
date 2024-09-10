@@ -8,7 +8,7 @@
       "fields": {
         "side1": "甲",
         "side2": "甲",
-        "side2b": "一"
+        "side2b": "第一名"
       }
     },
     {
@@ -17,7 +17,7 @@
       "fields": {
         "side1": "乙",
         "side2": "乙",
-        "side2b": "二"
+        "side2b": "第二名"
       }
     },
     {
@@ -26,7 +26,7 @@
       "fields": {
         "side1": "丙",
         "side2": "丙",
-        "side2b": "三"
+        "side2b": "第三名"
       }
     },
     {
@@ -35,7 +35,7 @@
       "fields": {
         "side1": "丁",
         "side2": "丁",
-        "side2b": "四"
+        "side2b": "第四名"
       }
     },
     {
@@ -44,7 +44,7 @@
       "fields": {
         "side1": "戊",
         "side2": "戊",
-        "side2b": "五"
+        "side2b": "第五名"
       }
     },
     {
@@ -53,7 +53,7 @@
       "fields": {
         "side1": "己",
         "side2": "己",
-        "side2b": "六"
+        "side2b": "第六名"
       }
     },
     {
@@ -62,7 +62,7 @@
       "fields": {
         "side1": "庚",
         "side2": "庚",
-        "side2b": "七"
+        "side2b": "第七名"
       }
     },
     {
@@ -71,7 +71,7 @@
       "fields": {
         "side1": "辛",
         "side2": "辛",
-        "side2b": "八"
+        "side2b": "第八名"
       }
     },
     {
@@ -80,7 +80,7 @@
       "fields": {
         "side1": "壬",
         "side2": "壬",
-        "side2b": "九"
+        "side2b": "第九名"
       }
     },
     {
@@ -89,7 +89,7 @@
       "fields": {
         "side1": "癸",
         "side2": "癸",
-        "side2b": "十"
+        "side2b": "第十名"
       }
     }
   ]
