@@ -21,7 +21,7 @@ jq -r '
 
   
   def combined_string:
-    top_level_keys + next_level_keys + field_values + "永星光學院教會練習國子秀朗國小補校-南一書局創作者劉喆";
+    top_level_keys + next_level_keys + field_values + "舊新約永星光學院教會練習國子秀朗國小補校-南一書局創作者劉喆";
 
   combined_string | split("") | sort | unique | join("")
 ' data.json > text.txt
