@@ -7,7 +7,7 @@
       "fields": {
         "side1": "木",
         "side2": "木",
-        "side2b": "木頭"
+        "side2b": "樹木"
       }
     },
     {
@@ -15,7 +15,7 @@
       "fields": {
         "side1": "偶",
         "side2": "偶",
-        "side2b": "偶戲"
+        "side2b": "偶像"
       }
     },
     {
@@ -23,7 +23,7 @@
       "fields": {
         "side1": "鄉",
         "side2": "鄉",
-        "side2b": "家鄉"
+        "side2b": "鄉村"
       }
     },
     {
@@ -31,16 +31,15 @@
       "fields": {
         "side1": "南",
         "side2": "南",
-        "side2b": "越南"
+        "side2b": "南方"
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "署",
-        "side2": "署",
-        "side2p" : "署價",
-        "side2b": "署假"
+        "side1": "暑",
+        "side2": "暑",
+        "side2b": "中暑"
       }
     },
     {
@@ -48,7 +47,7 @@
       "fields": {
         "side1": "假",
         "side2": "假",
-        "side2b": "假期"
+        "side2b": "放假"
       }
     },
     {
@@ -64,7 +63,7 @@
       "fields": {
         "side1": "池",
         "side2": "池",
-        "side2b": "水池"
+        "side2b": "游泳池"
       }
     },
     {
@@ -72,7 +71,7 @@
       "fields": {
         "side1": "牛",
         "side2": "牛",
-        "side2b": "牛肉"
+        "side2b": "水牛"
       }
     },
     {
@@ -88,7 +87,7 @@
       "fields": {
         "side1": "邊",
         "side2": "邊",
-        "side2b": "左邊"
+        "side2b": "窗邊"
       }
     },
     {
@@ -96,7 +95,7 @@
       "fields": {
         "side1": "演",
         "side2": "演",
-        "side2b": "演戲"
+        "side2b": "演員"
       }
     },
     {
@@ -104,7 +103,7 @@
       "fields": {
         "side1": "叫",
         "side2": "叫",
-        "side2b": "喊叫"
+        "side2b": "尖叫"
       }
     },
     {
@@ -112,7 +111,7 @@
       "fields": {
         "side1": "原",
         "side2": "原",
-        "side2b": "原來"
+        "side2b": "原因"
       }
     },
     {
