@@ -7,7 +7,7 @@
       "fields": {
         "side1": "鎮",
         "side2": "鎮",
-        "side2b": "鎮區"
+        "side2b": "城鎮"
       }
     },
     {
@@ -47,7 +47,7 @@
       "fields": {
         "side1": "排",
         "side2": "排",
-        "side2b": "排球"
+        "side2b": "排隊"
       }
     },
     {
@@ -55,7 +55,7 @@
       "fields": {
         "side1": "遠",
         "side2": "遠",
-        "side2b": "遠方"
+        "side2b": "遙遠"
       }
     },
     {
@@ -63,7 +63,7 @@
       "fields": {
         "side1": "籃",
         "side2": "籃",
-        "side2b": "籃球"
+        "side2b": "籃框"
       }
     },
     {
