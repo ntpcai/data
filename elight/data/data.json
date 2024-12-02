@@ -6,9 +6,9 @@
         "lang": "en",
         "type": "vocab",
         "fields": {
-          "side1": "painted",
-          "side2": "畫了",
-          "side2b": "I painted the fence"
+          "side1": "frequently",
+          "side2": "常常",
+          "side2b": "often, usually"
         }
       },
       {
@@ -16,9 +16,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "picture",
-          "side2": "圖片",
-          "side2b": "what a pretty picture"
+          "side1": "personally",
+          "side2": "親身",
+          "side2b": "by oneself"
         }
       },
       {
@@ -26,9 +26,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "happen",
-          "side2": "發生",
-          "side2b": "Life happens"
+          "side1": "scientist",
+          "side2": "科學家",
+          "side2b": "researcher"
         }
       },    
       {
@@ -36,9 +36,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "bored",
-          "side2": "無聊",
-          "side2b": "are you bored yet"
+          "side1": "author",
+          "side2": "作者",
+          "side2b": "writer, composer"
         }
       },    
       {
@@ -46,9 +46,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "hard",
-          "side2": "難",
-          "side2b": "our test is hard"
+          "side1": "curious",
+          "side2": "好奇",
+          "side2b": "interested"
         }
       },    
       {
@@ -56,9 +56,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "usually",
-          "side2": "平常",
-          "side2b": "we usually drink tea"
+          "side1": "biology",
+          "side2": "生物學",
+          "side2b": "life science"
         }
       },  
       {
@@ -66,9 +66,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "dream",
-          "side2": "夢想",
-          "side2b": "I have a dream"
+          "side1": "recently",
+          "side2": "最近",
+          "side2b": "not long ago"
         }
       }, 
       {
@@ -76,9 +76,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "practice",
-          "side2": "練習",
-          "side2b": "I like to practice"
+          "side1": "courageous",
+          "side2": "勇敢",
+          "side2b": "brave, fearless"
         }
       },  
       {
@@ -86,9 +86,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "indigo",
-          "side2": "靛色",
-          "side2b": "indigo colored jacket"
+          "side1": "energetic",
+          "side2": "精力充沛",
+          "side2b": "active, lively"
         }
       },
       {
@@ -96,9 +96,9 @@
         "type": "vocab",
         "lang": "en",
         "fields": {
-          "side1": "engineering",
-          "side2": "工程",
-          "side2b": "I studied engineering"
+          "side1": "inspiring",
+          "side2": "鼓舞的",
+          "side2b": "encouraging"
         }
       }
     ]
