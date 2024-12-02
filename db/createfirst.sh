@@ -22,13 +22,13 @@ jq -r '
 
   
   def combined_string:
-    top_level_keys + next_level_keys + field_values + "練習國子秀朗國小補校-南一書局創作者劉喆";
+    top_level_keys + next_level_keys + field_values + "練習國子秀朗國小補校-共南一書局創作者劉喆";
 
   combined_string | split("") | sort | unique | join("")
 ' data.json > text.txt
 
 #truncate --size -1 tmp_text.txt
-#echo "練習國子秀朗國小補校-南一書局創作者劉喆" >> tmp_text.txt
+#echo "練習國子秀朗國小補校-共南一書局創作者劉喆" >> tmp_text.txt
 #jq -Rr 'split("") | unique | sort | join("")' tmp_text.txt > text.txt
 
 glyphhanger text.txt > unicode.txt
