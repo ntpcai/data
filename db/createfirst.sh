@@ -1,5 +1,5 @@
 
-jq -s "." 0a/*.json 0b/*.json 1a/*.json 1b/*.json 2a/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
+jq -s "." 0a/*.json 0b/*.json 1a/*.json 1b/*.json 2a/*.json 2b/*.json bushou/*.json life/*.json | jq 'reduce .[] as $item ({}; .[$item.set] += {($item.subset): $item.data})' > data.json
 
 jq -r '
   def top_level_keys:
