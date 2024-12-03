@@ -1,6 +1,312 @@
 {
-  "英文": {
+  "英語": {
+    "弟一週": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Accountant",
+          "side2": "會計師",
+          "side2b": "Accountant"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Fitness Instructor",
+          "side2": "健身教練",
+          "side2b": "Fitness Instructor"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Photographer",
+          "side2": "攝影師",
+          "side2b": "Photographer"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Pilot",
+          "side2": "飛行員",
+          "side2b": "Pilot"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Counselor",
+          "side2": "輔導員",
+          "side2b": "Counselor"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Architect",
+          "side2": "建築師",
+          "side2b": "Architect"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Scientist",
+          "side2": "科學家",
+          "side2b": "Scientist"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Plumber",
+          "side2": "水管工",
+          "side2b": "Plumber"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Firefighter",
+          "side2": "消防員",
+          "side2b": "Firefighter"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Dentist",
+          "side2": "牙醫",
+          "side2b": "Dentist"
+        }
+      }
+    ],
+    "弟二週": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Veterinarian",
+          "side2": "獸醫",
+          "side2b": "Veterinarian"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Lifeguard",
+          "side2": "救生員",
+          "side2b": "Lifeguard"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Author",
+          "side2": "作者",
+          "side2b": "Author"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Mechanic",
+          "side2": "機械師",
+          "side2b": "Mechanic"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Engineer",
+          "side2": "工程師",
+          "side2b": "Engineer"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Policeman",
+          "side2": "警察",
+          "side2b": "Policeman"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Illustrator",
+          "side2": "插畫家",
+          "side2b": "Illustrator"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Pharmacist",
+          "side2": "藥劑師",
+          "side2b": "Pharmacist"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Chef",
+          "side2": "廚師",
+          "side2b": "Chef"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Chemist",
+          "side2": "化學家",
+          "side2b": "Chemist"
+        }
+      }
+    ],
     "弟三週": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Biologist",
+          "side2": "生物學家",
+          "side2b": "Biologist"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Astronomer",
+          "side2": "天文學家",
+          "side2b": "Astronomer"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Teacher",
+          "side2": "老師",
+          "side2b": "Teacher"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Nurse",
+          "side2": "護士",
+          "side2b": "Nurse"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Musician",
+          "side2": "音樂家",
+          "side2b": "Musician"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Librarian",
+          "side2": "圖書館員",
+          "side2b": "Librarian"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Landscaper",
+          "side2": "園林設計師",
+          "side2b": "Landscaper"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Farmer",
+          "side2": "農民",
+          "side2b": "Farmer"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Reporter",
+          "side2": "記者",
+          "side2b": "Reporter"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Doctor",
+          "side2": "醫生",
+          "side2b": "Doctor"
+        }
+      }
+    ],
+    "弟四週": [
       {
         "id": "00001",
         "lang": "en",
@@ -101,8 +407,48 @@
           "side2b": "encouraging"
         }
       }
+    ]   
+  },
+  "德語": {
+    "弟一週": [
+      {
+        "id": "00001",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "guten morgen",
+          "side2": "早安",
+          "side2b": "guten"
+        }
+      }
     ]
   },
-  "舊約": [],
-  "新約": []
+  "西班牙語": {
+    "弟一週": [
+      {
+        "id": "00001",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "buenas días",
+          "side2": "早安",
+          "side2b": "buenes días"
+        }
+      }
+    ]
+  },  
+  "日語": {
+    "弟一週": [
+      {
+        "id": "00001",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "お早う",
+          "side2": "早安",
+          "side2b": "おはよう"
+        }
+      }
+    ]
+  }
 }
