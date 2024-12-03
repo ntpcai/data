@@ -306,7 +306,7 @@
         }
       }
     ],
-    "弟一週": [
+    "弟四週": [
       {
         "id": "00001",
         "lang": "en",
@@ -418,7 +418,17 @@
         "fields": {
           "side1": "guten morgen",
           "side2": "早安",
-          "side2b": "guten"
+          "side2b": "guten morgen"
+        }
+      },
+      {
+        "id": "00001",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "guten abend",
+          "side2": "晚安",
+          "side2b": "guten abend"
         }
       }
     ]
@@ -432,7 +442,17 @@
         "fields": {
           "side1": "buenas días",
           "side2": "早安",
-          "side2b": "buenes días"
+          "side2b": "buenas días"
+        }
+      },
+      {
+        "id": "00001",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "buenas noches",
+          "side2": "晚安",
+          "side2b": "buenas noches"
         }
       }
     ]
@@ -446,7 +466,17 @@
         "fields": {
           "side1": "お早う",
           "side2": "早安",
-          "side2b": "おはよう"
+          "side2b": "お早う"
+        }
+      },
+      {
+        "id": "00001",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "こんばんは",
+          "side2": "晚安",
+          "side2b": "こんばんは"
         }
       }
     ]
