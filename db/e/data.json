@@ -1,6 +1,6 @@
 {
   "英語": {
-    "弟一週": [
+    "第一課": [
       {
         "id": "00001",
         "lang": "en",
@@ -102,7 +102,7 @@
         }
       }
     ],
-    "弟二週": [
+    "第二課": [
       {
         "id": "00001",
         "lang": "en",
@@ -204,7 +204,7 @@
         }
       }
     ],
-    "弟三週": [
+    "第三課": [
       {
         "id": "00001",
         "lang": "en",
@@ -305,112 +305,10 @@
           "side2b": "Doctor"
         }
       }
-    ],
-    "弟四週": [
-      {
-        "id": "00001",
-        "lang": "en",
-        "type": "vocab",
-        "fields": {
-          "side1": "frequently",
-          "side2": "常常",
-          "side2b": "often, usually"
-        }
-      },
-      {
-        "id": "00002",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "personally",
-          "side2": "親身",
-          "side2b": "by oneself"
-        }
-      },
-      {
-        "id": "00003",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "scientist",
-          "side2": "科學家",
-          "side2b": "researcher"
-        }
-      },    
-      {
-        "id": "00004",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "author",
-          "side2": "作者",
-          "side2b": "writer, composer"
-        }
-      },    
-      {
-        "id": "00005",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "curious",
-          "side2": "好奇",
-          "side2b": "interested"
-        }
-      },    
-      {
-        "id": "00006",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "biology",
-          "side2": "生物學",
-          "side2b": "life science"
-        }
-      },  
-      {
-        "id": "00007",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "recently",
-          "side2": "最近",
-          "side2b": "not long ago"
-        }
-      }, 
-      {
-        "id": "00008",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "courageous",
-          "side2": "勇敢",
-          "side2b": "brave, fearless"
-        }
-      },  
-      {
-        "id": "00009",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "energetic",
-          "side2": "精力充沛",
-          "side2b": "active, lively"
-        }
-      },
-      {
-        "id": "00010",
-        "type": "vocab",
-        "lang": "en",
-        "fields": {
-          "side1": "inspiring",
-          "side2": "鼓舞的",
-          "side2b": "encouraging"
-        }
-      }
-    ]   
+    ]  
   },
   "德語": {
-    "弟一週": [
+    "第一週": [
       {
         "id": "00001",
         "lang": "de-DE",
@@ -422,7 +320,7 @@
         }
       },
       {
-        "id": "00001",
+        "id": "00002",
         "lang": "de-DE",
         "type": "vocab",
         "fields": {
@@ -430,11 +328,21 @@
           "side2": "晚安",
           "side2b": "guten abend"
         }
+      },
+      {
+        "id": "00003",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "entschuldigung",
+          "side2": "對不起",
+          "side2b": "entschuldigung"
+        }
       }
     ]
   },
   "西班牙語": {
-    "弟一週": [
+    "第一週": [
       {
         "id": "00001",
         "lang": "es-ES",
@@ -446,7 +354,7 @@
         }
       },
       {
-        "id": "00001",
+        "id": "00002",
         "lang": "es-ES",
         "type": "vocab",
         "fields": {
@@ -454,11 +362,21 @@
           "side2": "晚安",
           "side2b": "buenas noches"
         }
+      },
+      {
+        "id": "00003",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "lo siento",
+          "side2": "對不起",
+          "side2b": "lo siento"
+        }
       }
     ]
   },  
   "日語": {
-    "弟一週": [
+    "第一週": [
       {
         "id": "00001",
         "lang": "ja-JP",
@@ -470,7 +388,7 @@
         }
       },
       {
-        "id": "00001",
+        "id": "00002",
         "lang": "ja-JP",
         "type": "vocab",
         "fields": {
@@ -478,7 +396,18 @@
           "side2": "晚安",
           "side2b": "こんばんは"
         }
+      },
+      {
+        "id": "00003",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "ごめん",
+          "side2": "對不起",
+          "side2b": "ごめん"
+        }
       }
+
     ]
   }
 }
