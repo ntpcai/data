@@ -305,7 +305,169 @@
           "side2b": "Doctor"
         }
       }
-    ]  
+    ],
+    "第五課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Advent",
+          "side2": "預備期",
+          "side2b": "Advent"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Christmas",
+          "side2": "聖誕節",
+          "side2b": "Christmas"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Nativity",
+          "side2": "耶穌誕生",
+          "side2b": "Nativity"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Manger",
+          "side2": "馬槽",
+          "side2b": "Manger"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Carols",
+          "side2": "聖誕歌曲",
+          "side2b": "Carols"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Noel",
+          "side2": "聖誕",
+          "side2b": "Noel"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Reindeer",
+          "side2": "馴鹿",
+          "side2b": "Reindeer"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Salvation",
+          "side2": "救贖",
+          "side2b": "Salvation"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Atone",
+          "side2": "贖回",
+          "side2b": "Atone"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Prophecy",
+          "side2": "預言",
+          "side2b": "Prophecy"
+        }
+      },
+      {
+        "id": "00011",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Redemption",
+          "side2": "贖罪",
+          "side2b": "Redemption"
+        }
+      },
+      {
+        "id": "00012",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Covenant",
+          "side2": "約定",
+          "side2b": "Covenant"
+        }
+      },
+      {
+        "id": "00013",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Immanuel",
+          "side2": "以馬內利",
+          "side2b": "Immanuel"
+        }
+      },
+      {
+        "id": "00014",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Trinity",
+          "side2": "三位一體",
+          "side2b": "Trinity"
+        }
+      },
+      {
+        "id": "00015",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Epiphany",
+          "side2": "頓悟",
+          "side2b": "Epiphany"
+        }
+      },
+      {
+        "id": "00016",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Poinsettia",
+          "side2": "聖誕紅",
+          "side2b": "Poinsettia"
+        }
+      }
+    ] 
   },
   "德語": {
     "第一週": [
