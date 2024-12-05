@@ -306,13 +306,14 @@
         }
       }
     ],
-    "第五課": [
+    "第四課": [
       {
         "id": "00001",
         "lang": "en",
         "type": "vocab",
         "fields": {
           "side1": "Advent",
+          "side1p": "ad-vent",
           "side2": "預備期",
           "side2b": "Advent"
         }
