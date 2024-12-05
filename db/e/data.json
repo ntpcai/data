@@ -468,7 +468,19 @@
           "side2b": "Poinsettia"
         }
       }
-    ] 
+    ],
+    "聖誕節": [
+      { 
+        "id": "00001",
+        "lang": "rudolph.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Rudolph",
+          "side2": "魯道夫",
+          "side2b": "Red Nose Reindeer"
+        }
+      }
+    ]
   },
   "德語": {
     "第一週": [
