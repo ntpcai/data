@@ -469,6 +469,108 @@
         }
       }
     ],
+    "第五課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "snowman",
+          "side2": "雪人",
+          "side2b": "Frosty"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "jolly",
+          "side2": "快樂的",
+          "side2b": "joyful"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "corncob pipe",
+          "side2": "玉米棒煙斗",
+          "side2b": "rustic pipe"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "fairy tale",
+          "side2": "童話",
+          "side2b": "fable"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "tinsel",
+          "side2": "閃光裝飾",
+          "side2b": "glitter"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "stocking",
+          "side2": "聖誕襪",
+          "side2b": "sock"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "sleigh",
+          "side2": "雪橇",
+          "side2b": "sled"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "animated",
+          "side2": "活生生的",
+          "side2b": "lifelike"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "frolic",
+          "side2": "快樂地玩耍",
+          "side2b": "romp"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "radiant",
+          "side2": "輝煌的",
+          "side2b": "shiny"
+        }
+      }
+    ],
     "聖誕節": [
       { 
         "id": "00001",
@@ -479,7 +581,18 @@
           "side2": "魯道夫",
           "side2b": "Red Nose Reindeer"
         }
+      },
+      { 
+        "id": "00002",
+        "lang": "frosty.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Frosty",
+          "side2": "魯道夫",
+          "side2b": "The Snowman"
+        }
       }
+
     ]
   },
   "德語": {
