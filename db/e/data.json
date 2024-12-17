@@ -571,6 +571,108 @@
         }
       }
     ],
+    "第六課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "festivity",
+          "side2": "節慶",
+          "side2b": "celebration"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "merriment",
+          "side2": "歡樂",
+          "side2b": "joy"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "jubilation",
+          "side2": "慶祝",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "revelry",
+          "side2": "狂歡",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "glee",
+          "side2": "快樂",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "exhilaration",
+          "side2": "興奮",
+          "side2b": "joy"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "euphoria",
+          "side2": "愉快",
+          "side2b": "joy"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "bliss",
+          "side2": "極樂",
+          "side2b": "joy"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "harmony",
+          "side2": "和諧",
+          "side2b": "peace"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "mirth",
+          "side2": "歡笑",
+          "side2b": "joy"
+        }
+      }
+    ],
     "聖誕節": [
       { 
         "id": "00001",
@@ -588,11 +690,20 @@
         "type": "vocab",
         "fields": {
           "side1": "Frosty",
-          "side2": "魯道夫",
+          "side2": "雪人",
           "side2b": "The Snowman"
         }
+      },
+      { 
+        "id": "00003",
+        "lang": "twelvedays.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "12 Days",
+          "side2": "聖誕節的十二天",
+          "side2b": "12 Days of Xmas"
+        }
       }
-
     ]
   },
   "德語": {
