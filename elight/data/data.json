@@ -703,6 +703,26 @@
           "side2": "聖誕節的十二天",
           "side2b": "12 Days of Xmas"
         }
+      },
+      { 
+        "id": "00004",
+        "lang": "wishyou.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Wish You",
+          "side2": "聖誕節快樂",
+          "side2b": "A Merry Christmas"
+        }
+      },
+      { 
+        "id": "00005",
+        "lang": "grinch.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Mr. Grinch",
+          "side2": "鬼靈精",
+          "side2b": "The Grinch"
+        }
       }
     ]
   },
