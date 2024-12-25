@@ -8,7 +8,8 @@
         "side1": "地",
         "side1p": "第",
         "side2": "地",
-        "side2b": "地址"
+        "side2b": "地址",
+        "strokes": 6
       }
     },
     {
@@ -16,7 +17,8 @@
       "fields": {
         "side1": "化",
         "side2": "化",
-        "side2b": "變化"
+        "side2b": "變化",
+        "strokes": 4
       }
     },
     {
@@ -24,7 +26,8 @@
       "fields": {
         "side1": "趣",
         "side2": "趣",
-        "side2b": "有趣"
+        "side2b": "有趣",
+        "strokes": 15
       }
     },
     {
@@ -32,7 +35,8 @@
       "fields": {
         "side1": "線",
         "side2": "線",
-        "side2b": "電線"
+        "side2b": "電線",
+        "strokes": 15
       }
     },
     {
@@ -40,7 +44,8 @@
       "fields": {
         "side1": "風",
         "side2": "風",
-        "side2b": "風景"
+        "side2b": "風景",
+        "strokes": 9
       }
     },
     {
@@ -48,7 +53,8 @@
       "fields": {
         "side1": "箏",
         "side2": "箏",
-        "side2b": "風箏"
+        "side2b": "風箏",
+        "strokes": 14
       }
     },
     {
@@ -56,7 +62,8 @@
       "fields": {
         "side1": "升",
         "side2": "升",
-        "side2b": "上升"
+        "side2b": "上升",
+        "strokes": 4
       }
     },
     {
@@ -64,7 +71,8 @@
       "fields": {
         "side1": "神",
         "side2": "神",
-        "side2b": "神奇"
+        "side2b": "神奇",
+        "strokes": 9
       }
     },
     {
@@ -72,7 +80,8 @@
       "fields": {
         "side1": "奇",
         "side2": "奇",
-        "side2b": "奇怪"
+        "side2b": "奇怪",
+        "strokes": 8
       }
     },
     {
@@ -80,7 +89,8 @@
       "fields": {
         "side1": "跑",
         "side2": "跑",
-        "side2b": "跑步"
+        "side2b": "跑步",
+        "strokes": 12
       }
     },
     {
@@ -88,7 +98,8 @@
       "fields": {
         "side1": "跳",
         "side2": "跳",
-        "side2b": "跳繩"
+        "side2b": "跳繩",
+        "strokes": 13
       }
     },
     {
@@ -96,7 +107,8 @@
       "fields": {
         "side1": "笑",
         "side2": "笑",
-        "side2b": "笑話"
+        "side2b": "笑話",
+        "strokes": 10
       }
     },
     {
@@ -104,7 +116,8 @@
       "fields": {
         "side1": "每",
         "side2": "每",
-        "side2b": "每天"
+        "side2b": "每天",
+        "strokes": 7
       }
     },
         {
@@ -112,7 +125,8 @@
       "fields": {
         "side1": "件",
         "side2": "件",
-        "side2b": "一件"
+        "side2b": "一件",
+        "strokes": 6
       }
     },
     {
@@ -120,7 +134,8 @@
       "fields": {
         "side1": "事",
         "side2": "事",
-        "side2b": "事情"
+        "side2b": "事情",
+        "strokes": 8
       }
     },
     {
@@ -128,7 +143,8 @@
       "fields": {
         "side1": "情",
         "side2": "情",
-        "side2b": "感情"
+        "side2b": "感情",
+        "strokes": 11
       }
     }
   ]

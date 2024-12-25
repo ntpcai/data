@@ -7,7 +7,8 @@
       "fields": {
         "side1": "渴",
         "side2": "渴",
-        "side2b": "口渴"
+        "side2b": "口渴",
+        "strokes": 12
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "烏",
         "side2": "烏",
-        "side2b": "烏鴉"
+        "side2b": "烏雲",
+        "strokes": 10
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "喝",
         "side2": "喝",
-        "side2b": "喝水"
+        "side2b": "喝水",
+        "strokes": 12
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "瓶",
         "side2": "瓶",
-        "side2b": "奶瓶"
+        "side2b": "花瓶",
+        "strokes": 11
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "法",
         "side2": "法",
-        "side2b": "方法"
+        "side2b": "辦法",
+        "strokes": 8
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "森",
         "side2": "森",
-        "side2b": "森林"
+        "side2b": "森林",
+        "strokes": 12
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "林",
         "side2": "林",
-        "side2b": "林口"
+        "side2b": "山林",
+        "strokes": 8
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "物",
         "side2": "物",
-        "side2b": "動物"
+        "side2b": "動物",
+        "strokes": 8
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "旅",
         "side2": "旅",
-        "side2b": "旅行"
+        "side2b": "旅行",
+        "strokes": 10
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "行",
         "side2": "行",
-        "side2b": "行李"
+        "side2b": "行人",
+        "strokes": 6
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "午",
         "side2": "午",
-        "side2b": "中午"
+        "side2b": "午餐",
+        "strokes": 4
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "裝",
         "side2": "裝",
-        "side2b": "裝修"
+        "side2b": "裝潢",
+        "strokes": 13
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "許",
         "side2": "許",
-        "side2b": "許多"
+        "side2b": "許多",
+        "strokes": 11
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "石",
         "side2": "石",
-        "side2b": "石頭"
+        "side2b": "寶石",
+        "strokes": 5
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "難",
         "side2": "難",
-        "side2b": "難道"
+        "side2b": "難忘",
+        "strokes": 19
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "忘",
         "side2": "忘",
-        "side2b": "忘記"
+        "side2b": "忘記",
+        "strokes": 7
       }
     },
     {
@@ -135,7 +151,8 @@
       "fields": {
         "side1": "哈",
         "side2": "哈",
-        "side2b": "哈哈笑"
+        "side2b": "笑哈哈",
+        "strokes": 9
       }
     },
     {
@@ -144,7 +161,8 @@
       "fields": {
         "side1": "但",
         "side2": "但",
-        "side2b": "但是"
+        "side2b": "但是",
+        "strokes": 7
       }
     },
     {
@@ -152,7 +170,8 @@
       "fields": {
         "side1": "熊",
         "side2": "熊",
-        "side2b": "黑熊"
+        "side2b": "黑熊",
+        "strokes": 14
       }
     },
     {
@@ -160,7 +179,8 @@
       "fields": {
         "side1": "鴉",
         "side2": "鴉",
-        "side2b": "鴉片"
+        "side2b": "烏鴉",
+        "strokes": 15
       }
     }
   ]

@@ -7,7 +7,8 @@
       "fields": {
         "side1": "路",
         "side2": "路",
-        "side2b": "路人"
+        "side2b": "路人",
+        "strokes": 13
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "長",
         "side2": "長",
-        "side2b": "長遠"
+        "side2b": "長遠",
+        "strokes": 8
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "白",
         "side2": "白",
-        "side2b": "白沙"
+        "side2b": "白沙",
+        "strokes": 5
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "花",
         "side2": "花",
-        "side2b": "櫻花"
+        "side2b": "櫻花",
+        "strokes": 8
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "紅",
         "side2": "紅",
-        "side2b": "紅包"
+        "side2b": "紅包",
+        "strokes": 9
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "走",
         "side2": "走",
-        "side2b": "走路"
+        "side2b": "走路",
+        "strokes": 7
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "在",
         "side2": "在",
-        "side2b": "在家"
+        "side2b": "在家",
+        "strokes": 6
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "向",
         "side2": "向",
-        "side2b": "方向"
+        "side2b": "方向",
+        "strokes": 6
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "說",
         "side2": "說",
-        "side2b": "說話"
+        "side2b": "說話",
+        "strokes": 14
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "朵",
         "side2": "朵",
-        "side2b": "一󠇢朵"
+        "side2b": "一󠇢朵",
+        "strokes": 6
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "從",
         "side2": "從",
-        "side2b": "跟從"
+        "side2b": "跟從",
+        "strokes": 11
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "頭",
         "side2": "頭",
-        "side2b": "頭髮"
+        "side2b": "頭髮",
+        "strokes": 16
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "那",
         "side2": "那",
-        "side2b": "那裡"
+        "side2b": "那裡",
+        "strokes": 11
       }
     }
   ]

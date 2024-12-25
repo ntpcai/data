@@ -7,7 +7,8 @@
       "fields": {
         "side1": "皮",
         "side2": "皮",
-        "side2b": "皮帶"
+        "side2b": "皮膚",
+        "strokes": 5
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "色",
         "side2": "色",
-        "side2b": "白色"
+        "side2b": "顏色",
+        "strokes": 6
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "具",
         "side2": "具",
-        "side2b": "面具"
+        "side2b": "玩具",
+        "strokes": 8
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "者",
         "side2": "者",
-        "side2b": "舞者"
+        "side2b": "忍者",
+        "strokes": 8
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "洋",
         "side2": "洋",
-        "side2b": "海洋"
+        "side2b": "海洋",
+        "strokes": 9
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "寒",
         "side2": "寒",
-        "side2b": "寒冷"
+        "side2b": "寒冷",
+        "strokes": 12
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "嘴",
         "side2": "嘴",
-        "side2b": "嘴巴"
+        "side2b": "嘴巴",
+        "strokes": 16
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "伸",
         "side2": "伸",
-        "side2b": "伸長"
+        "side2b": "伸展",
+        "strokes": 7
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "飽",
         "side2": "飽",
-        "side2b": "吃飽"
+        "side2b": "飽足",
+        "strokes": 13
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "泥",
         "side2": "泥",
-        "side2b": "泥沙"
+        "side2b": "泥土",
+        "strokes": 8
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "沙",
         "side2": "沙",
-        "side2b": "沙漠"
+        "side2b": "沙灘",
+        "strokes": 7
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "慌",
         "side2": "慌",
-        "side2b": "慌張"
+        "side2b": "慌張",
+        "strokes": 13
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "服",
         "side2": "服",
-        "side2b": "衣服"
+        "side2b": "佩服",
+        "strokes": 8
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "翅",
         "side2": "翅",
-        "side2b": "翅膀"
+        "side2b": "雞翅",
+        "strokes": 10
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "膀",
         "side2": "膀",
-        "side2b": "肩膀"
+        "side2b": "肩膀",
+        "strokes": 14
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "充",
         "side2": "充",
-        "side2b": "充滿"
+        "side2b": "充電",
+        "strokes": 5
       }
     },
     {
@@ -135,7 +151,8 @@
       "fields": {
         "side1": "等",
         "side2": "等",
-        "side2b": "等待"
+        "side2b": "等待",
+        "strokes": 12
       }
     },
     {
@@ -143,7 +160,8 @@
       "fields": {
         "side1": "念",
         "side2": "念",
-        "side2b": "想念"
+        "side2b": "想念",
+        "strokes": 8
       }
     },
     {
@@ -151,7 +169,8 @@
       "fields": {
         "side1": "戴",
         "side2": "戴",
-        "side2b": "戴帽"
+        "side2b": "戴帽",
+        "strokes": 17
       }
     },
     {
@@ -159,7 +178,8 @@
       "fields": {
         "side1": "扁",
         "side2": "扁",
-        "side2b": "壓扁"
+        "side2b": "壓扁",
+        "strokes": 9
       }
     }
   ]

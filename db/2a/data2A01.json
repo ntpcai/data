@@ -7,7 +7,8 @@
       "fields": {
         "side1": "年",
         "side2": "年",
-        "side2b": "年記"
+        "side2b": "年記",
+        "strokes": 6
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "希",
         "side2": "希",
-        "side2b": "希望"
+        "side2b": "希望",
+        "strokes": 7
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "望",
         "side2": "望",
-        "side2b": "盼望"
+        "side2b": "盼望",
+        "strokes": 11
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "坐",
         "side2": "坐",
-        "side2b": "坐姿"
+        "side2b": "坐姿",
+        "strokes": 7
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "位",
         "side2": "位",
-        "side2b": "位置"
+        "side2b": "位置",
+        "strokes": 7
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "本",
         "side2": "本",
-        "side2b": "課本"
+        "side2b": "課本",
+        "strokes": 5
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "淡",
         "side2": "淡",
-        "side2b": "淡水"
+        "side2b": "淡水",
+        "strokes": 11
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "書",
         "side2": "書",
-        "side2b": "書店"
+        "side2b": "書店",
+        "strokes": 10
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "老",
         "side2": "老",
-        "side2b": "老闆"
+        "side2b": "老闆",
+        "strokes": 6
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "師",
         "side2": "師",
-        "side2b": "律師"
+        "side2b": "律師",
+        "strokes": 10
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "以",
         "side2": "以",
-        "side2b": "以後"
+        "side2b": "以後",
+        "strokes": 5
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "為",
         "side2": "為",
-        "side2b": "以為"
+        "side2b": "以為",
+        "strokes": 9
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "故",
         "side2": "故",
-        "side2b": "故事"
+        "side2b": "故事",
+        "strokes": 9
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "用",
         "side2": "用",
-        "side2b": "用心"
+        "side2b": "用心",
+        "strokes": 5
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "力",
         "side2": "力",
-        "side2b": "力量"
+        "side2b": "力量",
+        "strokes": 2
       }
     },
     {
@@ -128,7 +143,8 @@
         "side1": "只",
         "side1p": "ㄓˇ",
         "side2": "只",
-        "side2b": "只要"
+        "side2b": "只要",
+        "strokes": 5
       }
     },
     {
@@ -136,7 +152,8 @@
       "fields": {
         "side1": "現",
         "side2": "現",
-        "side2b": "現在"
+        "side2b": "現在",
+        "strokes": 11
       }
     },
     {
@@ -144,7 +161,8 @@
       "fields": {
         "side1": "還",
         "side2": "還",
-        "side2b": "還是"
+        "side2b": "還是",
+        "strokes": 17
       }
     },
     {
@@ -152,7 +170,8 @@
       "fields": {
         "side1": "聲",
         "side2": "聲",
-        "side2b": "歌聲"
+        "side2b": "歌聲",
+        "strokes": 17
       }
     },
     {
@@ -160,7 +179,8 @@
       "fields": {
         "side1": "矮",
         "side2": "矮",
-        "side2b": "矮小"
+        "side2b": "矮小",
+        "strokes": 13
       }
     }
   ]

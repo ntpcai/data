@@ -7,7 +7,8 @@
       "fields": {
         "side1": "媽",
         "side2": "媽",
-        "side2b": "媽媽"
+        "side2b": "媽媽",
+        "strokes": 13
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "音",
         "side2": "音",
-        "side2b": "音樂"
+        "side2b": "音樂",
+        "strokes": 9
       }
     },
     {
@@ -24,7 +26,8 @@
         "side1": "樂",
         "side1p": "月",
         "side2": "樂󠇡",
-        "side2b": "樂󠇡器"
+        "side2b": "樂󠇡器",
+        "strokes": 15
       }
     },
     {
@@ -32,7 +35,8 @@
       "fields": {
         "side1": "會",
         "side2": "會",
-        "side2b": "開會"
+        "side2b": "開會",
+        "strokes": 13
       }
     },
     {
@@ -40,7 +44,8 @@
       "fields": {
         "side1": "始",
         "side2": "始",
-        "side2b": "開始"
+        "side2b": "開始",
+        "strokes": 8
       }
     },
     {
@@ -48,7 +53,8 @@
       "fields": {
         "side1": "來",
         "side2": "來",
-        "side2b": "從來"
+        "side2b": "從來",
+        "strokes": 8
       }
     },
     {
@@ -56,7 +62,8 @@
       "fields": {
         "side1": "重",
         "side2": "重",
-        "side2b": "沉重"
+        "side2b": "沉重",
+        "strokes": 9
       }
     },
     {
@@ -64,7 +71,8 @@
       "fields": {
         "side1": "短",
         "side2": "短",
-        "side2b": "長短"
+        "side2b": "長短",
+        "strokes": 12
       }
     },
     {
@@ -72,7 +80,8 @@
       "fields": {
         "side1": "陣",
         "side2": "陣",
-        "side2b": "這陣子"
+        "side2b": "這陣子",
+        "strokes": 10
       }
     },
     {
@@ -80,7 +89,8 @@
       "fields": {
         "side1": "過",
         "side2": "過",
-        "side2b": "過去"
+        "side2b": "過去",
+        "strokes": 13
       }
     },
     {
@@ -88,7 +98,8 @@
       "fields": {
         "side1": "後",
         "side2": "後",
-        "side2b": "後面"
+        "side2b": "後面",
+        "strokes": 9
       }
     },
     {
@@ -96,7 +107,8 @@
       "fields": {
         "side1": "吃",
         "side2": "吃",
-        "side2b": "吃飯"
+        "side2b": "吃飯",
+        "strokes": 6
       }
     },
     {
@@ -104,7 +116,8 @@
       "fields": {
         "side1": "菜",
         "side2": "菜",
-        "side2b": "青菜"
+        "side2b": "青菜",
+        "strokes": 12
       }
     },
     {
@@ -112,7 +125,8 @@
       "fields": {
         "side1": "就",
         "side2": "就",
-        "side2b": "就近"
+        "side2b": "就近",
+        "strokes": 12
       }
     },
     {
@@ -120,7 +134,8 @@
       "fields": {
         "side1": "桌",
         "side2": "桌",
-        "side2b": "桌子"
+        "side2b": "桌子",
+        "strokes": 10
       }
     },
     {
@@ -128,7 +143,8 @@
       "fields": {
         "side1": "真",
         "side2": "真",
-        "side2b": "真心"
+        "side2b": "真心",
+        "strokes": 10
       }
     }
   ]

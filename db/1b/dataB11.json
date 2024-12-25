@@ -7,7 +7,8 @@
       "fields": {
         "side1": "生",
         "side2": "生",
-        "side2b": "生日"
+        "side2b": "生日",
+        "strokes": 5
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "日",
         "side2": "日",
-        "side2b": "日期"
+        "side2b": "日期",
+        "strokes": 4
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "今",
         "side2": "今",
-        "side2b": "今天"
+        "side2b": "今天",
+        "strokes": 4
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "記",
         "side2": "記",
-        "side2b": "記得"
+        "side2b": "記得",
+        "strokes": 10
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "時",
         "side2": "時",
-        "side2b": "時間"
+        "side2b": "時間",
+        "strokes": 10
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "知",
         "side2": "知",
-        "side2b": "知道"
+        "side2b": "知道",
+        "strokes": 8
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "道",
         "side2": "道",
-        "side2b": "道理"
+        "side2b": "道理",
+        "strokes": 13
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "嗎",
         "side2": "嗎",
-        "side2b": "好嗎？"
+        "side2b": "好嗎？",
+        "strokes": 13
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "學",
         "side2": "學",
-        "side2b": "學校"
+        "side2b": "學校",
+        "strokes": 16
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "收",
         "side2": "收",
-        "side2b": "收據"
+        "side2b": "收據",
+        "strokes": 6
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "張",
         "side2": "張",
-        "side2b": "一張"
+        "side2b": "一張",
+        "strokes": 11
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "祝",
         "side2": "祝",
-        "side2b": "祝福"
+        "side2b": "祝福",
+        "strokes": 9
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "福",
         "side2": "福",
-        "side2b": "福氣"
+        "side2b": "福氣",
+        "strokes": 13
       }
     },
         {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "第",
         "side2": "第",
-        "side2b": "第一"
+        "side2b": "第一",
+        "strokes": 11
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "次",
         "side2": "次",
-        "side2b": "每次"
+        "side2b": "每次",
+        "strokes": 6
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "謝",
         "side2": "謝",
-        "side2b": "謝謝"
+        "side2b": "謝謝",
+        "strokes": 17
       }
     }
   ]

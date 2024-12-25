@@ -7,7 +7,8 @@
       "fields": {
         "side1": "秋",
         "side2": "秋",
-        "side2b": "秋天"
+        "side2b": "秋天",
+        "strokes": 9
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "千",
         "side2": "千",
-        "side2b": "千年"
+        "side2b": "千年",
+        "strokes": 3
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "和",
         "side2": "和󠇡",
-        "side2b": "我和󠇡你"
+        "side2b": "我和󠇡你",
+        "strokes": 8
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "玩",
         "side2": "玩",
-        "side2b": "玩具"
+        "side2b": "玩具",
+        "strokes": 8
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "陪",
         "side2": "陪",
-        "side2b": "陪伴"
+        "side2b": "陪伴",
+        "strokes": 11
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "高",
         "side2": "高",
-        "side2b": "高山"
+        "side2b": "高山",
+        "strokes": 10
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "山",
         "side2": "山",
-        "side2b": "陽明山"
+        "side2b": "陽明山",
+        "strokes": 3
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "到",
         "side2": "到",
-        "side2b": "到達"
+        "side2b": "到達",
+        "strokes": 8
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "大",
         "side2": "大",
-        "side2b": "大概"
+        "side2b": "大概",
+        "strokes": 3
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "海",
         "side2": "海",
-        "side2b": "大海"
+        "side2b": "大海",
+        "strokes": 10
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "朋",
         "side2": "朋",
-        "side2b": "朋友"
+        "side2b": "朋友",
+        "strokes": 8
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "友",
         "side2": "友",
-        "side2b": "友善"
+        "side2b": "友善",
+        "strokes": 4
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "們",
         "side2": "們",
-        "side2b": "我們"
+        "side2b": "我們",
+        "strokes": 10
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "起",
         "side2": "起",
-        "side2b": "起床"
+        "side2b": "起床",
+        "strokes": 10
       }
     }
   ]
