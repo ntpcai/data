@@ -7,7 +7,8 @@
       "fields": {
         "side1": "彩",
         "side2": "彩",
-        "side2b": "彩色筆"
+        "side2b": "彩色筆",
+        "strokes": 11
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "虹",
         "side2": "虹",
-        "side2b": "彩虹"
+        "side2b": "彩虹",
+        "strokes": 9
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "太",
         "side2": "太",
-        "side2b": "太陽"
+        "side2b": "太陽",
+        "strokes": 4
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "國",
         "side2": "國",
-        "side2b": "國王"
+        "side2b": "國王",
+        "strokes": 11
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "掃",
         "side2": "掃",
-        "side2b": "掃地"
+        "side2b": "掃地",
+        "strokes": 11
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "除",
         "side2": "除",
-        "side2b": "除非"
+        "side2b": "除非",
+        "strokes": 10
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "洗",
         "side2": "洗",
-        "side2b": "洗澡"
+        "side2b": "洗澡",
+        "strokes": 9
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "淨",
         "side2": "淨",
-        "side2b": "乾淨"
+        "side2b": "乾淨",
+        "strokes": 11
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "馬",
         "side2": "馬",
-        "side2b": "馬上"
+        "side2b": "馬上",
+        "strokes": 10
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "低",
         "side2": "低",
-        "side2b": "低下"
+        "side2b": "低下",
+        "strokes": 7
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "刷",
         "side2": "刷",
-        "side2b": "刷牙"
+        "side2b": "刷牙",
+        "strokes": 8
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "樹",
         "side2": "樹",
-        "side2b": "樹木"
+        "side2b": "樹木",
+        "strokes": 16
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "葉",
         "side2": "葉",
-        "side2b": "樹葉"
+        "side2b": "樹葉",
+        "strokes": 13
       }
     },
         {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "很",
         "side2": "很",
-        "side2b": "很多"
+        "side2b": "很多",
+        "strokes": 9
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "認",
         "side2": "認",
-        "side2b": "認真"
+        "side2b": "認真",
+        "strokes": 14
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "送",
         "side2": "送",
-        "side2b": "送貨"
+        "side2b": "送貨",
+        "strokes": 10
       }
     }
   ]

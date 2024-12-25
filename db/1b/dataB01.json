@@ -7,7 +7,8 @@
       "fields": {
         "side1": "要",
         "side2": "要",
-        "side2b": "不要"
+        "side2b": "不要",
+        "strokes": 9
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "靜",
         "side2": "靜",
-        "side2b": "安靜"
+        "side2b": "安靜",
+        "strokes": 16
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "天",
         "side2": "天",
-        "side2b": "天氣"
+        "side2b": "天氣",
+        "strokes": 4
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "空",
         "side2": "空",
-        "side2b": "天空"
+        "side2b": "天空",
+        "strokes": 8
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "雲",
         "side2": "雲",
-        "side2b": "雲朵"
+        "side2b": "雲朵",
+        "strokes": 12
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "水",
         "side2": "水",
-        "side2b": "自來水"
+        "side2b": "自來水",
+        "strokes": 4
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "蟲",
         "side2": "蟲",
-        "side2b": "昆蟲"
+        "side2b": "昆蟲",
+        "strokes": 18
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "鳥",
         "side2": "鳥",
-        "side2b": "小鳥"
+        "side2b": "小鳥",
+        "strokes": 11
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "草",
         "side2": "草",
-        "side2b": "草地"
+        "side2b": "草地",
+        "strokes": 10
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "先",
         "side2": "先",
-        "side2b": "先生"
+        "side2b": "先生",
+        "strokes": 6
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "完",
         "side2": "完",
-        "side2b": "完成"
+        "side2b": "完成",
+        "strokes": 7
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "再",
         "side2": "再",
-        "side2b": "再見"
+        "side2b": "再見",
+        "strokes": 6
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "去",
         "side2": "去",
-        "side2b": "過去"
+        "side2b": "過去",
+        "strokes": 5
       }
     }
   ]

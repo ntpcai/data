@@ -7,7 +7,8 @@
       "fields": {
         "side1": "冬",
         "side2": "冬",
-        "side2b": "冬天"
+        "side2b": "冬天",
+        "strokes": 5
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "灰",
         "side2": "灰",
-        "side2b": "灰色"
+        "side2b": "灰心",
+        "strokes": 6
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "北",
         "side2": "北",
-        "side2b": "北風"
+        "side2b": "臺北",
+        "strokes": 5
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "冷",
         "side2": "冷",
-        "side2b": "冷氣"
+        "side2b": "寒冷",
+        "strokes": 7
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "飛",
         "side2": "飛",
-        "side2b": "飛機"
+        "side2b": "飛翔",
+        "strokes": 9
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "牠",
         "side2": "牠",
-        "side2b": "動物"
+        "side2b": "動物",
+        "strokes": 7
       }
     },
     {
@@ -56,7 +62,8 @@
         "side1": "發",
         "side1p":"ㄈㄚ",
         "side2": "發",
-        "side2b": "發現"
+        "side2b": "發現",
+        "strokes": 12
       }
     },
     {
@@ -64,7 +71,8 @@
       "fields": {
         "side1": "冒",
         "side2": "冒",
-        "side2b": "冒煙"
+        "side2b": "感冒",
+        "strokes": 9
       }
     },
     {
@@ -72,7 +80,8 @@
       "fields": {
         "side1": "煙",
         "side2": "煙",
-        "side2b": "煙花"
+        "side2b": "煙火",
+        "strokes": 13
       }
     },
     {
@@ -80,7 +89,8 @@
       "fields": {
         "side1": "圍",
         "side2": "圍",
-        "side2b": "圍巾"
+        "side2b": "圍巾",
+        "strokes": 12
       }
     },
     {
@@ -88,7 +98,8 @@
       "fields": {
         "side1": "飯",
         "side2": "飯",
-        "side2b": "飯桌"
+        "side2b": "白飯",
+        "strokes": 12
       }
     },
     {
@@ -96,7 +107,8 @@
       "fields": {
         "side1": "咪",
         "side2": "咪",
-        "side2b": "貓咪"
+        "side2b": "貓咪咪",
+        "strokes": 9
       }
     },
     {
@@ -104,7 +116,8 @@
       "fields": {
         "side1": "團",
         "side2": "團",
-        "side2b": "團聚"
+        "side2b": "團圓",
+        "strokes": 14
       }
     },
     {
@@ -112,7 +125,8 @@
       "fields": {
         "side1": "聚",
         "side2": "聚",
-        "side2b": "聚餐"
+        "side2b": "聚會",
+        "strokes": 14
       }
     },
     {
@@ -120,7 +134,8 @@
       "fields": {
         "side1": "愉",
         "side2": "愉",
-        "side2b": "愉快"
+        "side2b": "愉快",
+        "strokes": 12
       }
     },
     {
@@ -128,7 +143,8 @@
       "fields": {
         "side1": "火",
         "side2": "火",
-        "side2b": "火鍋"
+        "side2b": "火災",
+        "strokes": 4
       }
     },
     {
@@ -136,7 +152,8 @@
       "fields": {
         "side1": "鍋",
         "side2": "鍋",
-        "side2b": "鍋貼"
+        "side2b": "火鍋",
+        "strokes": 17
       }
     },
     {
@@ -144,7 +161,8 @@
       "fields": {
         "side1": "妙",
         "side2": "妙",
-        "side2b": "美妙"
+        "side2b": "美妙",
+        "strokes": 7
       }
     },
     {
@@ -152,7 +170,8 @@
       "fields": {
         "side1": "鼓",
         "side2": "鼓",
-        "side2b": "鼓掌"
+        "side2b": "打鼓",
+        "strokes": 13
       }
     },
     {
@@ -160,7 +179,8 @@
       "fields": {
         "side1": "聊",
         "side2": "聊",
-        "side2b": "聊天"
+        "side2b": "無聊",
+        "strokes": 11
       }
     }
   ]

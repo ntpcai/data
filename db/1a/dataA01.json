@@ -7,7 +7,8 @@
       "fields": {
         "side1": "拍",
         "side2": "拍",
-        "side2b": "球拍"
+        "side2b": "球拍",
+        "strokes": 8
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "手",
         "side2": "手",
-        "side2b": "雙手"
+        "side2b": "雙手",
+        "strokes": 4
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "左",
         "side2": "左",
-        "side2b": "左手"
+        "side2b": "左手",
+        "strokes": 5
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "右",
         "side2": "右",
-        "side2b": "右邊"
+        "side2b": "右邊",
+        "strokes": 5
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "你",
         "side2": "你",
-        "side2b": "你們"
+        "side2b": "你們",
+        "strokes": 7
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "他",
         "side2": "他",
-        "side2b": "他們"
+        "side2b": "他們",
+        "strokes": 5
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "也",
         "side2": "也",
-        "side2b": "也是"
+        "side2b": "也是",
+        "strokes": 3
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "上",
         "side2": "上",
-        "side2b": "上樓"
+        "side2b": "上樓",
+        "strokes": 3
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "下",
         "side2": "下",
-        "side2b": "樓下"
+        "side2b": "樓下",
+        "strokes": 3
       }
     }
   ]

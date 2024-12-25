@@ -7,7 +7,8 @@
       "fields": {
         "side1": "木",
         "side2": "木",
-        "side2b": "樹木"
+        "side2b": "樹木",
+        "strokes": 4
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "偶",
         "side2": "偶",
-        "side2b": "偶像"
+        "side2b": "偶像",
+        "strokes": 11
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "鄉",
         "side2": "鄉",
-        "side2b": "鄉村"
+        "side2b": "鄉村",
+        "strokes": 12
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "南",
         "side2": "南",
-        "side2b": "南方"
+        "side2b": "南方",
+        "strokes": 9
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "暑",
         "side2": "暑",
-        "side2b": "中暑"
+        "side2b": "中暑",
+        "strokes": 12
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "假",
         "side2": "假",
-        "side2b": "放假"
+        "side2b": "放假",
+        "strokes": 11
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "帶",
         "side2": "帶",
-        "side2b": "皮帶"
+        "side2b": "皮帶",
+        "strokes": 11
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "池",
         "side2": "池",
-        "side2b": "游泳池"
+        "side2b": "游泳池",
+        "strokes": 6
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "牛",
         "side2": "牛",
-        "side2b": "水牛"
+        "side2b": "水牛",
+        "strokes": 4
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "旁",
         "side2": "旁",
-        "side2b": "旁邊"
+        "side2b": "旁邊",
+        "strokes": 10
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "邊",
         "side2": "邊",
-        "side2b": "窗邊"
+        "side2b": "窗邊",
+        "strokes": 19
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "演",
         "side2": "演",
-        "side2b": "演員"
+        "side2b": "演員",
+        "strokes": 14
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "叫",
         "side2": "叫",
-        "side2b": "尖叫"
+        "side2b": "尖叫",
+        "strokes": 5
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "原",
         "side2": "原",
-        "side2b": "原因"
+        "side2b": "原因",
+        "strokes": 10
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "站",
         "side2": "站",
-        "side2b": "站立"
+        "side2b": "站立",
+        "strokes": 10
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "竿",
         "side2": "竿",
-        "side2b": "長竿"
+        "side2b": "竹竿",
+        "strokes": 9
       }
     },
     {
@@ -135,7 +151,8 @@
       "fields": {
         "side1": "田",
         "side2": "田",
-        "side2b": "水田"
+        "side2b": "農田",
+        "strokes": 5
       }
     },
     {
@@ -143,7 +160,8 @@
       "fields": {
         "side1": "識",
         "side2": "識",
-        "side2b": "認識"
+        "side2b": "認識",
+        "strokes": 19
       }
     },
     {
@@ -151,7 +169,8 @@
       "fields": {
         "side1": "簾",
         "side2": "簾",
-        "side2b": "簾子"
+        "side2b": "窗簾",
+        "strokes": 19
       }
     },
     {
@@ -159,7 +178,8 @@
       "fields": {
         "side1": "塘",
         "side2": "塘",
-        "side2b": "池塘"
+        "side2b": "池塘",
+        "strokes": 13
       }
     }
   ]

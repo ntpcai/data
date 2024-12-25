@@ -7,7 +7,8 @@
       "fields": {
         "side1": "雪",
         "side2": "雪",
-        "side2b": "雪櫃"
+        "side2b": "雪櫃",
+        "strokes": 11
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "梨",
         "side2": "梨",
-        "side2b": "梨子"
+        "side2b": "梨子",
+        "strokes": 11
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "夜",
         "side2": "夜",
-        "side2b": "夜晚"
+        "side2b": "夜晚",
+        "strokes": 8
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "卻",
         "side2": "卻",
-        "side2b": "推卻"
+        "side2b": "推卻",
+        "strokes": 9
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "因",
         "side2": "因",
-        "side2b": "因為"
+        "side2b": "因為",
+        "strokes": 6
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "臺",
         "side2": "臺",
-        "side2b": "臺灣"
+        "side2b": "臺灣",
+        "strokes": 14
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "季",
         "side2": "季",
-        "side2b": "季節"
+        "side2b": "季節",
+        "strokes": 8
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "相",
         "side2": "相",
-        "side2b": "相反"
+        "side2b": "相反",
+        "strokes": 9
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "反",
         "side2": "反",
-        "side2b": "反對"
+        "side2b": "反對",
+        "strokes": 4
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "吹",
         "side2": "吹",
-        "side2b": "吹牛"
+        "side2b": "吹牛",
+        "strokes": 7
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "待",
         "side2": "待",
-        "side2b": "等待"
+        "side2b": "等待",
+        "strokes": 9
       }
     },    
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "綻",
         "side2": "綻",
-        "side2b": "綻放"
+        "side2b": "綻放",
+        "strokes": 14
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "雖",
         "side2": "雖",
-        "side2b": "雖然"
+        "side2b": "雖然",
+        "strokes": 17
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "春",
         "side2": "春",
-        "side2b": "春節"
+        "side2b": "春節",
+        "strokes": 9
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "貨",
         "side2": "貨",
-        "side2b": "年貨"
+        "side2b": "年貨",
+        "strokes": 11
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "期",
         "side2": "期",
-        "side2b": "期待"
+        "side2b": "期待",
+        "strokes": 12
       }
     },
     {
@@ -135,7 +151,8 @@
       "fields": {
         "side1": "敬",
         "side2": "敬",
-        "side2b": "敬祝"
+        "side2b": "敬祝",
+        "strokes": 13
       }
     },
     {
@@ -143,7 +160,8 @@
       "fields": {
         "side1": "孫",
         "side2": "孫",
-        "side2b": "孫女"
+        "side2b": "孫女",
+        "strokes": 10
       }
     },
     {
@@ -151,7 +169,8 @@
       "fields": {
         "side1": "跨",
         "side2": "跨",
-        "side2b": "跨年"
+        "side2b": "跨年",
+        "strokes": 13
       }
     },
     {
@@ -159,7 +178,8 @@
       "fields": {
         "side1": "灣",
         "side2": "灣",
-        "side2b": "灣區"
+        "side2b": "灣區",
+        "strokes": 25
       }
     }
   ]

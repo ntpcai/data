@@ -7,7 +7,8 @@
       "fields": {
         "side1": "園",
         "side2": "園",
-        "side2b": "公園"
+        "side2b": "公園",
+        "strokes": 13
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "聽",
         "side2": "聽",
-        "side2b": "聽力"
+        "side2b": "聽力",
+        "strokes": 22
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "沒",
         "side2": "沒",
-        "side2b": "沒有"
+        "side2b": "沒有",
+        "strokes": 7
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "正",
         "side2": "正",
-        "side2b": "正常"
+        "side2b": "正常",
+        "strokes": 5
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "唱",
         "side2": "唱",
-        "side2b": "唱歌"
+        "side2b": "唱歌",
+        "strokes": 11
       }
     },
     {
@@ -49,7 +54,8 @@
         "side1": "著",
         "side1p": "ㄓㄜ˙",
         "side2": "著",
-        "side2b": "看著"
+        "side2b": "看著",
+        "strokes": 12
       }
     },
     {
@@ -57,7 +63,8 @@
       "fields": {
         "side1": "輕",
         "side2": "輕",
-        "side2b": "輕鬆"
+        "side2b": "輕鬆",
+        "strokes": 14
       }
     },
     {
@@ -65,7 +72,8 @@
       "fields": {
         "side1": "快",
         "side2": "快",
-        "side2b": "快樂"
+        "side2b": "快樂",
+        "strokes": 7
       }
     },
     {
@@ -73,7 +81,8 @@
       "fields": {
         "side1": "歌",
         "side2": "歌",
-        "side2b": "歌聲"
+        "side2b": "歌聲",
+        "strokes": 14
       }
     },
     {
@@ -81,7 +90,8 @@
       "fields": {
         "side1": "出",
         "side2": "出",
-        "side2b": "出口"
+        "side2b": "出口",
+        "strokes": 5
       }
     },
     {
@@ -89,7 +99,8 @@
       "fields": {
         "side1": "新",
         "side2": "新",
-        "side2b": "新年"
+        "side2b": "新年",
+        "strokes": 13
       }
     },
     {
@@ -97,7 +108,8 @@
       "fields": {
         "side1": "芽",
         "side2": "芽",
-        "side2b": "發芽"
+        "side2b": "發芽",
+        "strokes": 8
       }
     },
     {
@@ -105,7 +117,8 @@
       "fields": {
         "side1": "聞",
         "side2": "聞",
-        "side2b": "新聞"
+        "side2b": "新聞",
+        "strokes": 14
       }
     },
     {
@@ -113,7 +126,8 @@
       "fields": {
         "side1": "身",
         "side2": "身",
-        "side2b": "身體"
+        "side2b": "身體",
+        "strokes": 7
       }
     },
     {
@@ -121,7 +135,8 @@
       "fields": {
         "side1": "香",
         "side2": "香",
-        "side2b": "香氛"
+        "side2b": "香氛",
+        "strokes": 9
       }
     },
     {
@@ -129,7 +144,8 @@
       "fields": {
         "side1": "呢",
         "side2": "呢",
-        "side2b": "什麼呢"
+        "side2b": "什麼呢",
+        "strokes": 8
       }
     }
   ]

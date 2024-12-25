@@ -7,7 +7,8 @@
       "fields": {
         "side1": "鞋",
         "side2": "鞋",
-        "side2b": "皮鞋"
+        "side2b": "皮鞋",
+        "strokes": 15
       }
     },
     {
@@ -15,7 +16,8 @@
       "fields": {
         "side1": "回",
         "side2": "回",
-        "side2b": "回答"
+        "side2b": "回答",
+        "strokes": 6
       }
     },
     {
@@ -23,7 +25,8 @@
       "fields": {
         "side1": "家",
         "side2": "家",
-        "side2b": "家庭"
+        "side2b": "家庭",
+        "strokes": 10
       }
     },
     {
@@ -31,7 +34,8 @@
       "fields": {
         "side1": "把",
         "side2": "把",
-        "side2b": "手把"
+        "side2b": "手把",
+        "strokes": 7
       }
     },
     {
@@ -39,7 +43,8 @@
       "fields": {
         "side1": "脫",
         "side2": "脫",
-        "side2b": "脫鞋子"
+        "side2b": "脫鞋子",
+        "strokes": 11
       }
     },
     {
@@ -47,7 +52,8 @@
       "fields": {
         "side1": "爸",
         "side2": "爸",
-        "side2b": "爸爸"
+        "side2b": "爸爸",
+        "strokes": 8
       }
     },
     {
@@ -55,7 +61,8 @@
       "fields": {
         "side1": "靠",
         "side2": "靠",
-        "side2b": "椅靠"
+        "side2b": "椅靠",
+        "strokes": 15
       }
     },
     {
@@ -63,7 +70,8 @@
       "fields": {
         "side1": "見",
         "side2": "見",
-        "side2b": "好久不見"
+        "side2b": "好久不見",
+        "strokes": 7
       }
     },
     {
@@ -71,7 +79,8 @@
       "fields": {
         "side1": "像",
         "side2": "像",
-        "side2b": "好像"
+        "side2b": "好像",
+        "strokes": 14
       }
     },
     {
@@ -79,7 +88,8 @@
       "fields": {
         "side1": "船",
         "side2": "船",
-        "side2b": "船槳"
+        "side2b": "船槳",
+        "strokes": 11
       }
     },
     {
@@ -87,7 +97,8 @@
       "fields": {
         "side1": "港",
         "side2": "港",
-        "side2b": "港口"
+        "side2b": "港口",
+        "strokes": 12
       }
     },
     {
@@ -95,7 +106,8 @@
       "fields": {
         "side1": "口",
         "side2": "口",
-        "side2b": "巷口"
+        "side2b": "巷口",
+        "strokes": 3
       }
     },
     {
@@ -103,7 +115,8 @@
       "fields": {
         "side1": "享",
         "side2": "享",
-        "side2b": "享受"
+        "side2b": "享受",
+        "strokes": 8
       }
     },
     {
@@ -111,7 +124,8 @@
       "fields": {
         "side1": "受",
         "side2": "受",
-        "side2b": "忍受"
+        "side2b": "忍受",
+        "strokes": 8
       }
     },
     {
@@ -119,7 +133,8 @@
       "fields": {
         "side1": "溫",
         "side2": "溫",
-        "side2b": "溫度"
+        "side2b": "溫度",
+        "strokes": 13
       }
     },
     {
@@ -127,7 +142,8 @@
       "fields": {
         "side1": "暖",
         "side2": "暖",
-        "side2b": "春暖花開"
+        "side2b": "春暖花開",
+        "strokes": 13
       }
     }
   ]
