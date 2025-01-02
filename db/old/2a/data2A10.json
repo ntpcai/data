@@ -5,145 +5,182 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "群",
-        "side2": "群",
-        "side2b": "成群"
+        "side1": "冬",
+        "side2": "冬",
+        "side2b": "冬天",
+        "strokes": 5
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "靜",
-        "side2": "靜",
-        "side2b": "安靜"
+        "side1": "灰",
+        "side2": "灰",
+        "side2b": "灰心",
+        "strokes": 6
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "抬",
-        "side2": "抬",
-        "side2b": "抬起"
+        "side1": "北",
+        "side2": "北",
+        "side2b": "臺北",
+        "strokes": 5
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "非",
-        "side2": "非",
-        "side2b": "非常"
+        "side1": "冷",
+        "side2": "冷",
+        "side2b": "寒冷",
+        "strokes": 7
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "趣",
-        "side2": "趣",
-        "side2b": "趣味"
+        "side1": "飛",
+        "side2": "飛",
+        "side2b": "飛翔",
+        "strokes": 9
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "近",
-        "side2": "近",
-        "side2b": "靠近"
+        "side1": "牠",
+        "side2": "牠",
+        "side2b": "動物",
+        "strokes": 7
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "堆",
-        "side2": "堆",
-        "side2b": "一堆"
+        "side1": "發",
+        "side1p":"ㄈㄚ",
+        "side2": "發",
+        "side2b": "發現",
+        "strokes": 12
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "棉",
-        "side2": "棉",
-        "side2b": "棉被"
+        "side1": "冒",
+        "side2": "冒",
+        "side2b": "感冒",
+        "strokes": 9
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "遠",
-        "side2": "遠",
-        "side2b": "遙遠"
+        "side1": "煙",
+        "side2": "煙",
+        "side2b": "煙火",
+        "strokes": 13
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "景",
-        "side2": "景",
-        "side2b": "風景"
+        "side1": "圍",
+        "side2": "圍",
+        "side2b": "圍巾",
+        "strokes": 12
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "忽",
-        "side2": "忽",
-        "side2b": "忽然"
+        "side1": "飯",
+        "side2": "飯",
+        "side2b": "白飯",
+        "strokes": 12
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "聽",
-        "side2": "聽",
-        "side2b": "聽見"
+        "side1": "咪",
+        "side2": "咪",
+        "side2b": "貓咪咪",
+        "strokes": 9
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "揮",
-        "side2": "揮",
-        "side2b": "揮手"
+        "side1": "團",
+        "side2": "團",
+        "side2b": "團圓",
+        "strokes": 14
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "慢",
-        "side2": "慢",
-        "side2b": "慢跑"
+        "side1": "聚",
+        "side2": "聚",
+        "side2b": "聚會",
+        "strokes": 14
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "依",
-        "side2": "依",
-        "side2b": "依靠"
+        "side1": "愉",
+        "side2": "愉",
+        "side2b": "愉快",
+        "strokes": 12
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "捨",
-        "side2": "捨",
-        "side2b": "捨棄"
+        "side1": "火",
+        "side2": "火",
+        "side2b": "火災",
+        "strokes": 4
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "放",
-        "side2": "放",
-        "side2b": "放鬆"
+        "side1": "鍋",
+        "side2": "鍋",
+        "side2b": "火鍋",
+        "strokes": 17
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "假",
-        "side2": "假",
-        "side2b": "放假"
+        "side1": "妙",
+        "side2": "妙",
+        "side2b": "美妙",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "鼓",
+        "side2": "鼓",
+        "side2b": "打鼓",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "聊",
+        "side2": "聊",
+        "side2b": "無聊",
+        "strokes": 11
       }
     }
   ]

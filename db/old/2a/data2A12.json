@@ -5,145 +5,181 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "野",
-        "side2": "野",
-        "side2b": "野外"
+        "side1": "雪",
+        "side2": "雪",
+        "side2b": "雪櫃",
+        "strokes": 11
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "本",
-        "side2": "本",
-        "side2b": "課本"
+        "side1": "梨",
+        "side2": "梨",
+        "side2b": "梨子",
+        "strokes": 11
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "模",
-        "side2": "模",
-        "side2b": "模型"
+        "side1": "夜",
+        "side2": "夜",
+        "side2b": "夜晚",
+        "strokes": 8
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "型",
-        "side2": "型",
-        "side2b": "型態"
+        "side1": "卻",
+        "side2": "卻",
+        "side2b": "推卻",
+        "strokes": 9
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "蜜",
-        "side2": "蜜",
-        "side2b": "蜜蜂"
+        "side1": "因",
+        "side2": "因",
+        "side2b": "因為",
+        "strokes": 6
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "蜂",
-        "side2": "蜂",
-        "side2b": "蜂蜜"
+        "side1": "臺",
+        "side2": "臺",
+        "side2b": "臺灣",
+        "strokes": 14
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "蝴",
-        "side2": "蝴",
-        "side2b": "蝴蝶"
+        "side1": "季",
+        "side2": "季",
+        "side2b": "季節",
+        "strokes": 8
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "蝶",
-        "side2": "蝶",
-        "side2b": "蝴蝶"
+        "side1": "相",
+        "side2": "相",
+        "side2b": "相反",
+        "strokes": 9
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "飛",
-        "side2": "飛",
-        "side2b": "飛機"
+        "side1": "反",
+        "side2": "反",
+        "side2b": "反對",
+        "strokes": 4
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "活",
-        "side2": "活",
-        "side2b": "活動"
+        "side1": "吹",
+        "side2": "吹",
+        "side2b": "吹牛",
+        "strokes": 7
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "圖",
-        "side2": "圖",
-        "side2b": "圖片"
+        "side1": "待",
+        "side2": "待",
+        "side2b": "等待",
+        "strokes": 9
       }
-    },
+    },    
     {
       "id": "00012",
       "fields": {
-        "side1": "筆",
-        "side2": "筆",
-        "side2b": "畫筆"
+        "side1": "綻",
+        "side2": "綻",
+        "side2b": "綻放",
+        "strokes": 14
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "料",
-        "side2": "料",
-        "side2b": "材料"
+        "side1": "雖",
+        "side2": "雖",
+        "side2b": "雖然",
+        "strokes": 17
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "湖",
-        "side2": "湖",
-        "side2b": "清水湖"
+        "side1": "春",
+        "side2": "春",
+        "side2b": "春節",
+        "strokes": 9
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "調",
-        "side2": "調",
-        "side2b": "調整"
+        "side1": "貨",
+        "side2": "貨",
+        "side2b": "年貨",
+        "strokes": 11
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "迷",
-        "side2": "迷",
-        "side2b": "迷宮"
+        "side1": "期",
+        "side2": "期",
+        "side2b": "期待",
+        "strokes": 12
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "逛",
-        "side2": "逛",
-        "side2b": "逛街"
+        "side1": "敬",
+        "side2": "敬",
+        "side2b": "敬祝",
+        "strokes": 13
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "兒",
-        "side2": "兒",
-        "side2b": "女兒"
+        "side1": "孫",
+        "side2": "孫",
+        "side2b": "孫女",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "跨",
+        "side2": "跨",
+        "side2b": "跨年",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "灣",
+        "side2": "灣",
+        "side2b": "灣區",
+        "strokes": 25
       }
     }
   ]

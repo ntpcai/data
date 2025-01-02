@@ -1,5 +1,7 @@
 {
-  "set": "二年上",
+  "set": "113學年",
+  "grade": "二年上",
+  "publisher": "康軒",
   "subset": "第十一課",
   "data": [
     {
@@ -169,7 +171,7 @@
       "fields": {
         "side1": "戴",
         "side2": "戴",
-        "side2b": "戴帽",
+        "side2b": "戴口罩",
         "strokes": 17
       }
     },
@@ -178,7 +180,7 @@
       "fields": {
         "side1": "扁",
         "side2": "扁",
-        "side2b": "壓扁",
+        "side2b": "扁擔",
         "strokes": 9
       }
     }
