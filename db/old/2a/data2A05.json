@@ -5,145 +5,181 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "蟲",
-        "side2": "蟲",
-        "side2b": "瓢蟲"
+        "side1": "木",
+        "side2": "木",
+        "side2b": "樹木",
+        "strokes": 4
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "森",
-        "side2": "森",
-        "side2b": "森林"
+        "side1": "偶",
+        "side2": "偶",
+        "side2b": "偶像",
+        "strokes": 11
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "動",
-        "side2": "動",
-        "side2b": "動物"
+        "side1": "鄉",
+        "side2": "鄉",
+        "side2b": "鄉村",
+        "strokes": 12
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "物",
-        "side2": "物",
-        "side2b": "物理"
+        "side1": "南",
+        "side2": "南",
+        "side2b": "南方",
+        "strokes": 9
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "王",
-        "side2": "王",
-        "side2b": "王子"
+        "side1": "暑",
+        "side2": "暑",
+        "side2b": "中暑",
+        "strokes": 12
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "坐",
-        "side2": "坐",
-        "side2b": "坐下"
+        "side1": "假",
+        "side2": "假",
+        "side2b": "放假",
+        "strokes": 11
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "午",
-        "side2": "午",
-        "side2b": "中午"
+        "side1": "帶",
+        "side2": "帶",
+        "side2b": "皮帶",
+        "strokes": 11
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "停",
-        "side2": "停",
-        "side2b": "停車"
+        "side1": "池",
+        "side2": "池",
+        "side2b": "游泳池",
+        "strokes": 6
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "座",
-        "side2": "座",
-        "side2b": "一座"
+        "side1": "牛",
+        "side2": "牛",
+        "side2b": "水牛",
+        "strokes": 4
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "橋",
-        "side2": "橋",
-        "side2b": "吊橋"
+        "side1": "旁",
+        "side2": "旁",
+        "side2b": "旁邊",
+        "strokes": 10
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "急",
-        "side2": "急",
-        "side2b": "急診"
+        "side1": "邊",
+        "side2": "邊",
+        "side2b": "窗邊",
+        "strokes": 19
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "原",
-        "side2": "原",
-        "side2b": "原來"
+        "side1": "演",
+        "side2": "演",
+        "side2b": "演員",
+        "strokes": 14
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "從",
-        "side2": "從",
-        "side2b": "從前"
+        "side1": "叫",
+        "side2": "叫",
+        "side2b": "尖叫",
+        "strokes": 5
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "此",
-        "side2": "此",
-        "side2b": "此外"
+        "side1": "原",
+        "side2": "原",
+        "side2b": "原因",
+        "strokes": 10
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "管",
-        "side2": "管",
-        "side2b": "管理"
+        "side1": "站",
+        "side2": "站",
+        "side2b": "站立",
+        "strokes": 10
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "百",
-        "side2": "百",
-        "side2b": "一百"
+        "side1": "竿",
+        "side2": "竿",
+        "side2b": "竹竿",
+        "strokes": 9
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "科",
-        "side2": "科",
-        "side2b": "科學"
+        "side1": "田",
+        "side2": "田",
+        "side2b": "農田",
+        "strokes": 5
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "全",
-        "side2": "全",
-        "side2b": "全部"
+        "side1": "識",
+        "side2": "識",
+        "side2b": "認識",
+        "strokes": 19
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "簾",
+        "side2": "簾",
+        "side2b": "窗簾",
+        "strokes": 19
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "塘",
+        "side2": "塘",
+        "side2b": "池塘",
+        "strokes": 13
       }
     }
   ]

@@ -5,145 +5,181 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "塊",
-        "side2": "塊",
-        "side2b": "一塊"
+        "side1": "運",
+        "side2": "運",
+        "side2b": "運動",
+        "strokes": 13
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "圓",
-        "side2": "圓",
-        "side2b": "圓圈"
+        "side1": "動",
+        "side2": "動",
+        "side2b": "動作",
+        "strokes": 11
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "形",
-        "side2": "形",
-        "side2b": "形狀"
+        "side1": "飄",
+        "side2": "飄",
+        "side2b": "飄揚",
+        "strokes": 20
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "芝",
-        "side2": "芝",
-        "side2b": "芝麻"
+        "side1": "熱",
+        "side2": "熱",
+        "side2b": "炎熱",
+        "strokes": 15
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "麻",
-        "side2": "麻",
-        "side2b": "麻將"
+        "side1": "鬧",
+        "side2": "鬧",
+        "side2b": "鬧區",
+        "strokes": 15
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "餅",
-        "side2": "餅",
-        "side2b": "餅乾"
+        "side1": "舞",
+        "side2": "舞",
+        "side2b": "跳舞",
+        "strokes": 14
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "咬",
-        "side2": "咬",
-        "side2b": "咬傷"
+        "side1": "哇",
+        "side2": "哇",
+        "side2b": "好哇",
+        "strokes": 9
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "飯",
-        "side2": "飯",
-        "side2b": "吃飯"
+        "side1": "往",
+        "side2": "往",
+        "side2b": "往前",
+        "strokes": 8
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "做",
-        "side2": "做",
-        "side2b": "做功課"
+        "side1": "容",
+        "side2": "容",
+        "side2b": "容易",
+        "strokes": 10
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "課",
-        "side2": "課",
-        "side2b": "課程"
+        "side1": "步",
+        "side2": "步",
+        "side2b": "跑步",
+        "strokes": 7
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "洗",
-        "side2": "洗",
-        "side2b": "洗手"
+        "side1": "汗",
+        "side2": "汗",
+        "side2b": "汗水",
+        "strokes": 6
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "澡",
-        "side2": "澡",
-        "side2b": "洗澡"
+        "side1": "腳",
+        "side2": "腳",
+        "side2b": "腳踏車",
+        "strokes": 13
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "拾",
-        "side2": "拾",
-        "side2b": "收拾"
+        "side1": "協",
+        "side2": "協",
+        "side2b": "協助",
+        "strokes": 8
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "整",
-        "side2": "整",
-        "side2b": "整理"
+        "side1": "聲",
+        "side2": "聲",
+        "side2b": "聲音",
+        "strokes": 17
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "包",
-        "side2": "包",
-        "side2b": "書包"
+        "side1": "河",
+        "side2": "河",
+        "side2b": "河流",
+        "strokes": 8
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "遊",
-        "side2": "遊",
-        "side2b": "遊戲"
+        "side1": "氣",
+        "side2": "氣",
+        "side2b": "生氣",
+        "strokes": 10
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "戲",
-        "side2": "戲",
-        "side2b": "演戲"
+        "side1": "最",
+        "side2": "最",
+        "side2b": "最好",
+        "strokes": 12
       }
     },
     {
       "id": "00018",
       "fields": {
-        "side1": "剩",
-        "side2": "剩",
-        "side2b": "剩下"
+        "side1": "可",
+        "side2": "可",
+        "side2b": "可愛",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "賽",
+        "side2": "賽",
+        "side2b": "比賽",
+        "strokes": 17
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "拔",
+        "side2": "拔",
+        "side2b": "拔河",
+        "strokes": 8
       }
     }
   ]

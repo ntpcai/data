@@ -3201,7 +3201,7 @@
       }
     ]
   },
-  "二年上": {
+  "113學年": {
     "第一課": [
       {
         "id": "00001",
@@ -4356,7 +4356,7 @@
         "fields": {
           "side1": "明",
           "side2": "明",
-          "side2b": "明天",
+          "side2b": "明亮",
           "strokes": 8
         }
       },
@@ -5195,7 +5195,7 @@
         "fields": {
           "side1": "戴",
           "side2": "戴",
-          "side2b": "戴帽",
+          "side2b": "戴口罩",
           "strokes": 17
         }
       },
@@ -5204,7 +5204,7 @@
         "fields": {
           "side1": "扁",
           "side2": "扁",
-          "side2b": "壓扁",
+          "side2b": "扁擔",
           "strokes": 9
         }
       }
@@ -5215,7 +5215,7 @@
         "fields": {
           "side1": "雪",
           "side2": "雪",
-          "side2b": "雪櫃",
+          "side2b": "白雪",
           "strokes": 11
         }
       },
@@ -5224,7 +5224,7 @@
         "fields": {
           "side1": "梨",
           "side2": "梨",
-          "side2b": "梨子",
+          "side2b": "水梨",
           "strokes": 11
         }
       },
@@ -5233,7 +5233,7 @@
         "fields": {
           "side1": "夜",
           "side2": "夜",
-          "side2b": "夜晚",
+          "side2b": "半晚",
           "strokes": 8
         }
       },
@@ -5242,7 +5242,7 @@
         "fields": {
           "side1": "卻",
           "side2": "卻",
-          "side2b": "推卻",
+          "side2b": "卻是",
           "strokes": 9
         }
       },
@@ -5278,7 +5278,7 @@
         "fields": {
           "side1": "相",
           "side2": "相",
-          "side2b": "相反",
+          "side2b": "互相",
           "strokes": 9
         }
       },
@@ -5287,7 +5287,7 @@
         "fields": {
           "side1": "反",
           "side2": "反",
-          "side2b": "反對",
+          "side2b": "唱反調",
           "strokes": 4
         }
       },
@@ -5341,7 +5341,7 @@
         "fields": {
           "side1": "貨",
           "side2": "貨",
-          "side2b": "年貨",
+          "side2b": "百貨",
           "strokes": 11
         }
       },
@@ -5359,7 +5359,7 @@
         "fields": {
           "side1": "敬",
           "side2": "敬",
-          "side2b": "敬祝",
+          "side2b": "尊敬",
           "strokes": 13
         }
       },
@@ -5386,7 +5386,7 @@
         "fields": {
           "side1": "灣",
           "side2": "灣",
-          "side2b": "灣區",
+          "side2b": "峽灣",
           "strokes": 25
         }
       }

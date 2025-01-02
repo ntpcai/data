@@ -1,5 +1,7 @@
 {
-  "set": "二年上",
+  "set": "113學年",
+  "grade": "二年上",
+  "publisher": "康軒",
   "subset": "第七課",
   "data": [
     {
@@ -61,7 +63,7 @@
       "fields": {
         "side1": "明",
         "side2": "明",
-        "side2b": "明天",
+        "side2b": "明亮",
         "strokes": 8
       }
     },

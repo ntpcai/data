@@ -5,145 +5,182 @@
     {
       "id": "00001",
       "fields": {
-        "side1": "角",
-        "side2": "角",
-        "side2b": "角落"
+        "side1": "渴",
+        "side2": "渴",
+        "side2b": "口渴",
+        "strokes": 12
       }
     },
     {
       "id": "00002",
       "fields": {
-        "side1": "腳",
-        "side2": "腳",
-        "side2b": "腳踏車"
+        "side1": "烏",
+        "side2": "烏",
+        "side2b": "烏雲",
+        "strokes": 10
       }
     },
     {
       "id": "00003",
       "fields": {
-        "side1": "渴",
-        "side2": "渴",
-        "side2b": "口渴"
+        "side1": "喝",
+        "side2": "喝",
+        "side2b": "喝水",
+        "strokes": 12
       }
     },
     {
       "id": "00004",
       "fields": {
-        "side1": "鹿",
-        "side2": "鹿",
-        "side2b": "馴鹿"
+        "side1": "瓶",
+        "side2": "瓶",
+        "side2b": "花瓶",
+        "strokes": 11
       }
     },
     {
       "id": "00005",
       "fields": {
-        "side1": "喝",
-        "side2": "喝",
-        "side2b": "喝水"
+        "side1": "法",
+        "side2": "法",
+        "side2b": "辦法",
+        "strokes": 8
       }
     },
     {
       "id": "00006",
       "fields": {
-        "side1": "影",
-        "side2": "影",
-        "side2b": "倒影"
+        "side1": "森",
+        "side2": "森",
+        "side2b": "森林",
+        "strokes": 12
       }
     },
     {
       "id": "00007",
       "fields": {
-        "side1": "意",
-        "side2": "意",
-        "side2b": "滿意"
+        "side1": "林",
+        "side2": "林",
+        "side2b": "山林",
+        "strokes": 8
       }
     },
     {
       "id": "00008",
       "fields": {
-        "side1": "卻",
-        "side2": "卻",
-        "side2b": "推卻"
+        "side1": "物",
+        "side2": "物",
+        "side2b": "動物",
+        "strokes": 8
       }
     },
     {
       "id": "00009",
       "fields": {
-        "side1": "獅",
-        "side2": "獅",
-        "side2b": "獅子"
+        "side1": "旅",
+        "side2": "旅",
+        "side2b": "旅行",
+        "strokes": 10
       }
     },
     {
       "id": "00010",
       "fields": {
-        "side1": "追",
-        "side2": "追",
-        "side2b": "追求"
+        "side1": "行",
+        "side2": "行",
+        "side2b": "行人",
+        "strokes": 6
       }
     },
     {
       "id": "00011",
       "fields": {
-        "side1": "被",
-        "side2": "被",
-        "side2b": "棉被"
+        "side1": "午",
+        "side2": "午",
+        "side2b": "午餐",
+        "strokes": 4
       }
     },
     {
       "id": "00012",
       "fields": {
-        "side1": "枝",
-        "side2": "枝",
-        "side2b": "樹枝"
+        "side1": "裝",
+        "side2": "裝",
+        "side2b": "裝潢",
+        "strokes": 13
       }
     },
     {
       "id": "00013",
       "fields": {
-        "side1": "掙",
-        "side2": "掙",
-        "side2b": "掙脫"
+        "side1": "許",
+        "side2": "許",
+        "side2b": "許多",
+        "strokes": 11
       }
     },
     {
       "id": "00014",
       "fields": {
-        "side1": "脫",
-        "side2": "脫",
-        "side2b": "脫落"
+        "side1": "石",
+        "side2": "石",
+        "side2b": "寶石",
+        "strokes": 5
       }
     },
     {
       "id": "00015",
       "fields": {
-        "side1": "速",
-        "side2": "速",
-        "side2b": "速度"
+        "side1": "難",
+        "side2": "難",
+        "side2b": "難忘",
+        "strokes": 19
       }
     },
     {
       "id": "00016",
       "fields": {
-        "side1": "度",
-        "side2": "度",
-        "side2b": "度假"
+        "side1": "忘",
+        "side2": "忘",
+        "side2b": "忘記",
+        "strokes": 7
       }
     },
     {
       "id": "00017",
       "fields": {
-        "side1": "直",
-        "side2": "直",
-        "side2b": "直接"
+        "side1": "哈",
+        "side2": "哈",
+        "side2b": "笑哈哈",
+        "strokes": 9
       }
     },
     {
       "id": "00018",
+      "lang": "zh-CN",
       "fields": {
-        "side1": "救",
-        "side2": "救",
-        "side2b": "救命"
+        "side1": "但",
+        "side2": "但",
+        "side2b": "但是",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "熊",
+        "side2": "熊",
+        "side2b": "黑熊",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "鴉",
+        "side2": "鴉",
+        "side2b": "烏鴉",
+        "strokes": 15
       }
     }
   ]
