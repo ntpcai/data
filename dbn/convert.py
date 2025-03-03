@@ -10,7 +10,7 @@ CHINESE_NUMERALS_ORDER = {
 
 # Custom subset ordering for specific sets
 CUSTOM_ORDERS = {
-    "注音符號": ["注音聲符", "注音韻母", "注音結合"]
+    "注音": ["聲符", "韻母", "結合"]
 }
 
 def get_sort_key(s):
