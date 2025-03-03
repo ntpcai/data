@@ -1,0 +1,90 @@
+{
+  "set": "一年上",
+  "year": "112學年",
+  "grade": "一年上",
+  "publisher": "康軒",
+  "subset": "第一課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "拍",
+        "side2": "拍",
+        "side2b": "球拍",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "手",
+        "side2": "手",
+        "side2b": "雙手",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "左",
+        "side2": "左",
+        "side2b": "左手",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "右",
+        "side2": "右",
+        "side2b": "右邊",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "你",
+        "side2": "你",
+        "side2b": "你們",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "他",
+        "side2": "他",
+        "side2b": "他們",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "也",
+        "side2": "也",
+        "side2b": "也是",
+        "strokes": 3
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "上",
+        "side2": "上",
+        "side2b": "上樓",
+        "strokes": 3
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "下",
+        "side2": "下",
+        "side2b": "樓下",
+        "strokes": 3
+      }
+    }
+  ]
+}

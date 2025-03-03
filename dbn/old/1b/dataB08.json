@@ -1,0 +1,153 @@
+{
+  "set": "一年下",
+  "year": "112學年",
+  "grade": "一年下",
+  "publisher": "康軒",
+  "subset": "第八課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "妹",
+        "side2": "妹",
+        "side2b": "妹妹󠇡",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "雨",
+        "side2": "雨",
+        "side2b": "雨傘",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "雙",
+        "side2": "雙",
+        "side2b": "一雙",
+        "strokes": 18
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "穿",
+        "side2": "穿",
+        "side2b": "穿著",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "滴",
+        "side2": "滴",
+        "side2b": "滴水穿石",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "遊",
+        "side2": "遊",
+        "side2b": "旅遊",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "戲",
+        "side2": "戲",
+        "side2b": "戲劇",
+        "strokes": 17
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "顆",
+        "side2": "顆",
+        "side2b": "一顆球",
+        "strokes": 17
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "珍",
+        "side2": "珍",
+        "side2b": "珍惜",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "珠",
+        "side2": "珠",
+        "side2b": "珠寶",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "落",
+        "side2": "落",
+        "side2b": "降落",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "面",
+        "side2": "面",
+        "side2b": "面紙",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "魚",
+        "side2": "魚",
+        "side2b": "鮭魚",
+        "strokes": 11
+      }
+    },
+        {
+      "id": "00014",
+      "fields": {
+        "side1": "缸",
+        "side2": "缸",
+        "side2b": "浴缸",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "金",
+        "side2": "金",
+        "side2b": "黃金",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "游",
+        "side2": "游",
+        "side2b": "游泳",
+        "strokes": 12
+      }
+    }
+  ]
+}
