@@ -1,0 +1,153 @@
+{
+  "set": "一年下",
+  "year": "112學年",
+  "grade": "一年下",
+  "publisher": "康軒",
+  "subset": "第四課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "鞋",
+        "side2": "鞋",
+        "side2b": "皮鞋",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "回",
+        "side2": "回",
+        "side2b": "回答",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "家",
+        "side2": "家",
+        "side2b": "家庭",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "把",
+        "side2": "把",
+        "side2b": "手把",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "脫",
+        "side2": "脫",
+        "side2b": "脫鞋子",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "爸",
+        "side2": "爸",
+        "side2b": "爸爸",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "靠",
+        "side2": "靠",
+        "side2b": "椅靠",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "見",
+        "side2": "見",
+        "side2b": "好久不見",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "像",
+        "side2": "像",
+        "side2b": "好像",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "船",
+        "side2": "船",
+        "side2b": "船槳",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "港",
+        "side2": "港",
+        "side2b": "港口",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "口",
+        "side2": "口",
+        "side2b": "巷口",
+        "strokes": 3
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "享",
+        "side2": "享",
+        "side2b": "享受",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "受",
+        "side2": "受",
+        "side2b": "忍受",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "溫",
+        "side2": "溫",
+        "side2b": "溫度",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "暖",
+        "side2": "暖",
+        "side2b": "春暖花開",
+        "strokes": 13
+      }
+    }
+  ]
+}

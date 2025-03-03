@@ -1,5 +1,8 @@
 {
   "set": "一年上",
+  "year": "112學年",
+  "grade": "一年上",
+  "publisher": "康軒",
   "subset": "第六課",
   "data": [
     {
@@ -116,7 +119,7 @@
         "side1": "那",
         "side2": "那",
         "side2b": "那裡",
-        "strokes": 7
+        "strokes": 11
       }
     }
   ]

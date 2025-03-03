@@ -1,0 +1,18 @@
+{
+  "set": "二年下",
+  "year": "113學年",
+  "grade": "二年下",
+  "publisher": "康軒",
+  "subset": "第一課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "德",
+        "side2": "德",
+        "side2b": "道德",
+        "strokes": 15
+      }
+    }
+  ]
+}
