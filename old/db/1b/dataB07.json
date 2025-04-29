@@ -1,0 +1,142 @@
+{
+  "set": "一年下",
+  "subset": "第七課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "作",
+        "side2": "作",
+        "side2b": "作業",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "夢",
+        "side2": "夢",
+        "side2b": "夢想",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "躺",
+        "side2": "躺",
+        "side2b": "躺下",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "自",
+        "side2": "自",
+        "side2b": "自然",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "己",
+        "side2": "己",
+        "side2b": "自己",
+        "strokes": 3
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "變",
+        "side2": "變",
+        "side2b": "變化",
+        "strokes": 23
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "成",
+        "side2": "成",
+        "side2b": "成功",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "棉",
+        "side2": "棉",
+        "side2b": "棉花",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "糖",
+        "side2": "糖",
+        "side2b": "糖果",
+        "strokes": 16
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "黑",
+        "side2": "黑",
+        "side2b": "黑暗",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "鵝",
+        "side2": "鵝",
+        "side2b": "天鵝",
+        "strokes": 18
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "得",
+        "side2": "得󠇡",
+        "side2b": "跑得󠇡快",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "更",
+        "side2": "更",
+        "side2b": "更健康",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "漂",
+        "side1p": "票",
+        "side2": "漂",
+        "side2b": "漂亮",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "亮",
+        "side2": "亮",
+        "side2b": "明亮",
+        "strokes": 9
+      }
+    }
+  ]
+}

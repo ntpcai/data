@@ -1,0 +1,188 @@
+{
+  "set": "113學年",
+  "grade": "二年上",
+  "publisher": "康軒",
+  "subset": "第三課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "巷",
+        "side2": "巷",
+        "side2b": "巷口",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "叔",
+        "side2": "叔",
+        "side2b": "叔公",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "貓",
+        "side2": "貓",
+        "side2b": "貓咪",
+        "strokes": 16
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "屋",
+        "side2": "屋",
+        "side2b": "房屋",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "捧",
+        "side2": "捧",
+        "side2b": "捧花",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "蝴",
+        "side2": "蝴",
+        "side2b": "蝴蝶",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "蝶",
+        "side2": "蝶",
+        "side2b": "蝴蝶",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "忙",
+        "side2": "忙",
+        "side2b": "忙碌",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "娶",
+        "side2": "娶",
+        "side2b": "嫁娶",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "娘",
+        "side2": "娘",
+        "side2b": "姑娘",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "黃",
+        "side2": "黃",
+        "side2b": "蛋黃",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "筆",
+        "side2": "筆",
+        "side2b": "鋼筆",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "打",
+        "side2": "打",
+        "side2b": "打工",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "扮",
+        "side2": "扮",
+        "side2b": "扮鬼臉",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "樣",
+        "side2": "樣",
+        "side2b": "不一樣",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "越",
+        "side2": "越",
+        "side2b": "越南",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00017",
+      "fields": {
+        "side1": "美",
+        "side2": "美",
+        "side2b": "美麗",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00018",
+      "fields": {
+        "side1": "麗",
+        "side2": "麗",
+        "side2b": "華麗",
+        "strokes": 19
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "牆",
+        "side2": "牆",
+        "side2b": "圍牆",
+        "strokes": 17
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "模",
+        "side2": "模",
+        "side2b": "模型",
+        "strokes": 15
+      }
+    }
+  ]
+}

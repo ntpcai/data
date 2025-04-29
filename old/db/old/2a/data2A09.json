@@ -1,0 +1,186 @@
+{
+  "set": "二年上",
+  "subset": "第九課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "象",
+        "side2": "象",
+        "side2b": "大象",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "操",
+        "side2": "操",
+        "side2b": "操場",
+        "strokes": 16
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "粗",
+        "side2": "粗",
+        "side2b": "粗心",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "腿",
+        "side2": "腿",
+        "side2b": "大腿",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "柱",
+        "side2": "柱",
+        "side2b": "支柱",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "砍",
+        "side2": "砍",
+        "side2b": "砍樹",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "幾",
+        "side2": "幾",
+        "side2b": "幾歲",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "部",
+        "side2": "部",
+        "side2b": "部分",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "搖",
+        "side2": "搖",
+        "side2b": "搖頭",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "沖",
+        "side2": "沖",
+        "side2b": "沖澡",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "首",
+        "side2": "首",
+        "side2b": "首先",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "牽",
+        "side2": "牽",
+        "side2b": "牽手",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "沉",
+        "side2": "沉",
+        "side2b": "沉默",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "少",
+        "side2": "少",
+        "side2b": "多少",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "沿",
+        "side2": "沿",
+        "side2b": "沿著",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "然",
+        "side2": "然",
+        "side2b": "然後",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00017",
+      "fields": {
+        "side1": "紀",
+        "side2": "紀",
+        "side2b": "世紀",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00018",
+      "fields": {
+        "side1": "竟",
+        "side2": "竟",
+        "side2b": "究竟",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "曹",
+        "side2": "曹",
+        "side2b": "曹先生",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "秤",
+        "side2": "秤",
+        "side2b": "秤重",
+        "strokes": 10
+      }
+    }
+  ]
+}

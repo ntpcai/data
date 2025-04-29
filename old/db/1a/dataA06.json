@@ -1,0 +1,123 @@
+{
+  "set": "一年上",
+  "subset": "第六課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "路",
+        "side2": "路",
+        "side2b": "路人",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "長",
+        "side2": "長",
+        "side2b": "長遠",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "白",
+        "side2": "白",
+        "side2b": "白沙",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "花",
+        "side2": "花",
+        "side2b": "櫻花",
+        "strokes": 8
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "紅",
+        "side2": "紅",
+        "side2b": "紅包",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "走",
+        "side2": "走",
+        "side2b": "走路",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "在",
+        "side2": "在",
+        "side2b": "在家",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "向",
+        "side2": "向",
+        "side2b": "方向",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "說",
+        "side2": "說",
+        "side2b": "說話",
+        "strokes": 14
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "朵",
+        "side2": "朵",
+        "side2b": "一󠇢朵",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "從",
+        "side2": "從",
+        "side2b": "跟從",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "頭",
+        "side2": "頭",
+        "side2b": "頭髮",
+        "strokes": 16
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "那",
+        "side2": "那",
+        "side2b": "那裡",
+        "strokes": 7
+      }
+    }
+  ]
+}
