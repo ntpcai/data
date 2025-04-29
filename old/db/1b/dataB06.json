@@ -1,0 +1,150 @@
+{
+  "set": "一年下",
+  "subset": "第六課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "奶",
+        "side2": "奶",
+        "side2b": "牛奶",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "跟",
+        "side2": "跟",
+        "side2b": "跟蹤",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "班",
+        "side2": "班",
+        "side2b": "上班",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "床",
+        "side2": "床",
+        "side2b": "起床",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "弟",
+        "side2": "弟",
+        "side2b": "弟弟",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "她",
+        "side2": "她",
+        "side2b": "她們",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "酒",
+        "side2": "酒",
+        "side2b": "酒品",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "拿",
+        "side2": "拿",
+        "side2b": "取拿",
+        "strokes": 10
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "卡",
+        "side2": "卡",
+        "side2b": "卡關",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "片",
+        "side2": "片",
+        "side2b": "厚片吐司",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "給",
+        "side2": "給",
+        "side2b": "給予",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "寫",
+        "side2": "寫",
+        "side2b": "寫字",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "喜",
+        "side2": "喜",
+        "side2b": "喜歡",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "歡",
+        "side2": "歡",
+        "side2b": "歡樂",
+        "strokes": 22
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "您",
+        "side2": "您",
+        "side2b": "您好",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "都",
+        "side2": "都",
+        "side2b": "都是",
+        "strokes": 11
+      }
+    }
+  ]
+}

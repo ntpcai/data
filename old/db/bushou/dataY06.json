@@ -1,0 +1,74 @@
+{
+  "set": "部首",
+  "subset": "一下三",
+  "data": [
+    {
+      "id": "00001",
+      "type": "部首",
+      "fields": {
+        "side1": "方",
+        "side2": "於",
+        "side2b": "方"
+      }
+    },
+    {
+      "id": "00002",
+      "lang": "zh-CN",
+      "type": "部首",
+      "fields": {
+        "side1": "攵",
+        "side1p": "撲",
+        "side2": "放",
+        "side2b": "攴",
+        "side2p": "撲"
+      }
+    },
+    {
+      "id": "00003",
+      "type": "部首",
+      "fields": {
+        "side1": "广",
+        "side1p": "眼",
+        "side2": "床",
+        "side2b": "广",
+        "side2p": "眼"
+      }
+    },
+    {
+      "id": "00004",
+      "type": "部首",
+      "fields": {
+        "side1": "弓",
+        "side2": "弟",
+        "side2b": "弓"
+      }
+    },
+    {
+      "id": "00005",
+      "type": "部首",
+      "fields": {
+        "side1": "酉",
+        "side2": "酒",
+        "side2b": "酉"
+      }
+    },
+    {
+      "id": "00006",
+      "type": "部首",
+      "fields": {
+        "side1": "卜",
+        "side2": "卡",
+        "side2b": "卜"
+      }
+    },
+    {
+      "id": "00007",
+      "type": "部首",
+      "fields": {
+        "side1": "片",
+        "side2": "片",
+        "side2b": "片"
+      }
+    }
+  ]
+}

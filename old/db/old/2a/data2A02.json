@@ -1,0 +1,186 @@
+{
+  "set": "二年上",
+  "subset": "第二課",
+  "data": [
+    {
+      "id": "00001",
+      "fields": {
+        "side1": "全",
+        "side2": "全",
+        "side2b": "全家",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00002",
+      "fields": {
+        "side1": "蛋",
+        "side2": "蛋",
+        "side2b": "雞蛋",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00003",
+      "fields": {
+        "side1": "煎",
+        "side2": "煎",
+        "side2b": "煎菜",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00004",
+      "fields": {
+        "side1": "圓",
+        "side2": "圓",
+        "side2b": "圓形",
+        "strokes": 13
+      }
+    },
+    {
+      "id": "00005",
+      "fields": {
+        "side1": "番",
+        "side2": "番",
+        "side2b": "番薯",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00006",
+      "fields": {
+        "side1": "茄",
+        "side2": "茄",
+        "side2b": "茄子",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00007",
+      "fields": {
+        "side1": "切",
+        "side2": "切",
+        "side2b": "切刀",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00008",
+      "fields": {
+        "side1": "輪",
+        "side2": "輪",
+        "side2b": "車輪",
+        "strokes": 15
+      }
+    },
+    {
+      "id": "00009",
+      "fields": {
+        "side1": "司",
+        "side2": "司",
+        "side2b": "公司",
+        "strokes": 5
+      }
+    },
+    {
+      "id": "00010",
+      "fields": {
+        "side1": "夾",
+        "side2": "夾",
+        "side2b": "髮夾",
+        "strokes": 7
+      }
+    },
+    {
+      "id": "00011",
+      "fields": {
+        "side1": "吐",
+        "side2": "吐",
+        "side2b": "吐司",
+        "strokes": 6
+      }
+    },
+    {
+      "id": "00012",
+      "fields": {
+        "side1": "中",
+        "side2": "中",
+        "side2b": "中間",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00013",
+      "fields": {
+        "side1": "方",
+        "side2": "方",
+        "side2b": "方便",
+        "strokes": 4
+      }
+    },
+    {
+      "id": "00014",
+      "fields": {
+        "side1": "城",
+        "side2": "城",
+        "side2b": "城市",
+        "strokes": 9
+      }
+    },
+    {
+      "id": "00015",
+      "fields": {
+        "side1": "堡",
+        "side2": "堡",
+        "side2b": "城堡",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00016",
+      "fields": {
+        "side1": "接",
+        "side2": "接",
+        "side2b": "接送",
+        "strokes": 11
+      }
+    },
+    {
+      "id": "00017",
+      "fields": {
+        "side1": "畫",
+        "side2": "畫",
+        "side2b": "畫家",
+        "strokes": 12
+      }
+    },
+    {
+      "id": "00018",
+      "fields": {
+        "side1": "臉",
+        "side2": "臉",
+        "side2b": "臉龐",
+        "strokes": 17
+      }
+    },
+    {
+      "id": "00019",
+      "fields": {
+        "side1": "餐",
+        "side2": "餐",
+        "side2b": "餐廳",
+        "strokes": 16
+      }
+    },
+    {
+      "id": "00020",
+      "fields": {
+        "side1": "醬",
+        "side2": "醬",
+        "side2b": "醬油",
+        "strokes": 18
+      }
+    }
+  ]
+}

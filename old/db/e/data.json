@@ -1,0 +1,832 @@
+{
+  "英語": {
+    "第一課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Accountant",
+          "side2": "會計師",
+          "side2b": "Accountant"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Fitness Instructor",
+          "side2": "健身教練",
+          "side2b": "Fitness Instructor"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Photographer",
+          "side2": "攝影師",
+          "side2b": "Photographer"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Pilot",
+          "side2": "飛行員",
+          "side2b": "Pilot"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Counselor",
+          "side2": "輔導員",
+          "side2b": "Counselor"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Architect",
+          "side2": "建築師",
+          "side2b": "Architect"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Scientist",
+          "side2": "科學家",
+          "side2b": "Scientist"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Plumber",
+          "side2": "水管工",
+          "side2b": "Plumber"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Firefighter",
+          "side2": "消防員",
+          "side2b": "Firefighter"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Dentist",
+          "side2": "牙醫",
+          "side2b": "Dentist"
+        }
+      }
+    ],
+    "第二課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Veterinarian",
+          "side2": "獸醫",
+          "side2b": "Veterinarian"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Lifeguard",
+          "side2": "救生員",
+          "side2b": "Lifeguard"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Author",
+          "side2": "作者",
+          "side2b": "Author"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Mechanic",
+          "side2": "機械師",
+          "side2b": "Mechanic"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Engineer",
+          "side2": "工程師",
+          "side2b": "Engineer"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Policeman",
+          "side2": "警察",
+          "side2b": "Policeman"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Illustrator",
+          "side2": "插畫家",
+          "side2b": "Illustrator"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Pharmacist",
+          "side2": "藥劑師",
+          "side2b": "Pharmacist"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Chef",
+          "side2": "廚師",
+          "side2b": "Chef"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Chemist",
+          "side2": "化學家",
+          "side2b": "Chemist"
+        }
+      }
+    ],
+    "第三課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Biologist",
+          "side2": "生物學家",
+          "side2b": "Biologist"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Astronomer",
+          "side2": "天文學家",
+          "side2b": "Astronomer"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Teacher",
+          "side2": "老師",
+          "side2b": "Teacher"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Nurse",
+          "side2": "護士",
+          "side2b": "Nurse"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Musician",
+          "side2": "音樂家",
+          "side2b": "Musician"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Librarian",
+          "side2": "圖書館員",
+          "side2b": "Librarian"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Landscaper",
+          "side2": "園林設計師",
+          "side2b": "Landscaper"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Farmer",
+          "side2": "農民",
+          "side2b": "Farmer"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Reporter",
+          "side2": "記者",
+          "side2b": "Reporter"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Doctor",
+          "side2": "醫生",
+          "side2b": "Doctor"
+        }
+      }
+    ],
+    "第四課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "Advent",
+          "side1p": "ad-vent",
+          "side2": "預備期",
+          "side2b": "Advent"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Christmas",
+          "side2": "聖誕節",
+          "side2b": "Christmas"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Nativity",
+          "side2": "耶穌誕生",
+          "side2b": "Nativity"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Manger",
+          "side2": "馬槽",
+          "side2b": "Manger"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Carols",
+          "side2": "聖誕歌曲",
+          "side2b": "Carols"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Noel",
+          "side2": "聖誕",
+          "side2b": "Noel"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Reindeer",
+          "side2": "馴鹿",
+          "side2b": "Reindeer"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Salvation",
+          "side2": "救贖",
+          "side2b": "Salvation"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Atone",
+          "side2": "贖回",
+          "side2b": "Atone"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Prophecy",
+          "side2": "預言",
+          "side2b": "Prophecy"
+        }
+      },
+      {
+        "id": "00011",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Redemption",
+          "side2": "贖罪",
+          "side2b": "Redemption"
+        }
+      },
+      {
+        "id": "00012",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Covenant",
+          "side2": "約定",
+          "side2b": "Covenant"
+        }
+      },
+      {
+        "id": "00013",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Immanuel",
+          "side2": "以馬內利",
+          "side2b": "Immanuel"
+        }
+      },
+      {
+        "id": "00014",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Trinity",
+          "side2": "三位一體",
+          "side2b": "Trinity"
+        }
+      },
+      {
+        "id": "00015",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Epiphany",
+          "side2": "頓悟",
+          "side2b": "Epiphany"
+        }
+      },
+      {
+        "id": "00016",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "Poinsettia",
+          "side2": "聖誕紅",
+          "side2b": "Poinsettia"
+        }
+      }
+    ],
+    "第五課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "snowman",
+          "side2": "雪人",
+          "side2b": "Frosty"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "jolly",
+          "side2": "快樂的",
+          "side2b": "joyful"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "corncob pipe",
+          "side2": "玉米棒煙斗",
+          "side2b": "rustic pipe"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "fairy tale",
+          "side2": "童話",
+          "side2b": "fable"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "tinsel",
+          "side2": "閃光裝飾",
+          "side2b": "glitter"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "stocking",
+          "side2": "聖誕襪",
+          "side2b": "sock"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "sleigh",
+          "side2": "雪橇",
+          "side2b": "sled"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "animated",
+          "side2": "活生生的",
+          "side2b": "lifelike"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "frolic",
+          "side2": "快樂地玩耍",
+          "side2b": "romp"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "radiant",
+          "side2": "輝煌的",
+          "side2b": "shiny"
+        }
+      }
+    ],
+    "第六課": [
+      {
+        "id": "00001",
+        "lang": "en",
+        "type": "vocab",
+        "fields": {
+          "side1": "festivity",
+          "side2": "節慶",
+          "side2b": "celebration"
+        }
+      },
+      {
+        "id": "00002",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "merriment",
+          "side2": "歡樂",
+          "side2b": "joy"
+        }
+      },
+      {
+        "id": "00003",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "jubilation",
+          "side2": "慶祝",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00004",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "revelry",
+          "side2": "狂歡",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00005",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "glee",
+          "side2": "快樂",
+          "side2b": "joy"
+        }
+      },    
+      {
+        "id": "00006",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "exhilaration",
+          "side2": "興奮",
+          "side2b": "joy"
+        }
+      },  
+      {
+        "id": "00007",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "euphoria",
+          "side2": "愉快",
+          "side2b": "joy"
+        }
+      }, 
+      {
+        "id": "00008",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "bliss",
+          "side2": "極樂",
+          "side2b": "joy"
+        }
+      },  
+      {
+        "id": "00009",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "harmony",
+          "side2": "和諧",
+          "side2b": "peace"
+        }
+      },
+      {
+        "id": "00010",
+        "type": "vocab",
+        "lang": "en",
+        "fields": {
+          "side1": "mirth",
+          "side2": "歡笑",
+          "side2b": "joy"
+        }
+      }
+    ],
+    "聖誕節": [
+      { 
+        "id": "00001",
+        "lang": "rudolph.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Rudolph",
+          "side2": "魯道夫",
+          "side2b": "Red Nose Reindeer"
+        }
+      },
+      { 
+        "id": "00002",
+        "lang": "frosty.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Frosty",
+          "side2": "雪人",
+          "side2b": "The Snowman"
+        }
+      },
+      { 
+        "id": "00003",
+        "lang": "twelvedays.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "12 Days",
+          "side2": "聖誕節的十二天",
+          "side2b": "12 Days of Xmas"
+        }
+      },
+      { 
+        "id": "00004",
+        "lang": "wishyou.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Wish You",
+          "side2": "聖誕節快樂",
+          "side2b": "A Merry Christmas"
+        }
+      },
+      { 
+        "id": "00005",
+        "lang": "grinch.mp3",
+        "type": "vocab",
+        "fields": {
+          "side1": "Mr. Grinch",
+          "side2": "鬼靈精",
+          "side2b": "The Grinch"
+        }
+      }
+    ]
+  },
+  "德語": {
+    "第一週": [
+      {
+        "id": "00001",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "guten morgen",
+          "side2": "早安",
+          "side2b": "guten morgen"
+        }
+      },
+      {
+        "id": "00002",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "guten abend",
+          "side2": "晚安",
+          "side2b": "guten abend"
+        }
+      },
+      {
+        "id": "00003",
+        "lang": "de-DE",
+        "type": "vocab",
+        "fields": {
+          "side1": "entschuldigung",
+          "side2": "對不起",
+          "side2b": "entschuldigung"
+        }
+      }
+    ]
+  },
+  "西班牙語": {
+    "第一週": [
+      {
+        "id": "00001",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "buenas días",
+          "side2": "早安",
+          "side2b": "buenas días"
+        }
+      },
+      {
+        "id": "00002",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "buenas noches",
+          "side2": "晚安",
+          "side2b": "buenas noches"
+        }
+      },
+      {
+        "id": "00003",
+        "lang": "es-ES",
+        "type": "vocab",
+        "fields": {
+          "side1": "lo siento",
+          "side2": "對不起",
+          "side2b": "lo siento"
+        }
+      }
+    ]
+  },  
+  "日語": {
+    "第一週": [
+      {
+        "id": "00001",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "お早う",
+          "side2": "早安",
+          "side2b": "お早う"
+        }
+      },
+      {
+        "id": "00002",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "こんばんは",
+          "side2": "晚安",
+          "side2b": "こんばんは"
+        }
+      },
+      {
+        "id": "00003",
+        "lang": "ja-JP",
+        "type": "vocab",
+        "fields": {
+          "side1": "ごめん",
+          "side2": "對不起",
+          "side2b": "ごめん"
+        }
+      }
+
+    ]
+  }
+}

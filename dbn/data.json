@@ -1603,7 +1603,7 @@
               "side1": "還",
               "strokes": 17,
               "side2": "還",
-              "side2b": "還給"
+              "side2b": "還有"
             }
           },
           {
@@ -1843,7 +1843,7 @@
               "side1": "顆",
               "strokes": 17,
               "side2": "顆",
-              "side2b": "明星"
+              "side2b": "一棵樹"
             }
           },
           {
@@ -1941,6 +1941,7 @@
             "fields": {
               "side1": "漂",
               "strokes": 14,
+              "side1p": "票",
               "side2": "漂",
               "side2b": "漂亮"
             }
@@ -2132,9 +2133,10 @@
             "fields": {
               "side1": "長",
               "strokes": 8,
-              "side1p": "x",
-              "side2": "長",
-              "side2b": "長大"
+              "side1p": "掌",
+              "side2": "長󠇡",
+              "side2b": "長󠇡大",
+              "side2p": "掌大"
             }
           },
           {
@@ -2661,10 +2663,10 @@
           {
             "id": "00005",
             "fields": {
-              "side1": "種",
+              "side1": "種󠇡",
               "strokes": 14,
-              "side2": "種",
-              "side2b": "種田"
+              "side2": "種󠇡",
+              "side2b": "種󠇡田"
             }
           },
           {
@@ -8542,11 +8544,11 @@
           {
             "id": "00005",
             "fields": {
-              "side1": "興",
+              "side1": "興󠇡",
               "strokes": 16,
               "side1p": "幸",
-              "side2": "興",
-              "side2b": "高興"
+              "side2": "興󠇡",
+              "side2b": "高興󠇡"
             }
           },
           {
@@ -8676,7 +8678,7 @@
               "strokes": 14,
               "side1p": "ㄕㄤ˙",
               "side2": "裳󠇡",
-              "side2b": "衣裳"
+              "side2b": "衣裳󠇡"
             }
           },
           {
@@ -8765,6 +8767,7 @@
             "fields": {
               "side1": "而",
               "strokes": 6,
+              "side1p": "，而",
               "side2": "而",
               "side2b": "而且"
             }
@@ -8784,7 +8787,7 @@
               "side1": "紫",
               "strokes": 12,
               "side2": "紫",
-              "side2b": "紫色"
+              "side2b": "紫葡萄"
             }
           },
           {
@@ -8817,15 +8820,6 @@
           {
             "id": "00017",
             "fields": {
-              "side1": "剪",
-              "strokes": 12,
-              "side2": "剪",
-              "side2b": "剪刀"
-            }
-          },
-          {
-            "id": "00018",
-            "fields": {
               "side1": "貼",
               "strokes": 12,
               "side2": "貼",
@@ -8833,13 +8827,21 @@
             }
           },
           {
+            "id": "00018",
+            "fields": {
+              "side1": "候",
+              "strokes": 10,
+              "side2": "候",
+              "side2b": "時候"
+            }
+          },
+          {
             "id": "00019",
             "fields": {
-              "side1": "侯",
-              "strokes": 10,
-              "side1p": "後",
-              "side2": "侯",
-              "side2b": "時候"
+              "side1": "剪",
+              "strokes": 12,
+              "side2": "剪",
+              "side2b": "剪刀"
             }
           },
           {
@@ -8901,15 +8903,6 @@
           {
             "id": "00006",
             "fields": {
-              "side1": "壞",
-              "strokes": 19,
-              "side2": "壞",
-              "side2b": "壞掉"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
               "side1": "強",
               "strokes": 11,
               "side2": "強",
@@ -8917,7 +8910,7 @@
             }
           },
           {
-            "id": "00008",
+            "id": "00007",
             "fields": {
               "side1": "被",
               "strokes": 10,
@@ -8926,16 +8919,16 @@
             }
           },
           {
-            "id": "00009",
+            "id": "00008",
             "fields": {
               "side1": "特",
               "strokes": 10,
               "side2": "特",
-              "side2b": "特殊勝"
+              "side2b": "特殊生"
             }
           },
           {
-            "id": "00010",
+            "id": "00009",
             "fields": {
               "side1": "舌",
               "strokes": 6,
@@ -8944,7 +8937,7 @@
             }
           },
           {
-            "id": "00011",
+            "id": "00010",
             "fields": {
               "side1": "欣",
               "strokes": 8,
@@ -8953,75 +8946,84 @@
             }
           },
           {
-            "id": "00012",
+            "id": "00011",
             "fields": {
               "side1": "賞",
               "strokes": 15,
               "side2": "賞",
-              "side2b": "賞識"
+              "side2b": "賞花"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "果",
+              "strokes": 8,
+              "side2": "果",
+              "side2b": "成果"
             }
           },
           {
             "id": "00013",
             "fields": {
-              "side1": "果",
+              "side1": "定",
               "strokes": 8,
-              "side2": "果",
-              "side2b": "如果"
+              "side2": "定",
+              "side2b": "決定"
             }
           },
           {
             "id": "00014",
             "fields": {
-              "side1": "定",
-              "strokes": 8,
-              "side2": "定",
-              "side2b": "定位"
+              "side1": "互",
+              "strokes": 4,
+              "side2": "互",
+              "side2b": "互相"
             }
           },
           {
             "id": "00015",
             "fields": {
-              "side1": "互",
-              "strokes": 4,
-              "side2": "互",
-              "side2b": "互換"
+              "side1": "換",
+              "strokes": 12,
+              "side2": "換",
+              "side2b": "便換"
             }
           },
           {
             "id": "00016",
             "fields": {
-              "side1": "換",
-              "strokes": 12,
-              "side2": "換",
-              "side2b": "換衣服"
+              "side1": "此",
+              "strokes": 6,
+              "side2": "此",
+              "side2b": "彼此"
             }
           },
           {
             "id": "00017",
             "fields": {
-              "side1": "此",
+              "side1": "共",
               "strokes": 6,
-              "side2": "此",
-              "side2b": "此外"
+              "side2": "共",
+              "side2b": "總共"
             }
           },
           {
             "id": "00018",
             "fields": {
-              "side1": "共",
-              "strokes": 6,
-              "side2": "共",
-              "side2b": "共同"
+              "side1": "漸",
+              "strokes": 14,
+              "side2": "漸",
+              "side2b": "逐漸"
             }
           },
           {
             "id": "00019",
             "fields": {
-              "side1": "漸",
-              "strokes": 14,
-              "side2": "漸",
-              "side2b": "漸層"
+              "side1": "壞",
+              "strokes": 19,
+              "side2": "壞",
+              "side2b": "壞掉"
             }
           },
           {
@@ -9030,7 +9032,7 @@
               "side1": "融",
               "strokes": 16,
               "side2": "融",
-              "side2b": "融化"
+              "side2b": "融洽"
             }
           }
         ],
@@ -9065,23 +9067,14 @@
           {
             "id": "00004",
             "fields": {
-              "side1": "窗",
-              "strokes": 12,
-              "side2": "窗",
-              "side2b": "窗戶"
+              "side1": "暗",
+              "strokes": 13,
+              "side2": "暗",
+              "side2b": "暗地"
             }
           },
           {
             "id": "00005",
-            "fields": {
-              "side1": "暗",
-              "strokes": 13,
-              "side2": "暗",
-              "side2b": "黑暗"
-            }
-          },
-          {
-            "id": "00006",
             "fields": {
               "side1": "照",
               "strokes": 13,
@@ -9090,52 +9083,52 @@
             }
           },
           {
-            "id": "00007",
+            "id": "00006",
             "fields": {
               "side1": "掛",
               "strokes": 11,
               "side2": "掛",
-              "side2b": "掛號"
+              "side2b": "牽掛"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "微",
+              "strokes": 13,
+              "side2": "微",
+              "side2b": "稍微"
             }
           },
           {
             "id": "00008",
             "fields": {
-              "side1": "微",
-              "strokes": 13,
-              "side2": "微",
-              "side2b": "微笑"
+              "side1": "角",
+              "strokes": 7,
+              "side2": "角",
+              "side2b": "桌角"
             }
           },
           {
             "id": "00009",
             "fields": {
-              "side1": "角",
-              "strokes": 7,
-              "side2": "角",
-              "side2b": "三角型"
+              "side1": "揚",
+              "strokes": 12,
+              "side2": "揚",
+              "side2b": "張揚"
             }
           },
           {
             "id": "00010",
             "fields": {
-              "side1": "揚",
-              "strokes": 12,
-              "side2": "揚",
-              "side2b": "揚升"
+              "side1": "星",
+              "strokes": 9,
+              "side2": "星",
+              "side2b": "星期"
             }
           },
           {
             "id": "00011",
-            "fields": {
-              "side1": "星",
-              "strokes": 9,
-              "side2": "星",
-              "side2b": "明星"
-            }
-          },
-          {
-            "id": "00012",
             "fields": {
               "side1": "閃",
               "strokes": 10,
@@ -9144,34 +9137,34 @@
             }
           },
           {
-            "id": "00013",
+            "id": "00012",
             "fields": {
               "side1": "晶",
               "strokes": 12,
               "side2": "晶",
-              "side2b": "亮晶晶"
+              "side2b": "晶亮"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "當",
+              "strokes": 13,
+              "side2": "當",
+              "side2b": "當時"
             }
           },
           {
             "id": "00014",
             "fields": {
-              "side1": "當",
-              "strokes": 13,
-              "side2": "當",
-              "side2b": "當然"
+              "side1": "睡",
+              "strokes": 14,
+              "side2": "睡",
+              "side2b": "睡眠債"
             }
           },
           {
             "id": "00015",
-            "fields": {
-              "side1": "睡",
-              "strokes": 14,
-              "side2": "睡",
-              "side2b": "睡覺"
-            }
-          },
-          {
-            "id": "00016",
             "fields": {
               "side1": "悄",
               "strokes": 10,
@@ -9180,30 +9173,39 @@
             }
           },
           {
-            "id": "00017",
+            "id": "00016",
             "fields": {
               "side1": "常",
               "strokes": 11,
               "side2": "常",
-              "side2b": "時常"
+              "side2b": "日常"
+            }
+          },
+          {
+            "id": "00017",
+            "fields": {
+              "side1": "臂",
+              "strokes": 17,
+              "side2": "臂",
+              "side2b": "手臂"
             }
           },
           {
             "id": "00018",
             "fields": {
-              "side1": "臂",
-              "strokes": 17,
-              "side2": "臂",
-              "side2b": "臂膀"
+              "side1": "永",
+              "strokes": 5,
+              "side2": "永",
+              "side2b": "永恆"
             }
           },
           {
             "id": "00019",
             "fields": {
-              "side1": "永",
-              "strokes": 5,
-              "side2": "永",
-              "side2b": "永遠"
+              "side1": "窗",
+              "strokes": 12,
+              "side2": "窗",
+              "side2b": "窗簾"
             }
           },
           {
@@ -9212,7 +9214,7 @@
               "side1": "避",
               "strokes": 17,
               "side2": "避",
-              "side2b": "避免"
+              "side2b": "躲避"
             }
           }
         ],
@@ -9232,7 +9234,7 @@
               "side1": "品",
               "strokes": 9,
               "side2": "品",
-              "side2b": "品質"
+              "side2b": "品格"
             }
           },
           {
@@ -9241,7 +9243,7 @@
               "side1": "爺",
               "strokes": 13,
               "side2": "爺",
-              "side2b": "老爺"
+              "side2b": "爺爺"
             }
           },
           {
@@ -9250,7 +9252,7 @@
               "side1": "採",
               "strokes": 11,
               "side2": "採",
-              "side2b": "採購"
+              "side2b": "採收"
             }
           },
           {
@@ -9268,20 +9270,11 @@
               "side1": "軍",
               "strokes": 9,
               "side2": "軍",
-              "side2b": "將軍"
+              "side2b": "軍隊"
             }
           },
           {
             "id": "00007",
-            "fields": {
-              "side1": "機",
-              "strokes": 16,
-              "side2": "機",
-              "side2b": "飛機"
-            }
-          },
-          {
-            "id": "00008",
             "fields": {
               "side1": "告",
               "strokes": 7,
@@ -9290,16 +9283,16 @@
             }
           },
           {
-            "id": "00009",
+            "id": "00008",
             "fields": {
               "side1": "訴",
               "strokes": 12,
               "side2": "訴",
-              "side2b": "訴求"
+              "side2b": "訴說"
             }
           },
           {
-            "id": "00010",
+            "id": "00009",
             "fields": {
               "side1": "辛",
               "strokes": 7,
@@ -9308,70 +9301,61 @@
             }
           },
           {
-            "id": "00011",
+            "id": "00010",
             "fields": {
               "side1": "苦",
               "strokes": 9,
               "side2": "苦",
-              "side2b": "苦瓜"
+              "side2b": "苦盡"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "流",
+              "strokes": 9,
+              "side2": "流",
+              "side2b": "流汗"
             }
           },
           {
             "id": "00012",
             "fields": {
-              "side1": "流",
-              "strokes": 9,
-              "side2": "流",
-              "side2b": "流感"
+              "side1": "堅",
+              "strokes": 11,
+              "side2": "堅",
+              "side2b": "堅強"
             }
           },
           {
             "id": "00013",
             "fields": {
-              "side1": "蓋",
-              "strokes": 14,
-              "side2": "蓋",
-              "side2b": "蓋房子"
+              "side1": "固",
+              "strokes": 8,
+              "side2": "固",
+              "side2b": "固執"
             }
           },
           {
             "id": "00014",
             "fields": {
-              "side1": "堅",
-              "strokes": 11,
-              "side2": "堅",
-              "side2b": "堅固"
+              "side1": "安",
+              "strokes": 6,
+              "side2": "安",
+              "side2b": "安全帽"
             }
           },
           {
             "id": "00015",
             "fields": {
-              "side1": "固",
-              "strokes": 8,
-              "side2": "固",
-              "side2b": "固定"
+              "side1": "寶",
+              "strokes": 20,
+              "side2": "寶",
+              "side2b": "珠寶"
             }
           },
           {
             "id": "00016",
-            "fields": {
-              "side1": "安",
-              "strokes": 6,
-              "side2": "安",
-              "side2b": "安全"
-            }
-          },
-          {
-            "id": "00017",
-            "fields": {
-              "side1": "寶",
-              "strokes": 20,
-              "side2": "寶",
-              "side2b": "寶貝"
-            }
-          },
-          {
-            "id": "00018",
             "fields": {
               "side1": "貝",
               "strokes": 7,
@@ -9380,7 +9364,7 @@
             }
           },
           {
-            "id": "00019",
+            "id": "00017",
             "fields": {
               "side1": "幅",
               "strokes": 12,
@@ -9389,12 +9373,30 @@
             }
           },
           {
-            "id": "00020",
+            "id": "00018",
             "fields": {
               "side1": "管",
               "strokes": 14,
               "side2": "管",
-              "side2b": "管理"
+              "side2b": "管教"
+            }
+          },
+          {
+            "id": "00019",
+            "fields": {
+              "side1": "機",
+              "strokes": 16,
+              "side2": "機",
+              "side2b": "機會"
+            }
+          },
+          {
+            "id": "00020",
+            "fields": {
+              "side1": "蓋",
+              "strokes": 14,
+              "side2": "蓋",
+              "side2b": "蓋房子"
             }
           }
         ],
@@ -9404,6 +9406,7 @@
             "fields": {
               "side1": "教",
               "strokes": 11,
+              "side1p": "叫",
               "side2": "教",
               "side2b": "教室"
             }
@@ -9450,7 +9453,7 @@
               "side1": "立",
               "strokes": 5,
               "side2": "立",
-              "side2b": "立法"
+              "side2b": "立刻"
             }
           },
           {
@@ -9459,7 +9462,7 @@
               "side1": "刻",
               "strokes": 8,
               "side2": "刻",
-              "side2b": "立刻"
+              "side2b": "雕刻"
             }
           },
           {
@@ -9468,7 +9471,7 @@
               "side1": "抱",
               "strokes": 8,
               "side2": "抱",
-              "side2b": "抱歉"
+              "side2b": "擁抱"
             }
           },
           {
@@ -9486,7 +9489,7 @@
               "side1": "猜",
               "strokes": 11,
               "side2": "猜",
-              "side2b": "猜選"
+              "side2b": "猜謎"
             }
           },
           {
@@ -9495,7 +9498,7 @@
               "side1": "文",
               "strokes": 4,
               "side2": "文",
-              "side2b": "課文"
+              "side2b": "文具"
             }
           },
           {
@@ -9537,23 +9540,14 @@
           {
             "id": "00016",
             "fields": {
-              "side1": "騎",
-              "strokes": 18,
-              "side2": "騎",
-              "side2b": "騎馬"
+              "side1": "踏",
+              "strokes": 15,
+              "side2": "踏",
+              "side2b": "踩踏"
             }
           },
           {
             "id": "00017",
-            "fields": {
-              "side1": "踏",
-              "strokes": 15,
-              "side2": "踏",
-              "side2b": "腳踏車"
-            }
-          },
-          {
-            "id": "00018",
             "fields": {
               "side1": "車",
               "strokes": 7,
@@ -9562,12 +9556,22 @@
             }
           },
           {
-            "id": "00019",
+            "id": "00018",
             "fields": {
               "side1": "哥",
               "strokes": 10,
+              "side1p": ",哥",
               "side2": "哥",
-              "side2b": "哥哥"
+              "side2b": "大哥"
+            }
+          },
+          {
+            "id": "00019",
+            "fields": {
+              "side1": "騎",
+              "strokes": 18,
+              "side2": "騎",
+              "side2b": "騎馬"
             }
           }
         ],
@@ -9578,7 +9582,7 @@
               "side1": "久",
               "strokes": 3,
               "side2": "久",
-              "side2b": "永久"
+              "side2b": "久遠"
             }
           },
           {
@@ -9587,7 +9591,7 @@
               "side1": "條",
               "strokes": 11,
               "side2": "條",
-              "side2b": "一條河"
+              "side2b": "條件"
             }
           },
           {
@@ -9596,7 +9600,7 @@
               "side1": "祕",
               "strokes": 9,
               "side2": "祕",
-              "side2b": "神秘"
+              "side2b": "秘密"
             }
           },
           {
@@ -9605,7 +9609,7 @@
               "side1": "兔",
               "strokes": 8,
               "side2": "兔",
-              "side2b": "小白兔"
+              "side2b": "兔子"
             }
           },
           {
@@ -9623,7 +9627,7 @@
               "side1": "猴",
               "strokes": 12,
               "side2": "猴",
-              "side2b": "猴子"
+              "side2b": "猿猴"
             }
           },
           {
@@ -9632,7 +9636,7 @@
               "side1": "病",
               "strokes": 10,
               "side2": "病",
-              "side2b": "生病"
+              "side2b": "疾病"
             }
           },
           {
@@ -9641,7 +9645,7 @@
               "side1": "探",
               "strokes": 11,
               "side2": "探",
-              "side2b": "探望"
+              "side2b": "探險"
             }
           },
           {
@@ -9650,7 +9654,7 @@
               "side1": "體",
               "strokes": 23,
               "side2": "體",
-              "side2b": "身體"
+              "side2b": "體力"
             }
           },
           {
@@ -9659,7 +9663,7 @@
               "side1": "惜",
               "strokes": 11,
               "side2": "惜",
-              "side2b": "可惜"
+              "side2b": "珍惜"
             }
           },
           {
@@ -9683,24 +9687,6 @@
           {
             "id": "00013",
             "fields": {
-              "side1": "挖",
-              "strokes": 9,
-              "side2": "挖",
-              "side2b": "挖地"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "坑",
-              "strokes": 7,
-              "side2": "坑",
-              "side2b": "大坑"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
               "side1": "之",
               "strokes": 4,
               "side2": "之",
@@ -9708,16 +9694,16 @@
             }
           },
           {
-            "id": "00016",
+            "id": "00014",
             "fields": {
               "side1": "請",
               "strokes": 15,
               "side2": "請",
-              "side2b": "請問"
+              "side2b": "請客"
             }
           },
           {
-            "id": "00017",
+            "id": "00015",
             "fields": {
               "side1": "鼻",
               "strokes": 14,
@@ -9726,30 +9712,48 @@
             }
           },
           {
-            "id": "00018",
+            "id": "00016",
             "fields": {
               "side1": "吸",
               "strokes": 7,
               "side2": "吸",
-              "side2b": "吸管"
+              "side2b": "呼吸"
             }
           },
           {
-            "id": "00019",
+            "id": "00017",
             "fields": {
               "side1": "模",
               "strokes": 15,
               "side2": "模",
-              "side2b": "模糊"
+              "side2b": "模型"
             }
           },
           {
-            "id": "00020",
+            "id": "00018",
             "fields": {
               "side1": "度",
               "strokes": 9,
               "side2": "度",
               "side2b": "度假"
+            }
+          },
+          {
+            "id": "00019",
+            "fields": {
+              "side1": "挖",
+              "strokes": 9,
+              "side2": "挖",
+              "side2b": "挖掘"
+            }
+          },
+          {
+            "id": "00020",
+            "fields": {
+              "side1": "坑",
+              "strokes": 7,
+              "side2": "坑",
+              "side2b": "坑道"
             }
           }
         ],
@@ -9787,7 +9791,7 @@
               "side1": "怪",
               "strokes": 8,
               "side2": "怪",
-              "side2b": "奇怪"
+              "side2b": "怪異"
             }
           },
           {
@@ -9858,6 +9862,7 @@
             "fields": {
               "side1": "仔",
               "strokes": 5,
+              "side1p": "紫",
               "side2": "仔",
               "side2b": "仔細"
             }
@@ -10068,7 +10073,8 @@
               "side1": "艘",
               "strokes": 16,
               "side2": "艘",
-              "side2b": "一艘船"
+              "side2b": "一艘船",
+              "side2p": "一騷船"
             }
           },
           {
@@ -12222,7 +12228,7 @@
             "fields": {
               "side1": "甲",
               "side2": "甲",
-              "side2b": "第一名"
+              "side2b": "一"
             }
           },
           {
@@ -12231,7 +12237,7 @@
             "fields": {
               "side1": "乙",
               "side2": "乙",
-              "side2b": "第二名"
+              "side2b": "二"
             }
           },
           {
@@ -12240,7 +12246,7 @@
             "fields": {
               "side1": "丙",
               "side2": "丙",
-              "side2b": "第三名"
+              "side2b": "三"
             }
           },
           {
@@ -12249,7 +12255,7 @@
             "fields": {
               "side1": "丁",
               "side2": "丁",
-              "side2b": "第四名"
+              "side2b": "四"
             }
           },
           {
@@ -12258,7 +12264,7 @@
             "fields": {
               "side1": "戊",
               "side2": "戊",
-              "side2b": "第五名"
+              "side2b": "五"
             }
           },
           {
@@ -12267,7 +12273,7 @@
             "fields": {
               "side1": "己",
               "side2": "己",
-              "side2b": "第六名"
+              "side2b": "六"
             }
           },
           {
@@ -12276,7 +12282,7 @@
             "fields": {
               "side1": "庚",
               "side2": "庚",
-              "side2b": "第七名"
+              "side2b": "七"
             }
           },
           {
@@ -12285,7 +12291,7 @@
             "fields": {
               "side1": "辛",
               "side2": "辛",
-              "side2b": "第八名"
+              "side2b": "八"
             }
           },
           {
@@ -12294,7 +12300,7 @@
             "fields": {
               "side1": "壬",
               "side2": "壬",
-              "side2b": "第九名"
+              "side2b": "九"
             }
           },
           {
@@ -12303,7 +12309,7 @@
             "fields": {
               "side1": "癸",
               "side2": "癸",
-              "side2b": "第十名"
+              "side2b": "十"
             }
           }
         ],
