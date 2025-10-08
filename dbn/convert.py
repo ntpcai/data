@@ -76,7 +76,7 @@ def convert_csv_to_json(csv_file, json_file):
             entry['fields'] = fields
         
         # Add to hierarchy
-        hierarchy[publisher][year][set_name][subset].append(entry)
+        hierarchy[year][publisher][set_name][subset].append(entry)
 
     # Custom sorting function
     def sort_subsets(subsets_dict, set_name):
