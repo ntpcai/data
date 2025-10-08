@@ -1,6 +1,2970 @@
 {
-  "南一": {
-    "113學年": {
+  "112學年": {
+    "康軒": {
+      "一年上": {
+        "第一課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "拍",
+              "strokes": 8,
+              "side2": "拍",
+              "side2b": "球拍"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "手",
+              "strokes": 4,
+              "side2": "手",
+              "side2b": "雙手"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "左",
+              "strokes": 5,
+              "side2": "左",
+              "side2b": "左手"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "右",
+              "strokes": 5,
+              "side2": "右",
+              "side2b": "右邊"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "你",
+              "strokes": 7,
+              "side2": "你",
+              "side2b": "你們"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "他",
+              "strokes": 5,
+              "side2": "他",
+              "side2b": "他們"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "也",
+              "strokes": 3,
+              "side2": "也",
+              "side2b": "也是"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "上",
+              "strokes": 3,
+              "side2": "上",
+              "side2b": "上樓"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "下",
+              "strokes": 3,
+              "side2": "下",
+              "side2b": "樓下"
+            }
+          }
+        ],
+        "第二課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "這",
+              "strokes": 11,
+              "side2": "這",
+              "side2b": "這裡"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "是",
+              "strokes": 9,
+              "side2": "是",
+              "side2b": "是非"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "誰",
+              "strokes": 15,
+              "side2": "誰",
+              "side2b": "是誰"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "的",
+              "strokes": 8,
+              "side2": "的",
+              "side2b": "好的"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "我",
+              "strokes": 7,
+              "side2": "我",
+              "side2b": "我的"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "分",
+              "strokes": 4,
+              "side2": "分",
+              "side2b": "分開"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "好",
+              "strokes": 6,
+              "side2": "好",
+              "side2b": "很好"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "了",
+              "strokes": 2,
+              "side2": "了",
+              "side2b": "好了"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "啊",
+              "strokes": 11,
+              "side2": "啊",
+              "side2b": "啊󠇡！"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "多",
+              "strokes": 6,
+              "side2": "多",
+              "side2b": "多少"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "個",
+              "strokes": 10,
+              "side2": "個",
+              "side2b": "個人"
+            }
+          }
+        ],
+        "第三課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "秋",
+              "strokes": 9,
+              "side2": "秋",
+              "side2b": "秋天"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "千",
+              "strokes": 3,
+              "side2": "千",
+              "side2b": "千年"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "和",
+              "strokes": 8,
+              "side2": "和󠇡",
+              "side2b": "我和󠇡你"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "玩",
+              "strokes": 8,
+              "side2": "玩",
+              "side2b": "玩具"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "陪",
+              "strokes": 11,
+              "side2": "陪",
+              "side2b": "陪伴"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "高",
+              "strokes": 10,
+              "side2": "高",
+              "side2b": "高山"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "山",
+              "strokes": 3,
+              "side2": "山",
+              "side2b": "陽明山"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "到",
+              "strokes": 8,
+              "side2": "到",
+              "side2b": "到達"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "大",
+              "strokes": 3,
+              "side2": "大",
+              "side2b": "大概"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "海",
+              "strokes": 10,
+              "side2": "海",
+              "side2b": "大海"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "朋",
+              "strokes": 8,
+              "side2": "朋",
+              "side2b": "朋友"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "友",
+              "strokes": 4,
+              "side2": "友",
+              "side2b": "友善"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "們",
+              "strokes": 10,
+              "side2": "們",
+              "side2b": "我們"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "起",
+              "strokes": 10,
+              "side2": "起",
+              "side2b": "起床"
+            }
+          }
+        ],
+        "第四課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "子",
+              "strokes": 3,
+              "side2": "子󠇡",
+              "side2b": "女孩子󠇡"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "小",
+              "strokes": 3,
+              "side2": "小",
+              "side2b": "小時候"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "課",
+              "strokes": 15,
+              "side2": "課",
+              "side2b": "上課"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "兩",
+              "strokes": 8,
+              "side2": "兩",
+              "side2b": "兩個󠇡"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "人",
+              "strokes": 2,
+              "side2": "人",
+              "side2b": "好人"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "拉",
+              "strokes": 8,
+              "side2": "拉",
+              "side2b": "拉扯"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "看",
+              "strokes": 9,
+              "side2": "看",
+              "side2b": "看書"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "找",
+              "strokes": 7,
+              "side2": "找",
+              "side2b": "尋找"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "隻",
+              "strokes": 10,
+              "side2": "隻",
+              "side2b": "一隻"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "青",
+              "strokes": 8,
+              "side2": "青",
+              "side2b": "瘀青"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "蛙",
+              "strokes": 12,
+              "side2": "蛙",
+              "side2b": "青蛙"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "開",
+              "strokes": 12,
+              "side2": "開",
+              "side2b": "開心"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "心",
+              "strokes": 4,
+              "side2": "心",
+              "side2b": "心情"
+            }
+          }
+        ],
+        "第五課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "比",
+              "strokes": 4,
+              "side2": "比",
+              "side2b": "比較"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "門",
+              "strokes": 8,
+              "side2": "門",
+              "side2b": "門口"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "裡",
+              "strokes": 12,
+              "side2": "裡",
+              "side2b": "裡面"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "外",
+              "strokes": 5,
+              "side2": "外",
+              "side2b": "外婆"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "有",
+              "strokes": 6,
+              "side2": "有",
+              "side2b": "擁有"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "什",
+              "strokes": 4,
+              "side1p": "ㄕㄣˇ",
+              "side2": "什",
+              "side2b": "什麼"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "麼",
+              "strokes": 14,
+              "side2": "麼",
+              "side2b": "怎麼"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "不",
+              "strokes": 4,
+              "side2": "不",
+              "side2b": "不一樣"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "同",
+              "strokes": 6,
+              "side2": "同",
+              "side2b": "同學"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "早",
+              "strokes": 6,
+              "side2": "早",
+              "side2b": "早安"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "晚",
+              "strokes": 11,
+              "side2": "晚",
+              "side2b": "晚上"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "王",
+              "strokes": 4,
+              "side2": "王",
+              "side2b": "君王"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "主",
+              "strokes": 5,
+              "side2": "主",
+              "side2b": "主要"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "又",
+              "strokes": 2,
+              "side2": "又",
+              "side2b": "又是你"
+            }
+          }
+        ],
+        "第六課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "路",
+              "strokes": 13,
+              "side2": "路",
+              "side2b": "路人"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "長",
+              "strokes": 8,
+              "side2": "長",
+              "side2b": "長遠"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "白",
+              "strokes": 5,
+              "side2": "白",
+              "side2b": "白沙"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "花",
+              "strokes": 8,
+              "side2": "花",
+              "side2b": "櫻花"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "紅",
+              "strokes": 9,
+              "side2": "紅",
+              "side2b": "紅包"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "走",
+              "strokes": 7,
+              "side2": "走",
+              "side2b": "走路"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "在",
+              "strokes": 6,
+              "side2": "在",
+              "side2b": "在家"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "向",
+              "strokes": 6,
+              "side2": "向",
+              "side2b": "方向"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "說",
+              "strokes": 14,
+              "side2": "說",
+              "side2b": "說話"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "朵",
+              "strokes": 6,
+              "side2": "朵",
+              "side2b": "一󠇢朵"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "從",
+              "strokes": 11,
+              "side2": "從",
+              "side2b": "跟從"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "頭",
+              "strokes": 16,
+              "side2": "頭",
+              "side2b": "頭髮"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "那",
+              "strokes": 7,
+              "side2": "那",
+              "side2b": "那裡"
+            }
+          }
+        ]
+      },
+      "一年下": {
+        "第一課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "要",
+              "strokes": 9,
+              "side2": "要",
+              "side2b": "不要"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "靜",
+              "strokes": 16,
+              "side2": "靜",
+              "side2b": "安靜"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "天",
+              "strokes": 4,
+              "side2": "天",
+              "side2b": "天氣"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "空",
+              "strokes": 8,
+              "side2": "空",
+              "side2b": "天空"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "雲",
+              "strokes": 12,
+              "side2": "雲",
+              "side2b": "雲朵"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "水",
+              "strokes": 4,
+              "side2": "水",
+              "side2b": "自來水"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "蟲",
+              "strokes": 18,
+              "side2": "蟲",
+              "side2b": "昆蟲"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "鳥",
+              "strokes": 11,
+              "side2": "鳥",
+              "side2b": "小鳥"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "草",
+              "strokes": 10,
+              "side2": "草",
+              "side2b": "草地"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "先",
+              "strokes": 6,
+              "side2": "先",
+              "side2b": "先生"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "完",
+              "strokes": 7,
+              "side2": "完",
+              "side2b": "完成"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "再",
+              "strokes": 6,
+              "side2": "再",
+              "side2b": "再見"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "去",
+              "strokes": 5,
+              "side2": "去",
+              "side2b": "過去"
+            }
+          }
+        ],
+        "第二課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "園",
+              "strokes": 13,
+              "side2": "園",
+              "side2b": "公園"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "聽",
+              "strokes": 22,
+              "side2": "聽",
+              "side2b": "聽力"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "沒",
+              "strokes": 7,
+              "side2": "沒",
+              "side2b": "沒有"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "正",
+              "strokes": 5,
+              "side2": "正",
+              "side2b": "正常"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "唱",
+              "strokes": 11,
+              "side2": "唱",
+              "side2b": "唱歌"
+            }
+          },
+          {
+            "id": "00006",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "著",
+              "strokes": 12,
+              "side1p": "ㄓㄜ˙",
+              "side2": "著",
+              "side2b": "看著"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "輕",
+              "strokes": 14,
+              "side2": "輕",
+              "side2b": "輕鬆"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "快",
+              "strokes": 7,
+              "side2": "快",
+              "side2b": "快樂"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "歌",
+              "strokes": 14,
+              "side2": "歌",
+              "side2b": "歌聲"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "出",
+              "strokes": 5,
+              "side2": "出",
+              "side2b": "出口"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "新",
+              "strokes": 13,
+              "side2": "新",
+              "side2b": "新年"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "芽",
+              "strokes": 8,
+              "side2": "芽",
+              "side2b": "發芽"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "聞",
+              "strokes": 14,
+              "side2": "聞",
+              "side2b": "新聞"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "身",
+              "strokes": 7,
+              "side2": "身",
+              "side2b": "身體"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "香",
+              "strokes": 9,
+              "side2": "香",
+              "side2b": "香氛"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "呢",
+              "strokes": 8,
+              "side2": "呢",
+              "side2b": "什麼呢"
+            }
+          }
+        ],
+        "第三課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "媽",
+              "strokes": 13,
+              "side2": "媽",
+              "side2b": "媽媽"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "音",
+              "strokes": 9,
+              "side2": "音",
+              "side2b": "音樂"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "樂",
+              "strokes": 15,
+              "side1p": "月",
+              "side2": "樂󠇡",
+              "side2b": "樂󠇡器"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "會",
+              "strokes": 13,
+              "side2": "會",
+              "side2b": "開會"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "始",
+              "strokes": 8,
+              "side2": "始",
+              "side2b": "開始"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "來",
+              "strokes": 8,
+              "side2": "來",
+              "side2b": "從來"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "重",
+              "strokes": 9,
+              "side2": "重",
+              "side2b": "沉重"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "短",
+              "strokes": 12,
+              "side2": "短",
+              "side2b": "長短"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "陣",
+              "strokes": 10,
+              "side2": "陣",
+              "side2b": "這陣子"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "過",
+              "strokes": 13,
+              "side2": "過",
+              "side2b": "過去"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "後",
+              "strokes": 9,
+              "side2": "後",
+              "side2b": "後面"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "吃",
+              "strokes": 6,
+              "side2": "吃",
+              "side2b": "吃飯"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "菜",
+              "strokes": 12,
+              "side2": "菜",
+              "side2b": "青菜"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "就",
+              "strokes": 12,
+              "side2": "就",
+              "side2b": "就近"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "桌",
+              "strokes": 10,
+              "side2": "桌",
+              "side2b": "桌子"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "真",
+              "strokes": 10,
+              "side2": "真",
+              "side2b": "真心"
+            }
+          }
+        ],
+        "第四課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "鞋",
+              "strokes": 15,
+              "side2": "鞋",
+              "side2b": "皮鞋"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "回",
+              "strokes": 6,
+              "side2": "回",
+              "side2b": "回答"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "家",
+              "strokes": 10,
+              "side2": "家",
+              "side2b": "家庭"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "把",
+              "strokes": 7,
+              "side2": "把",
+              "side2b": "手把"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "脫",
+              "strokes": 11,
+              "side2": "脫",
+              "side2b": "脫鞋子"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "爸",
+              "strokes": 8,
+              "side2": "爸",
+              "side2b": "爸爸"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "靠",
+              "strokes": 15,
+              "side2": "靠",
+              "side2b": "椅靠"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "見",
+              "strokes": 7,
+              "side2": "見",
+              "side2b": "好久不見"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "像",
+              "strokes": 14,
+              "side2": "像",
+              "side2b": "好像"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "船",
+              "strokes": 11,
+              "side2": "船",
+              "side2b": "船槳"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "港",
+              "strokes": 12,
+              "side2": "港",
+              "side2b": "港口"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "口",
+              "strokes": 3,
+              "side2": "口",
+              "side2b": "巷口"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "享",
+              "strokes": 8,
+              "side2": "享",
+              "side2b": "享受"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "受",
+              "strokes": 8,
+              "side2": "受",
+              "side2b": "忍受"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "溫",
+              "strokes": 13,
+              "side2": "溫",
+              "side2b": "溫度"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "暖",
+              "strokes": 13,
+              "side2": "暖",
+              "side2b": "春暖花開"
+            }
+          }
+        ],
+        "第五課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "種",
+              "strokes": 14,
+              "side2": "種",
+              "side2b": "種子"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "問",
+              "strokes": 11,
+              "side2": "問",
+              "side2b": "問題"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "怎",
+              "strokes": 9,
+              "side2": "怎",
+              "side2b": "怎麼了"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "做",
+              "strokes": 11,
+              "side2": "做",
+              "side2b": "做事"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "它",
+              "strokes": 5,
+              "side2": "它",
+              "side2b": "它們"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "才",
+              "strokes": 3,
+              "side2": "才",
+              "side2b": "才華"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "需",
+              "strokes": 14,
+              "side2": "需",
+              "side2b": "需要"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "於",
+              "strokes": 8,
+              "side2": "於",
+              "side2b": "終於"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "澆",
+              "strokes": 15,
+              "side2": "澆",
+              "side2b": "澆花"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "陽",
+              "strokes": 12,
+              "side2": "陽",
+              "side2b": "太陽"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "光",
+              "strokes": 6,
+              "side2": "光",
+              "side2b": "亮光"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "放",
+              "strokes": 8,
+              "side2": "放",
+              "side2b": "放假"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "院",
+              "strokes": 10,
+              "side2": "院",
+              "side2b": "醫院"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "公",
+              "strokes": 4,
+              "side2": "公",
+              "side2b": "公司"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "話",
+              "strokes": 13,
+              "side2": "話",
+              "side2b": "說話"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "伴",
+              "strokes": 7,
+              "side2": "伴",
+              "side2b": "陪伴"
+            }
+          }
+        ],
+        "第六課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "奶",
+              "strokes": 5,
+              "side2": "奶",
+              "side2b": "牛奶"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "跟",
+              "strokes": 13,
+              "side2": "跟",
+              "side2b": "跟蹤"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "班",
+              "strokes": 10,
+              "side2": "班",
+              "side2b": "上班"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "床",
+              "strokes": 7,
+              "side2": "床",
+              "side2b": "起床"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "弟",
+              "strokes": 7,
+              "side2": "弟",
+              "side2b": "弟弟"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "她",
+              "strokes": 6,
+              "side2": "她",
+              "side2b": "她們"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "酒",
+              "strokes": 10,
+              "side2": "酒",
+              "side2b": "酒品"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "拿",
+              "strokes": 10,
+              "side2": "拿",
+              "side2b": "取拿"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "卡",
+              "strokes": 5,
+              "side2": "卡",
+              "side2b": "卡關"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "片",
+              "strokes": 4,
+              "side2": "片",
+              "side2b": "厚片吐司"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "給",
+              "strokes": 12,
+              "side2": "給",
+              "side2b": "給予"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "寫",
+              "strokes": 15,
+              "side2": "寫",
+              "side2b": "寫字"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "喜",
+              "strokes": 12,
+              "side2": "喜",
+              "side2b": "喜歡"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "歡",
+              "strokes": 22,
+              "side2": "歡",
+              "side2b": "歡樂"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "您",
+              "strokes": 11,
+              "side2": "您",
+              "side2b": "您好"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "都",
+              "strokes": 11,
+              "side2": "都",
+              "side2b": "都是"
+            }
+          }
+        ],
+        "第七課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "作",
+              "strokes": 7,
+              "side2": "作",
+              "side2b": "作業"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "夢",
+              "strokes": 14,
+              "side2": "夢",
+              "side2b": "夢想"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "躺",
+              "strokes": 15,
+              "side2": "躺",
+              "side2b": "躺下"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "自",
+              "strokes": 6,
+              "side2": "自",
+              "side2b": "自然"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "己",
+              "strokes": 3,
+              "side2": "己",
+              "side2b": "自己"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "變",
+              "strokes": 23,
+              "side2": "變",
+              "side2b": "變化"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "成",
+              "strokes": 6,
+              "side2": "成",
+              "side2b": "成功"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "棉",
+              "strokes": 12,
+              "side2": "棉",
+              "side2b": "棉花"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "糖",
+              "strokes": 16,
+              "side2": "糖",
+              "side2b": "糖果"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "黑",
+              "strokes": 12,
+              "side2": "黑",
+              "side2b": "黑暗"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "鵝",
+              "strokes": 18,
+              "side2": "鵝",
+              "side2b": "天鵝"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "得",
+              "strokes": 11,
+              "side2": "得󠇡",
+              "side2b": "跑得󠇡快"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "更",
+              "strokes": 7,
+              "side2": "更",
+              "side2b": "更健康"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "漂",
+              "strokes": 14,
+              "side1p": "票",
+              "side2": "漂",
+              "side2b": "漂亮"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "亮",
+              "strokes": 9,
+              "side2": "亮",
+              "side2b": "明亮"
+            }
+          }
+        ],
+        "第八課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "妹",
+              "strokes": 8,
+              "side2": "妹",
+              "side2b": "妹妹󠇡"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "雨",
+              "strokes": 8,
+              "side2": "雨",
+              "side2b": "雨傘"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "雙",
+              "strokes": 18,
+              "side2": "雙",
+              "side2b": "一雙"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "穿",
+              "strokes": 9,
+              "side2": "穿",
+              "side2b": "穿著"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "滴",
+              "strokes": 14,
+              "side2": "滴",
+              "side2b": "滴水穿石"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "遊",
+              "strokes": 13,
+              "side2": "遊",
+              "side2b": "旅遊"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "戲",
+              "strokes": 17,
+              "side2": "戲",
+              "side2b": "戲劇"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "顆",
+              "strokes": 17,
+              "side2": "顆",
+              "side2b": "一顆球"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "珍",
+              "strokes": 9,
+              "side2": "珍",
+              "side2b": "珍惜"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "珠",
+              "strokes": 10,
+              "side2": "珠",
+              "side2b": "珠寶"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "落",
+              "strokes": 13,
+              "side2": "落",
+              "side2b": "降落"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "面",
+              "strokes": 9,
+              "side2": "面",
+              "side2b": "面紙"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "魚",
+              "strokes": 11,
+              "side2": "魚",
+              "side2b": "鮭魚"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "缸",
+              "strokes": 9,
+              "side2": "缸",
+              "side2b": "浴缸"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "金",
+              "strokes": 8,
+              "side2": "金",
+              "side2b": "黃金"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "游",
+              "strokes": 12,
+              "side2": "游",
+              "side2b": "游泳"
+            }
+          }
+        ],
+        "第九課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "彩",
+              "strokes": 11,
+              "side2": "彩",
+              "side2b": "彩色筆"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "虹",
+              "strokes": 9,
+              "side2": "虹",
+              "side2b": "彩虹"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "太",
+              "strokes": 4,
+              "side2": "太",
+              "side2b": "太陽"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "國",
+              "strokes": 11,
+              "side2": "國",
+              "side2b": "國王"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "掃",
+              "strokes": 11,
+              "side2": "掃",
+              "side2b": "掃地"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "除",
+              "strokes": 10,
+              "side2": "除",
+              "side2b": "除非"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "洗",
+              "strokes": 9,
+              "side2": "洗",
+              "side2b": "洗澡"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "淨",
+              "strokes": 11,
+              "side2": "淨",
+              "side2b": "乾淨"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "馬",
+              "strokes": 10,
+              "side2": "馬",
+              "side2b": "馬上"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "低",
+              "strokes": 7,
+              "side2": "低",
+              "side2b": "低下"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "刷",
+              "strokes": 8,
+              "side2": "刷",
+              "side2b": "刷牙"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "樹",
+              "strokes": 16,
+              "side2": "樹",
+              "side2b": "樹木"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "葉",
+              "strokes": 13,
+              "side2": "葉",
+              "side2b": "樹葉"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "很",
+              "strokes": 9,
+              "side2": "很",
+              "side2b": "很多"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "認",
+              "strokes": 14,
+              "side2": "認",
+              "side2b": "認真"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "送",
+              "strokes": 10,
+              "side2": "送",
+              "side2b": "送貨"
+            }
+          }
+        ],
+        "第十二課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "想",
+              "strokes": 13,
+              "side2": "想",
+              "side2b": "想法"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "燈",
+              "strokes": 16,
+              "side2": "燈",
+              "side2b": "燈籠"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "前",
+              "strokes": 9,
+              "side2": "前",
+              "side2b": "前天"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "點",
+              "strokes": 17,
+              "side2": "點",
+              "side2b": "點心"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "半",
+              "strokes": 5,
+              "side2": "半",
+              "side2b": "半天"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "清",
+              "strokes": 11,
+              "side2": "清",
+              "side2b": "清明"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "楚",
+              "strokes": 13,
+              "side2": "楚",
+              "side2b": "清楚"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "停",
+              "strokes": 11,
+              "side2": "停",
+              "side2b": "停車"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "休",
+              "strokes": 6,
+              "side2": "休",
+              "side2b": "休息"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "息",
+              "strokes": 10,
+              "side2": "息",
+              "side2b": "消息"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "兒",
+              "strokes": 8,
+              "side2": "兒",
+              "side2b": "兒子"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "吧",
+              "strokes": 7,
+              "side2": "吧",
+              "side2b": "好吧"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "幫",
+              "strokes": 17,
+              "side2": "幫",
+              "side2b": "幫忙"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "加",
+              "strokes": 5,
+              "side2": "加",
+              "side2b": "加油"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "油",
+              "strokes": 8,
+              "side2": "油",
+              "side2b": "油漆"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "慢",
+              "strokes": 14,
+              "side2": "慢",
+              "side2b": "慢跑"
+            }
+          }
+        ],
+        "第十課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "地",
+              "strokes": 6,
+              "side1p": "第",
+              "side2": "地",
+              "side2b": "地址"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "化",
+              "strokes": 4,
+              "side2": "化",
+              "side2b": "變化"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "趣",
+              "strokes": 15,
+              "side2": "趣",
+              "side2b": "有趣"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "線",
+              "strokes": 15,
+              "side2": "線",
+              "side2b": "電線"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "風",
+              "strokes": 9,
+              "side2": "風",
+              "side2b": "風景"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "箏",
+              "strokes": 14,
+              "side2": "箏",
+              "side2b": "風箏"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "升",
+              "strokes": 4,
+              "side2": "升",
+              "side2b": "上升"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "神",
+              "strokes": 9,
+              "side2": "神",
+              "side2b": "神奇"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "奇",
+              "strokes": 8,
+              "side2": "奇",
+              "side2b": "奇怪"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "跑",
+              "strokes": 12,
+              "side2": "跑",
+              "side2b": "跑步"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "跳",
+              "strokes": 13,
+              "side2": "跳",
+              "side2b": "跳繩"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "笑",
+              "strokes": 10,
+              "side2": "笑",
+              "side2b": "笑話"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "每",
+              "strokes": 7,
+              "side2": "每",
+              "side2b": "每天"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "件",
+              "strokes": 6,
+              "side2": "件",
+              "side2b": "一件"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "事",
+              "strokes": 8,
+              "side2": "事",
+              "side2b": "事情"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "情",
+              "strokes": 11,
+              "side2": "情",
+              "side2b": "感情"
+            }
+          }
+        ],
+        "第十一課": [
+          {
+            "id": "00001",
+            "fields": {
+              "side1": "生",
+              "strokes": 5,
+              "side2": "生",
+              "side2b": "生日"
+            }
+          },
+          {
+            "id": "00002",
+            "fields": {
+              "side1": "日",
+              "strokes": 4,
+              "side2": "日",
+              "side2b": "日期"
+            }
+          },
+          {
+            "id": "00003",
+            "fields": {
+              "side1": "今",
+              "strokes": 4,
+              "side2": "今",
+              "side2b": "今天"
+            }
+          },
+          {
+            "id": "00004",
+            "fields": {
+              "side1": "記",
+              "strokes": 10,
+              "side2": "記",
+              "side2b": "記得"
+            }
+          },
+          {
+            "id": "00005",
+            "fields": {
+              "side1": "時",
+              "strokes": 10,
+              "side2": "時",
+              "side2b": "時間"
+            }
+          },
+          {
+            "id": "00006",
+            "fields": {
+              "side1": "知",
+              "strokes": 8,
+              "side2": "知",
+              "side2b": "知道"
+            }
+          },
+          {
+            "id": "00007",
+            "fields": {
+              "side1": "道",
+              "strokes": 13,
+              "side2": "道",
+              "side2b": "道理"
+            }
+          },
+          {
+            "id": "00008",
+            "fields": {
+              "side1": "嗎",
+              "strokes": 13,
+              "side2": "嗎",
+              "side2b": "好嗎？"
+            }
+          },
+          {
+            "id": "00009",
+            "fields": {
+              "side1": "學",
+              "strokes": 16,
+              "side2": "學",
+              "side2b": "學校"
+            }
+          },
+          {
+            "id": "00010",
+            "fields": {
+              "side1": "收",
+              "strokes": 6,
+              "side2": "收",
+              "side2b": "收據"
+            }
+          },
+          {
+            "id": "00011",
+            "fields": {
+              "side1": "張",
+              "strokes": 11,
+              "side2": "張",
+              "side2b": "一張"
+            }
+          },
+          {
+            "id": "00012",
+            "fields": {
+              "side1": "祝",
+              "strokes": 9,
+              "side2": "祝",
+              "side2b": "祝福"
+            }
+          },
+          {
+            "id": "00013",
+            "fields": {
+              "side1": "福",
+              "strokes": 13,
+              "side2": "福",
+              "side2b": "福氣"
+            }
+          },
+          {
+            "id": "00014",
+            "fields": {
+              "side1": "第",
+              "strokes": 11,
+              "side2": "第",
+              "side2b": "第一"
+            }
+          },
+          {
+            "id": "00015",
+            "fields": {
+              "side1": "次",
+              "strokes": 6,
+              "side2": "次",
+              "side2b": "每次"
+            }
+          },
+          {
+            "id": "00016",
+            "fields": {
+              "side1": "謝",
+              "strokes": 17,
+              "side2": "謝",
+              "side2b": "謝謝"
+            }
+          }
+        ]
+      },
+      "注音": {
+        "聲符": [
+          {
+            "type": "注音",
+            "id": "00001",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄅ",
+              "side2": "ㄅ",
+              "side2b": "斑馬"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00002",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄆ",
+              "side2": "ㄆ",
+              "side2b": "螃蟹"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00003",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄇ",
+              "side2": "ㄇ",
+              "side2b": "螞蟻"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00004",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄈ",
+              "side2": "ㄈ",
+              "side2b": "飛鼠"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00005",
+            "fields": {
+              "side1": "ㄉ",
+              "side2": "ㄉ",
+              "side2b": "袋鼠"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00006",
+            "fields": {
+              "side1": "ㄊ",
+              "side2": "ㄊ",
+              "side2b": "鴕鳥"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00007",
+            "fields": {
+              "side1": "ㄋ",
+              "side2": "ㄋ",
+              "side2b": "小鳥"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00008",
+            "fields": {
+              "side1": "ㄌ",
+              "side2": "ㄌ",
+              "side2b": "梅花鹿"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00009",
+            "fields": {
+              "side1": "ㄍ",
+              "side2": "ㄍ",
+              "side2b": "鴿子"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00010",
+            "fields": {
+              "side1": "ㄎ",
+              "side2": "ㄎ",
+              "side2b": "蝌蚪"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00011",
+            "fields": {
+              "side1": "ㄏ",
+              "side2": "ㄏ",
+              "side2b": "河豚"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00012",
+            "fields": {
+              "side1": "ㄐ",
+              "side2": "ㄐ",
+              "side2b": "公雞"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00013",
+            "fields": {
+              "side1": "ㄑ",
+              "side2": "ㄑ",
+              "side2b": "企鵝"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00014",
+            "fields": {
+              "side1": "ㄒ",
+              "side2": "ㄒ",
+              "side2b": "犀牛"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00015",
+            "fields": {
+              "side1": "ㄓ",
+              "side2": "ㄓ",
+              "side2b": "蜘蛛"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00016",
+            "fields": {
+              "side1": "ㄔ",
+              "side2": "ㄔ",
+              "side2b": "長頸鹿"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00017",
+            "fields": {
+              "side1": "ㄕ",
+              "side2": "ㄕ",
+              "side2b": "獅子"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00018",
+            "fields": {
+              "side1": "ㄖ",
+              "side2": "ㄖ",
+              "side2b": "乳牛"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00019",
+            "fields": {
+              "side1": "ㄗ",
+              "side2": "ㄗ",
+              "side2b": "烏賊"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00020",
+            "fields": {
+              "side1": "ㄘ",
+              "side2": "ㄘ",
+              "side2b": "刺蝟"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00021",
+            "fields": {
+              "side1": "ㄙ",
+              "side2": "ㄙ",
+              "side2b": "鷺鷥"
+            }
+          }
+        ],
+        "韻母": [
+          {
+            "type": "注音",
+            "id": "00001",
+            "fields": {
+              "side1": "ㄧ",
+              "side2": "ㄧ",
+              "side2b": "蜥蜴"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00002",
+            "fields": {
+              "side1": "ㄨ",
+              "side2": "ㄨ",
+              "side2b": "烏鴉"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00003",
+            "fields": {
+              "side1": "ㄩ",
+              "side2": "ㄩ",
+              "side2b": "金魚"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00004",
+            "fields": {
+              "side1": "ㄚ",
+              "side2": "ㄚ",
+              "side2b": "鯊魚"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00005",
+            "fields": {
+              "side1": "ㄛ",
+              "side2": "ㄛ",
+              "side2b": "土撥鼠"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00006",
+            "fields": {
+              "side1": "ㄜ",
+              "side2": "ㄜ",
+              "side2b": "天鵝"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00007",
+            "fields": {
+              "side1": "ㄝ",
+              "side2": "ㄝ",
+              "side2b": "野狼"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00008",
+            "fields": {
+              "side1": "ㄞ",
+              "side2": "ㄞ",
+              "side2b": "海豚"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00009",
+            "fields": {
+              "side1": "ㄟ",
+              "side2": "ㄟ",
+              "side2b": "黑面琵鷺"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00010",
+            "fields": {
+              "side1": "ㄠ",
+              "side2": "ㄠ",
+              "side2b": "毛毛蟲"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00011",
+            "fields": {
+              "side1": "ㄡ",
+              "side2": "ㄡ",
+              "side2b": "海鷗"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00012",
+            "fields": {
+              "side1": "ㄢ",
+              "side2": "ㄢ",
+              "side2b": "山羊"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00013",
+            "fields": {
+              "side1": "ㄣ",
+              "side2": "ㄣ",
+              "side2b": "糞金龜"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00014",
+            "fields": {
+              "side1": "ㄤ",
+              "side2": "ㄤ",
+              "side2b": "螳螂"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00015",
+            "fields": {
+              "side1": "ㄥ",
+              "side2": "ㄥ",
+              "side2b": "蜜蜂"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00016",
+            "fields": {
+              "side1": "ㄦ",
+              "side2": "ㄦ",
+              "side2b": "耳朵󠇡"
+            }
+          }
+        ],
+        "結合": [
+          {
+            "type": "注音",
+            "id": "00001",
+            "fields": {
+              "side1": "ㄧㄚ",
+              "side2": "ㄧㄚ",
+              "side2b": "鴨子"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00002",
+            "fields": {
+              "side1": "ㄧㄛ",
+              "side2": "ㄧㄛ",
+              "side2b": "哎唷"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00003",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄧㄝ",
+              "side2": "ㄧㄝ",
+              "side2b": "夜鶯"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00004",
+            "fields": {
+              "side1": "ㄧㄞ",
+              "side2": "ㄧㄞ",
+              "side2b": "山崖"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00005",
+            "fields": {
+              "side1": "ㄧㄠ",
+              "side2": "ㄧㄠ",
+              "side2b": "瓢蟲"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00006",
+            "fields": {
+              "side1": "ㄧㄡ",
+              "side2": "ㄧㄡ",
+              "side2b": "魷魚"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00007",
+            "fields": {
+              "side1": "ㄧㄢ",
+              "side2": "ㄧㄢ",
+              "side2b": "綿羊"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00008",
+            "fields": {
+              "side1": "ㄧㄣ",
+              "side2": "ㄧㄣ",
+              "side2b": "蚯蚓"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00009",
+            "fields": {
+              "side1": "ㄧㄤ",
+              "side2": "ㄧㄤ",
+              "side2b": "大象"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00010",
+            "fields": {
+              "side1": "ㄧㄥ",
+              "side2": "ㄧㄥ",
+              "side2b": "鸚鵡"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00011",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄚ",
+              "side2": "ㄨㄚ",
+              "side2b": "蝸牛"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00012",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄛ",
+              "side2": "ㄨㄛ",
+              "side2b": "駱駝"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00013",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄞ",
+              "side2": "ㄨㄞ",
+              "side2b": "蟋蟀"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00014",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄟ",
+              "side2": "ㄨㄟ",
+              "side2b": "海龜"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00015",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄢ",
+              "side2": "ㄨㄢ",
+              "side2b": "浣熊"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00016",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄣ",
+              "side2": "ㄨㄣ",
+              "side2b": "蚊子"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00017",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄤ",
+              "side2": "ㄨㄤ",
+              "side2b": "黃牛"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00018",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄨㄥ",
+              "side2": "ㄨㄥ",
+              "side2b": "白頭翁"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00019",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄩㄝ",
+              "side2": "ㄩㄝ",
+              "side2b": "孔雀"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00020",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄩㄢ",
+              "side2": "ㄩㄢ",
+              "side2b": "鴛鴦"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00021",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄩㄣ",
+              "side2": "ㄩㄣ",
+              "side2b": "馴鹿"
+            }
+          },
+          {
+            "type": "注音",
+            "id": "00022",
+            "lang": "zh-CN",
+            "fields": {
+              "side1": "ㄩㄥ",
+              "side2": "ㄩㄥ",
+              "side2b": "黑熊"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "113學年": {
+    "南一": {
       "一年上": {
         "第一課": [
           {
@@ -3346,2972 +6310,8 @@
           }
         ]
       }
-    }
-  },
-  "康軒": {
-    "112學年": {
-      "一年上": {
-        "第一課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "拍",
-              "strokes": 8,
-              "side2": "拍",
-              "side2b": "球拍"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "手",
-              "strokes": 4,
-              "side2": "手",
-              "side2b": "雙手"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "左",
-              "strokes": 5,
-              "side2": "左",
-              "side2b": "左手"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "右",
-              "strokes": 5,
-              "side2": "右",
-              "side2b": "右邊"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "你",
-              "strokes": 7,
-              "side2": "你",
-              "side2b": "你們"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "他",
-              "strokes": 5,
-              "side2": "他",
-              "side2b": "他們"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "也",
-              "strokes": 3,
-              "side2": "也",
-              "side2b": "也是"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "上",
-              "strokes": 3,
-              "side2": "上",
-              "side2b": "上樓"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "下",
-              "strokes": 3,
-              "side2": "下",
-              "side2b": "樓下"
-            }
-          }
-        ],
-        "第二課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "這",
-              "strokes": 11,
-              "side2": "這",
-              "side2b": "這裡"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "是",
-              "strokes": 9,
-              "side2": "是",
-              "side2b": "是非"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "誰",
-              "strokes": 15,
-              "side2": "誰",
-              "side2b": "是誰"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "的",
-              "strokes": 8,
-              "side2": "的",
-              "side2b": "好的"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "我",
-              "strokes": 7,
-              "side2": "我",
-              "side2b": "我的"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "分",
-              "strokes": 4,
-              "side2": "分",
-              "side2b": "分開"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "好",
-              "strokes": 6,
-              "side2": "好",
-              "side2b": "很好"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "了",
-              "strokes": 2,
-              "side2": "了",
-              "side2b": "好了"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "啊",
-              "strokes": 11,
-              "side2": "啊",
-              "side2b": "啊󠇡！"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "多",
-              "strokes": 6,
-              "side2": "多",
-              "side2b": "多少"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "個",
-              "strokes": 10,
-              "side2": "個",
-              "side2b": "個人"
-            }
-          }
-        ],
-        "第三課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "秋",
-              "strokes": 9,
-              "side2": "秋",
-              "side2b": "秋天"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "千",
-              "strokes": 3,
-              "side2": "千",
-              "side2b": "千年"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "和",
-              "strokes": 8,
-              "side2": "和󠇡",
-              "side2b": "我和󠇡你"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "玩",
-              "strokes": 8,
-              "side2": "玩",
-              "side2b": "玩具"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "陪",
-              "strokes": 11,
-              "side2": "陪",
-              "side2b": "陪伴"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "高",
-              "strokes": 10,
-              "side2": "高",
-              "side2b": "高山"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "山",
-              "strokes": 3,
-              "side2": "山",
-              "side2b": "陽明山"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "到",
-              "strokes": 8,
-              "side2": "到",
-              "side2b": "到達"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "大",
-              "strokes": 3,
-              "side2": "大",
-              "side2b": "大概"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "海",
-              "strokes": 10,
-              "side2": "海",
-              "side2b": "大海"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "朋",
-              "strokes": 8,
-              "side2": "朋",
-              "side2b": "朋友"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "友",
-              "strokes": 4,
-              "side2": "友",
-              "side2b": "友善"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "們",
-              "strokes": 10,
-              "side2": "們",
-              "side2b": "我們"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "起",
-              "strokes": 10,
-              "side2": "起",
-              "side2b": "起床"
-            }
-          }
-        ],
-        "第四課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "子",
-              "strokes": 3,
-              "side2": "子󠇡",
-              "side2b": "女孩子󠇡"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "小",
-              "strokes": 3,
-              "side2": "小",
-              "side2b": "小時候"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "課",
-              "strokes": 15,
-              "side2": "課",
-              "side2b": "上課"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "兩",
-              "strokes": 8,
-              "side2": "兩",
-              "side2b": "兩個󠇡"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "人",
-              "strokes": 2,
-              "side2": "人",
-              "side2b": "好人"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "拉",
-              "strokes": 8,
-              "side2": "拉",
-              "side2b": "拉扯"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "看",
-              "strokes": 9,
-              "side2": "看",
-              "side2b": "看書"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "找",
-              "strokes": 7,
-              "side2": "找",
-              "side2b": "尋找"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "隻",
-              "strokes": 10,
-              "side2": "隻",
-              "side2b": "一隻"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "青",
-              "strokes": 8,
-              "side2": "青",
-              "side2b": "瘀青"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "蛙",
-              "strokes": 12,
-              "side2": "蛙",
-              "side2b": "青蛙"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "開",
-              "strokes": 12,
-              "side2": "開",
-              "side2b": "開心"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "心",
-              "strokes": 4,
-              "side2": "心",
-              "side2b": "心情"
-            }
-          }
-        ],
-        "第五課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "比",
-              "strokes": 4,
-              "side2": "比",
-              "side2b": "比較"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "門",
-              "strokes": 8,
-              "side2": "門",
-              "side2b": "門口"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "裡",
-              "strokes": 12,
-              "side2": "裡",
-              "side2b": "裡面"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "外",
-              "strokes": 5,
-              "side2": "外",
-              "side2b": "外婆"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "有",
-              "strokes": 6,
-              "side2": "有",
-              "side2b": "擁有"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "什",
-              "strokes": 4,
-              "side1p": "ㄕㄣˇ",
-              "side2": "什",
-              "side2b": "什麼"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "麼",
-              "strokes": 14,
-              "side2": "麼",
-              "side2b": "怎麼"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "不",
-              "strokes": 4,
-              "side2": "不",
-              "side2b": "不一樣"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "同",
-              "strokes": 6,
-              "side2": "同",
-              "side2b": "同學"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "早",
-              "strokes": 6,
-              "side2": "早",
-              "side2b": "早安"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "晚",
-              "strokes": 11,
-              "side2": "晚",
-              "side2b": "晚上"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "王",
-              "strokes": 4,
-              "side2": "王",
-              "side2b": "君王"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "主",
-              "strokes": 5,
-              "side2": "主",
-              "side2b": "主要"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "又",
-              "strokes": 2,
-              "side2": "又",
-              "side2b": "又是你"
-            }
-          }
-        ],
-        "第六課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "路",
-              "strokes": 13,
-              "side2": "路",
-              "side2b": "路人"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "長",
-              "strokes": 8,
-              "side2": "長",
-              "side2b": "長遠"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "白",
-              "strokes": 5,
-              "side2": "白",
-              "side2b": "白沙"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "花",
-              "strokes": 8,
-              "side2": "花",
-              "side2b": "櫻花"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "紅",
-              "strokes": 9,
-              "side2": "紅",
-              "side2b": "紅包"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "走",
-              "strokes": 7,
-              "side2": "走",
-              "side2b": "走路"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "在",
-              "strokes": 6,
-              "side2": "在",
-              "side2b": "在家"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "向",
-              "strokes": 6,
-              "side2": "向",
-              "side2b": "方向"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "說",
-              "strokes": 14,
-              "side2": "說",
-              "side2b": "說話"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "朵",
-              "strokes": 6,
-              "side2": "朵",
-              "side2b": "一󠇢朵"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "從",
-              "strokes": 11,
-              "side2": "從",
-              "side2b": "跟從"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "頭",
-              "strokes": 16,
-              "side2": "頭",
-              "side2b": "頭髮"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "那",
-              "strokes": 7,
-              "side2": "那",
-              "side2b": "那裡"
-            }
-          }
-        ]
-      },
-      "一年下": {
-        "第一課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "要",
-              "strokes": 9,
-              "side2": "要",
-              "side2b": "不要"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "靜",
-              "strokes": 16,
-              "side2": "靜",
-              "side2b": "安靜"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "天",
-              "strokes": 4,
-              "side2": "天",
-              "side2b": "天氣"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "空",
-              "strokes": 8,
-              "side2": "空",
-              "side2b": "天空"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "雲",
-              "strokes": 12,
-              "side2": "雲",
-              "side2b": "雲朵"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "水",
-              "strokes": 4,
-              "side2": "水",
-              "side2b": "自來水"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "蟲",
-              "strokes": 18,
-              "side2": "蟲",
-              "side2b": "昆蟲"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "鳥",
-              "strokes": 11,
-              "side2": "鳥",
-              "side2b": "小鳥"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "草",
-              "strokes": 10,
-              "side2": "草",
-              "side2b": "草地"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "先",
-              "strokes": 6,
-              "side2": "先",
-              "side2b": "先生"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "完",
-              "strokes": 7,
-              "side2": "完",
-              "side2b": "完成"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "再",
-              "strokes": 6,
-              "side2": "再",
-              "side2b": "再見"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "去",
-              "strokes": 5,
-              "side2": "去",
-              "side2b": "過去"
-            }
-          }
-        ],
-        "第二課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "園",
-              "strokes": 13,
-              "side2": "園",
-              "side2b": "公園"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "聽",
-              "strokes": 22,
-              "side2": "聽",
-              "side2b": "聽力"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "沒",
-              "strokes": 7,
-              "side2": "沒",
-              "side2b": "沒有"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "正",
-              "strokes": 5,
-              "side2": "正",
-              "side2b": "正常"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "唱",
-              "strokes": 11,
-              "side2": "唱",
-              "side2b": "唱歌"
-            }
-          },
-          {
-            "id": "00006",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "著",
-              "strokes": 12,
-              "side1p": "ㄓㄜ˙",
-              "side2": "著",
-              "side2b": "看著"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "輕",
-              "strokes": 14,
-              "side2": "輕",
-              "side2b": "輕鬆"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "快",
-              "strokes": 7,
-              "side2": "快",
-              "side2b": "快樂"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "歌",
-              "strokes": 14,
-              "side2": "歌",
-              "side2b": "歌聲"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "出",
-              "strokes": 5,
-              "side2": "出",
-              "side2b": "出口"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "新",
-              "strokes": 13,
-              "side2": "新",
-              "side2b": "新年"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "芽",
-              "strokes": 8,
-              "side2": "芽",
-              "side2b": "發芽"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "聞",
-              "strokes": 14,
-              "side2": "聞",
-              "side2b": "新聞"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "身",
-              "strokes": 7,
-              "side2": "身",
-              "side2b": "身體"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "香",
-              "strokes": 9,
-              "side2": "香",
-              "side2b": "香氛"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "呢",
-              "strokes": 8,
-              "side2": "呢",
-              "side2b": "什麼呢"
-            }
-          }
-        ],
-        "第三課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "媽",
-              "strokes": 13,
-              "side2": "媽",
-              "side2b": "媽媽"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "音",
-              "strokes": 9,
-              "side2": "音",
-              "side2b": "音樂"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "樂",
-              "strokes": 15,
-              "side1p": "月",
-              "side2": "樂󠇡",
-              "side2b": "樂󠇡器"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "會",
-              "strokes": 13,
-              "side2": "會",
-              "side2b": "開會"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "始",
-              "strokes": 8,
-              "side2": "始",
-              "side2b": "開始"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "來",
-              "strokes": 8,
-              "side2": "來",
-              "side2b": "從來"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "重",
-              "strokes": 9,
-              "side2": "重",
-              "side2b": "沉重"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "短",
-              "strokes": 12,
-              "side2": "短",
-              "side2b": "長短"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "陣",
-              "strokes": 10,
-              "side2": "陣",
-              "side2b": "這陣子"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "過",
-              "strokes": 13,
-              "side2": "過",
-              "side2b": "過去"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "後",
-              "strokes": 9,
-              "side2": "後",
-              "side2b": "後面"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "吃",
-              "strokes": 6,
-              "side2": "吃",
-              "side2b": "吃飯"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "菜",
-              "strokes": 12,
-              "side2": "菜",
-              "side2b": "青菜"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "就",
-              "strokes": 12,
-              "side2": "就",
-              "side2b": "就近"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "桌",
-              "strokes": 10,
-              "side2": "桌",
-              "side2b": "桌子"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "真",
-              "strokes": 10,
-              "side2": "真",
-              "side2b": "真心"
-            }
-          }
-        ],
-        "第四課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "鞋",
-              "strokes": 15,
-              "side2": "鞋",
-              "side2b": "皮鞋"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "回",
-              "strokes": 6,
-              "side2": "回",
-              "side2b": "回答"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "家",
-              "strokes": 10,
-              "side2": "家",
-              "side2b": "家庭"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "把",
-              "strokes": 7,
-              "side2": "把",
-              "side2b": "手把"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "脫",
-              "strokes": 11,
-              "side2": "脫",
-              "side2b": "脫鞋子"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "爸",
-              "strokes": 8,
-              "side2": "爸",
-              "side2b": "爸爸"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "靠",
-              "strokes": 15,
-              "side2": "靠",
-              "side2b": "椅靠"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "見",
-              "strokes": 7,
-              "side2": "見",
-              "side2b": "好久不見"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "像",
-              "strokes": 14,
-              "side2": "像",
-              "side2b": "好像"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "船",
-              "strokes": 11,
-              "side2": "船",
-              "side2b": "船槳"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "港",
-              "strokes": 12,
-              "side2": "港",
-              "side2b": "港口"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "口",
-              "strokes": 3,
-              "side2": "口",
-              "side2b": "巷口"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "享",
-              "strokes": 8,
-              "side2": "享",
-              "side2b": "享受"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "受",
-              "strokes": 8,
-              "side2": "受",
-              "side2b": "忍受"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "溫",
-              "strokes": 13,
-              "side2": "溫",
-              "side2b": "溫度"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "暖",
-              "strokes": 13,
-              "side2": "暖",
-              "side2b": "春暖花開"
-            }
-          }
-        ],
-        "第五課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "種",
-              "strokes": 14,
-              "side2": "種",
-              "side2b": "種子"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "問",
-              "strokes": 11,
-              "side2": "問",
-              "side2b": "問題"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "怎",
-              "strokes": 9,
-              "side2": "怎",
-              "side2b": "怎麼了"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "做",
-              "strokes": 11,
-              "side2": "做",
-              "side2b": "做事"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "它",
-              "strokes": 5,
-              "side2": "它",
-              "side2b": "它們"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "才",
-              "strokes": 3,
-              "side2": "才",
-              "side2b": "才華"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "需",
-              "strokes": 14,
-              "side2": "需",
-              "side2b": "需要"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "於",
-              "strokes": 8,
-              "side2": "於",
-              "side2b": "終於"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "澆",
-              "strokes": 15,
-              "side2": "澆",
-              "side2b": "澆花"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "陽",
-              "strokes": 12,
-              "side2": "陽",
-              "side2b": "太陽"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "光",
-              "strokes": 6,
-              "side2": "光",
-              "side2b": "亮光"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "放",
-              "strokes": 8,
-              "side2": "放",
-              "side2b": "放假"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "院",
-              "strokes": 10,
-              "side2": "院",
-              "side2b": "醫院"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "公",
-              "strokes": 4,
-              "side2": "公",
-              "side2b": "公司"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "話",
-              "strokes": 13,
-              "side2": "話",
-              "side2b": "說話"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "伴",
-              "strokes": 7,
-              "side2": "伴",
-              "side2b": "陪伴"
-            }
-          }
-        ],
-        "第六課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "奶",
-              "strokes": 5,
-              "side2": "奶",
-              "side2b": "牛奶"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "跟",
-              "strokes": 13,
-              "side2": "跟",
-              "side2b": "跟蹤"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "班",
-              "strokes": 10,
-              "side2": "班",
-              "side2b": "上班"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "床",
-              "strokes": 7,
-              "side2": "床",
-              "side2b": "起床"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "弟",
-              "strokes": 7,
-              "side2": "弟",
-              "side2b": "弟弟"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "她",
-              "strokes": 6,
-              "side2": "她",
-              "side2b": "她們"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "酒",
-              "strokes": 10,
-              "side2": "酒",
-              "side2b": "酒品"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "拿",
-              "strokes": 10,
-              "side2": "拿",
-              "side2b": "取拿"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "卡",
-              "strokes": 5,
-              "side2": "卡",
-              "side2b": "卡關"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "片",
-              "strokes": 4,
-              "side2": "片",
-              "side2b": "厚片吐司"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "給",
-              "strokes": 12,
-              "side2": "給",
-              "side2b": "給予"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "寫",
-              "strokes": 15,
-              "side2": "寫",
-              "side2b": "寫字"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "喜",
-              "strokes": 12,
-              "side2": "喜",
-              "side2b": "喜歡"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "歡",
-              "strokes": 22,
-              "side2": "歡",
-              "side2b": "歡樂"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "您",
-              "strokes": 11,
-              "side2": "您",
-              "side2b": "您好"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "都",
-              "strokes": 11,
-              "side2": "都",
-              "side2b": "都是"
-            }
-          }
-        ],
-        "第七課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "作",
-              "strokes": 7,
-              "side2": "作",
-              "side2b": "作業"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "夢",
-              "strokes": 14,
-              "side2": "夢",
-              "side2b": "夢想"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "躺",
-              "strokes": 15,
-              "side2": "躺",
-              "side2b": "躺下"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "自",
-              "strokes": 6,
-              "side2": "自",
-              "side2b": "自然"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "己",
-              "strokes": 3,
-              "side2": "己",
-              "side2b": "自己"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "變",
-              "strokes": 23,
-              "side2": "變",
-              "side2b": "變化"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "成",
-              "strokes": 6,
-              "side2": "成",
-              "side2b": "成功"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "棉",
-              "strokes": 12,
-              "side2": "棉",
-              "side2b": "棉花"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "糖",
-              "strokes": 16,
-              "side2": "糖",
-              "side2b": "糖果"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "黑",
-              "strokes": 12,
-              "side2": "黑",
-              "side2b": "黑暗"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "鵝",
-              "strokes": 18,
-              "side2": "鵝",
-              "side2b": "天鵝"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "得",
-              "strokes": 11,
-              "side2": "得󠇡",
-              "side2b": "跑得󠇡快"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "更",
-              "strokes": 7,
-              "side2": "更",
-              "side2b": "更健康"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "漂",
-              "strokes": 14,
-              "side1p": "票",
-              "side2": "漂",
-              "side2b": "漂亮"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "亮",
-              "strokes": 9,
-              "side2": "亮",
-              "side2b": "明亮"
-            }
-          }
-        ],
-        "第八課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "妹",
-              "strokes": 8,
-              "side2": "妹",
-              "side2b": "妹妹󠇡"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "雨",
-              "strokes": 8,
-              "side2": "雨",
-              "side2b": "雨傘"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "雙",
-              "strokes": 18,
-              "side2": "雙",
-              "side2b": "一雙"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "穿",
-              "strokes": 9,
-              "side2": "穿",
-              "side2b": "穿著"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "滴",
-              "strokes": 14,
-              "side2": "滴",
-              "side2b": "滴水穿石"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "遊",
-              "strokes": 13,
-              "side2": "遊",
-              "side2b": "旅遊"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "戲",
-              "strokes": 17,
-              "side2": "戲",
-              "side2b": "戲劇"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "顆",
-              "strokes": 17,
-              "side2": "顆",
-              "side2b": "一顆球"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "珍",
-              "strokes": 9,
-              "side2": "珍",
-              "side2b": "珍惜"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "珠",
-              "strokes": 10,
-              "side2": "珠",
-              "side2b": "珠寶"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "落",
-              "strokes": 13,
-              "side2": "落",
-              "side2b": "降落"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "面",
-              "strokes": 9,
-              "side2": "面",
-              "side2b": "面紙"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "魚",
-              "strokes": 11,
-              "side2": "魚",
-              "side2b": "鮭魚"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "缸",
-              "strokes": 9,
-              "side2": "缸",
-              "side2b": "浴缸"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "金",
-              "strokes": 8,
-              "side2": "金",
-              "side2b": "黃金"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "游",
-              "strokes": 12,
-              "side2": "游",
-              "side2b": "游泳"
-            }
-          }
-        ],
-        "第九課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "彩",
-              "strokes": 11,
-              "side2": "彩",
-              "side2b": "彩色筆"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "虹",
-              "strokes": 9,
-              "side2": "虹",
-              "side2b": "彩虹"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "太",
-              "strokes": 4,
-              "side2": "太",
-              "side2b": "太陽"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "國",
-              "strokes": 11,
-              "side2": "國",
-              "side2b": "國王"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "掃",
-              "strokes": 11,
-              "side2": "掃",
-              "side2b": "掃地"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "除",
-              "strokes": 10,
-              "side2": "除",
-              "side2b": "除非"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "洗",
-              "strokes": 9,
-              "side2": "洗",
-              "side2b": "洗澡"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "淨",
-              "strokes": 11,
-              "side2": "淨",
-              "side2b": "乾淨"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "馬",
-              "strokes": 10,
-              "side2": "馬",
-              "side2b": "馬上"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "低",
-              "strokes": 7,
-              "side2": "低",
-              "side2b": "低下"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "刷",
-              "strokes": 8,
-              "side2": "刷",
-              "side2b": "刷牙"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "樹",
-              "strokes": 16,
-              "side2": "樹",
-              "side2b": "樹木"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "葉",
-              "strokes": 13,
-              "side2": "葉",
-              "side2b": "樹葉"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "很",
-              "strokes": 9,
-              "side2": "很",
-              "side2b": "很多"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "認",
-              "strokes": 14,
-              "side2": "認",
-              "side2b": "認真"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "送",
-              "strokes": 10,
-              "side2": "送",
-              "side2b": "送貨"
-            }
-          }
-        ],
-        "第十二課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "想",
-              "strokes": 13,
-              "side2": "想",
-              "side2b": "想法"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "燈",
-              "strokes": 16,
-              "side2": "燈",
-              "side2b": "燈籠"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "前",
-              "strokes": 9,
-              "side2": "前",
-              "side2b": "前天"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "點",
-              "strokes": 17,
-              "side2": "點",
-              "side2b": "點心"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "半",
-              "strokes": 5,
-              "side2": "半",
-              "side2b": "半天"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "清",
-              "strokes": 11,
-              "side2": "清",
-              "side2b": "清明"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "楚",
-              "strokes": 13,
-              "side2": "楚",
-              "side2b": "清楚"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "停",
-              "strokes": 11,
-              "side2": "停",
-              "side2b": "停車"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "休",
-              "strokes": 6,
-              "side2": "休",
-              "side2b": "休息"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "息",
-              "strokes": 10,
-              "side2": "息",
-              "side2b": "消息"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "兒",
-              "strokes": 8,
-              "side2": "兒",
-              "side2b": "兒子"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "吧",
-              "strokes": 7,
-              "side2": "吧",
-              "side2b": "好吧"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "幫",
-              "strokes": 17,
-              "side2": "幫",
-              "side2b": "幫忙"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "加",
-              "strokes": 5,
-              "side2": "加",
-              "side2b": "加油"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "油",
-              "strokes": 8,
-              "side2": "油",
-              "side2b": "油漆"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "慢",
-              "strokes": 14,
-              "side2": "慢",
-              "side2b": "慢跑"
-            }
-          }
-        ],
-        "第十課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "地",
-              "strokes": 6,
-              "side1p": "第",
-              "side2": "地",
-              "side2b": "地址"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "化",
-              "strokes": 4,
-              "side2": "化",
-              "side2b": "變化"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "趣",
-              "strokes": 15,
-              "side2": "趣",
-              "side2b": "有趣"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "線",
-              "strokes": 15,
-              "side2": "線",
-              "side2b": "電線"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "風",
-              "strokes": 9,
-              "side2": "風",
-              "side2b": "風景"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "箏",
-              "strokes": 14,
-              "side2": "箏",
-              "side2b": "風箏"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "升",
-              "strokes": 4,
-              "side2": "升",
-              "side2b": "上升"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "神",
-              "strokes": 9,
-              "side2": "神",
-              "side2b": "神奇"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "奇",
-              "strokes": 8,
-              "side2": "奇",
-              "side2b": "奇怪"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "跑",
-              "strokes": 12,
-              "side2": "跑",
-              "side2b": "跑步"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "跳",
-              "strokes": 13,
-              "side2": "跳",
-              "side2b": "跳繩"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "笑",
-              "strokes": 10,
-              "side2": "笑",
-              "side2b": "笑話"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "每",
-              "strokes": 7,
-              "side2": "每",
-              "side2b": "每天"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "件",
-              "strokes": 6,
-              "side2": "件",
-              "side2b": "一件"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "事",
-              "strokes": 8,
-              "side2": "事",
-              "side2b": "事情"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "情",
-              "strokes": 11,
-              "side2": "情",
-              "side2b": "感情"
-            }
-          }
-        ],
-        "第十一課": [
-          {
-            "id": "00001",
-            "fields": {
-              "side1": "生",
-              "strokes": 5,
-              "side2": "生",
-              "side2b": "生日"
-            }
-          },
-          {
-            "id": "00002",
-            "fields": {
-              "side1": "日",
-              "strokes": 4,
-              "side2": "日",
-              "side2b": "日期"
-            }
-          },
-          {
-            "id": "00003",
-            "fields": {
-              "side1": "今",
-              "strokes": 4,
-              "side2": "今",
-              "side2b": "今天"
-            }
-          },
-          {
-            "id": "00004",
-            "fields": {
-              "side1": "記",
-              "strokes": 10,
-              "side2": "記",
-              "side2b": "記得"
-            }
-          },
-          {
-            "id": "00005",
-            "fields": {
-              "side1": "時",
-              "strokes": 10,
-              "side2": "時",
-              "side2b": "時間"
-            }
-          },
-          {
-            "id": "00006",
-            "fields": {
-              "side1": "知",
-              "strokes": 8,
-              "side2": "知",
-              "side2b": "知道"
-            }
-          },
-          {
-            "id": "00007",
-            "fields": {
-              "side1": "道",
-              "strokes": 13,
-              "side2": "道",
-              "side2b": "道理"
-            }
-          },
-          {
-            "id": "00008",
-            "fields": {
-              "side1": "嗎",
-              "strokes": 13,
-              "side2": "嗎",
-              "side2b": "好嗎？"
-            }
-          },
-          {
-            "id": "00009",
-            "fields": {
-              "side1": "學",
-              "strokes": 16,
-              "side2": "學",
-              "side2b": "學校"
-            }
-          },
-          {
-            "id": "00010",
-            "fields": {
-              "side1": "收",
-              "strokes": 6,
-              "side2": "收",
-              "side2b": "收據"
-            }
-          },
-          {
-            "id": "00011",
-            "fields": {
-              "side1": "張",
-              "strokes": 11,
-              "side2": "張",
-              "side2b": "一張"
-            }
-          },
-          {
-            "id": "00012",
-            "fields": {
-              "side1": "祝",
-              "strokes": 9,
-              "side2": "祝",
-              "side2b": "祝福"
-            }
-          },
-          {
-            "id": "00013",
-            "fields": {
-              "side1": "福",
-              "strokes": 13,
-              "side2": "福",
-              "side2b": "福氣"
-            }
-          },
-          {
-            "id": "00014",
-            "fields": {
-              "side1": "第",
-              "strokes": 11,
-              "side2": "第",
-              "side2b": "第一"
-            }
-          },
-          {
-            "id": "00015",
-            "fields": {
-              "side1": "次",
-              "strokes": 6,
-              "side2": "次",
-              "side2b": "每次"
-            }
-          },
-          {
-            "id": "00016",
-            "fields": {
-              "side1": "謝",
-              "strokes": 17,
-              "side2": "謝",
-              "side2b": "謝謝"
-            }
-          }
-        ]
-      },
-      "注音": {
-        "聲符": [
-          {
-            "type": "注音",
-            "id": "00001",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄅ",
-              "side2": "ㄅ",
-              "side2b": "斑馬"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00002",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄆ",
-              "side2": "ㄆ",
-              "side2b": "螃蟹"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00003",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄇ",
-              "side2": "ㄇ",
-              "side2b": "螞蟻"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00004",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄈ",
-              "side2": "ㄈ",
-              "side2b": "飛鼠"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00005",
-            "fields": {
-              "side1": "ㄉ",
-              "side2": "ㄉ",
-              "side2b": "袋鼠"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00006",
-            "fields": {
-              "side1": "ㄊ",
-              "side2": "ㄊ",
-              "side2b": "鴕鳥"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00007",
-            "fields": {
-              "side1": "ㄋ",
-              "side2": "ㄋ",
-              "side2b": "小鳥"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00008",
-            "fields": {
-              "side1": "ㄌ",
-              "side2": "ㄌ",
-              "side2b": "梅花鹿"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00009",
-            "fields": {
-              "side1": "ㄍ",
-              "side2": "ㄍ",
-              "side2b": "鴿子"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00010",
-            "fields": {
-              "side1": "ㄎ",
-              "side2": "ㄎ",
-              "side2b": "蝌蚪"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00011",
-            "fields": {
-              "side1": "ㄏ",
-              "side2": "ㄏ",
-              "side2b": "河豚"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00012",
-            "fields": {
-              "side1": "ㄐ",
-              "side2": "ㄐ",
-              "side2b": "公雞"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00013",
-            "fields": {
-              "side1": "ㄑ",
-              "side2": "ㄑ",
-              "side2b": "企鵝"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00014",
-            "fields": {
-              "side1": "ㄒ",
-              "side2": "ㄒ",
-              "side2b": "犀牛"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00015",
-            "fields": {
-              "side1": "ㄓ",
-              "side2": "ㄓ",
-              "side2b": "蜘蛛"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00016",
-            "fields": {
-              "side1": "ㄔ",
-              "side2": "ㄔ",
-              "side2b": "長頸鹿"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00017",
-            "fields": {
-              "side1": "ㄕ",
-              "side2": "ㄕ",
-              "side2b": "獅子"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00018",
-            "fields": {
-              "side1": "ㄖ",
-              "side2": "ㄖ",
-              "side2b": "乳牛"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00019",
-            "fields": {
-              "side1": "ㄗ",
-              "side2": "ㄗ",
-              "side2b": "烏賊"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00020",
-            "fields": {
-              "side1": "ㄘ",
-              "side2": "ㄘ",
-              "side2b": "刺蝟"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00021",
-            "fields": {
-              "side1": "ㄙ",
-              "side2": "ㄙ",
-              "side2b": "鷺鷥"
-            }
-          }
-        ],
-        "韻母": [
-          {
-            "type": "注音",
-            "id": "00001",
-            "fields": {
-              "side1": "ㄧ",
-              "side2": "ㄧ",
-              "side2b": "蜥蜴"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00002",
-            "fields": {
-              "side1": "ㄨ",
-              "side2": "ㄨ",
-              "side2b": "烏鴉"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00003",
-            "fields": {
-              "side1": "ㄩ",
-              "side2": "ㄩ",
-              "side2b": "金魚"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00004",
-            "fields": {
-              "side1": "ㄚ",
-              "side2": "ㄚ",
-              "side2b": "鯊魚"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00005",
-            "fields": {
-              "side1": "ㄛ",
-              "side2": "ㄛ",
-              "side2b": "土撥鼠"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00006",
-            "fields": {
-              "side1": "ㄜ",
-              "side2": "ㄜ",
-              "side2b": "天鵝"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00007",
-            "fields": {
-              "side1": "ㄝ",
-              "side2": "ㄝ",
-              "side2b": "野狼"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00008",
-            "fields": {
-              "side1": "ㄞ",
-              "side2": "ㄞ",
-              "side2b": "海豚"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00009",
-            "fields": {
-              "side1": "ㄟ",
-              "side2": "ㄟ",
-              "side2b": "黑面琵鷺"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00010",
-            "fields": {
-              "side1": "ㄠ",
-              "side2": "ㄠ",
-              "side2b": "毛毛蟲"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00011",
-            "fields": {
-              "side1": "ㄡ",
-              "side2": "ㄡ",
-              "side2b": "海鷗"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00012",
-            "fields": {
-              "side1": "ㄢ",
-              "side2": "ㄢ",
-              "side2b": "山羊"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00013",
-            "fields": {
-              "side1": "ㄣ",
-              "side2": "ㄣ",
-              "side2b": "糞金龜"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00014",
-            "fields": {
-              "side1": "ㄤ",
-              "side2": "ㄤ",
-              "side2b": "螳螂"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00015",
-            "fields": {
-              "side1": "ㄥ",
-              "side2": "ㄥ",
-              "side2b": "蜜蜂"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00016",
-            "fields": {
-              "side1": "ㄦ",
-              "side2": "ㄦ",
-              "side2b": "耳朵󠇡"
-            }
-          }
-        ],
-        "結合": [
-          {
-            "type": "注音",
-            "id": "00001",
-            "fields": {
-              "side1": "ㄧㄚ",
-              "side2": "ㄧㄚ",
-              "side2b": "鴨子"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00002",
-            "fields": {
-              "side1": "ㄧㄛ",
-              "side2": "ㄧㄛ",
-              "side2b": "哎唷"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00003",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄧㄝ",
-              "side2": "ㄧㄝ",
-              "side2b": "夜鶯"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00004",
-            "fields": {
-              "side1": "ㄧㄞ",
-              "side2": "ㄧㄞ",
-              "side2b": "山崖"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00005",
-            "fields": {
-              "side1": "ㄧㄠ",
-              "side2": "ㄧㄠ",
-              "side2b": "瓢蟲"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00006",
-            "fields": {
-              "side1": "ㄧㄡ",
-              "side2": "ㄧㄡ",
-              "side2b": "魷魚"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00007",
-            "fields": {
-              "side1": "ㄧㄢ",
-              "side2": "ㄧㄢ",
-              "side2b": "綿羊"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00008",
-            "fields": {
-              "side1": "ㄧㄣ",
-              "side2": "ㄧㄣ",
-              "side2b": "蚯蚓"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00009",
-            "fields": {
-              "side1": "ㄧㄤ",
-              "side2": "ㄧㄤ",
-              "side2b": "大象"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00010",
-            "fields": {
-              "side1": "ㄧㄥ",
-              "side2": "ㄧㄥ",
-              "side2b": "鸚鵡"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00011",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄚ",
-              "side2": "ㄨㄚ",
-              "side2b": "蝸牛"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00012",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄛ",
-              "side2": "ㄨㄛ",
-              "side2b": "駱駝"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00013",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄞ",
-              "side2": "ㄨㄞ",
-              "side2b": "蟋蟀"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00014",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄟ",
-              "side2": "ㄨㄟ",
-              "side2b": "海龜"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00015",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄢ",
-              "side2": "ㄨㄢ",
-              "side2b": "浣熊"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00016",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄣ",
-              "side2": "ㄨㄣ",
-              "side2b": "蚊子"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00017",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄤ",
-              "side2": "ㄨㄤ",
-              "side2b": "黃牛"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00018",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄨㄥ",
-              "side2": "ㄨㄥ",
-              "side2b": "白頭翁"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00019",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄩㄝ",
-              "side2": "ㄩㄝ",
-              "side2b": "孔雀"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00020",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄩㄢ",
-              "side2": "ㄩㄢ",
-              "side2b": "鴛鴦"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00021",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄩㄣ",
-              "side2": "ㄩㄣ",
-              "side2b": "馴鹿"
-            }
-          },
-          {
-            "type": "注音",
-            "id": "00022",
-            "lang": "zh-CN",
-            "fields": {
-              "side1": "ㄩㄥ",
-              "side2": "ㄩㄥ",
-              "side2b": "黑熊"
-            }
-          }
-        ]
-      }
     },
-    "113學年": {
+    "康軒": {
       "二年上": {
         "第一課": [
           {
@@ -11538,10 +11538,8 @@
           }
         ]
       }
-    }
-  },
-  "新北": {
-    "第三冊": {
+    },
+    "新北": {
       "生字": {
         "第一課": [
           {
@@ -11856,6 +11854,7 @@
             "id": "00007",
             "fields": {
               "side1": "覺",
+              "side1p": "ㄐㄩㄝˊ",
               "side2": "覺",
               "side2b": "覺得"
             }
@@ -12564,8 +12563,629 @@
       }
     }
   },
-  "無": {
-    "其他": {
+  "114學年": {
+    "南一": {
+      "三年上": {
+        "第一課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "泥",
+              "strokes": 8,
+              "side2": "泥",
+              "side2b": "泥土"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "化",
+              "strokes": 4,
+              "side2": "化",
+              "side2b": "化妝"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "雀",
+              "strokes": 11,
+              "side2": "雀",
+              "side2b": "麻雀"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "輕",
+              "strokes": 14,
+              "side2": "輕",
+              "side2b": "輕軌"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "羽",
+              "strokes": 6,
+              "side2": "羽",
+              "side2b": "羽毛"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "衣",
+              "strokes": 6,
+              "side2": "衣",
+              "side2b": "衣服"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "脆",
+              "strokes": 10,
+              "side2": "脆",
+              "side2b": "清脆"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "髮",
+              "strokes": 15,
+              "side1p": "ㄈㄚˇ",
+              "side2": "髮",
+              "side2b": "髮型",
+              "side2p": "法型"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "處󠇡",
+              "strokes": 11,
+              "side1p": "ㄔㄨˋ",
+              "side2": "處󠇡",
+              "side2b": "到處"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "旅",
+              "strokes": 10,
+              "side2": "旅",
+              "side2b": "旅遊"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "行",
+              "strokes": 6,
+              "side1p": "ㄒㄧㄥˊ",
+              "side2": "行",
+              "side2b": "行為"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "平",
+              "strokes": 5,
+              "side2": "平",
+              "side2b": "平等"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "男",
+              "strokes": 7,
+              "side2": "男",
+              "side2b": "男生"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "朗",
+              "strokes": 10,
+              "side2": "朗",
+              "side2b": "晴朗"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "足",
+              "strokes": 7,
+              "side2": "足",
+              "side2b": "足球"
+            }
+          }
+        ],
+        "第二課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "廊",
+              "strokes": 12,
+              "side2": "廊",
+              "side2b": "走廊"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "訂",
+              "strokes": 9,
+              "side2": "訂",
+              "side2b": "預訂"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "班",
+              "strokes": 10,
+              "side2": "班",
+              "side2b": "班級"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "級",
+              "strokes": 10,
+              "side2": "級",
+              "side2b": "級別"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "約",
+              "strokes": 9,
+              "side2": "約",
+              "side2b": "約會"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "紛",
+              "strokes": 10,
+              "side2": "紛",
+              "side2b": "紛爭"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "持",
+              "strokes": 9,
+              "side2": "持",
+              "side2b": "堅持"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "記",
+              "strokes": 10,
+              "side2": "記",
+              "side2b": "筆記"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "錄",
+              "strokes": 16,
+              "side2": "錄",
+              "side2b": "錄音"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "聊",
+              "strokes": 11,
+              "side1p": "ㄌㄧㄠˊ",
+              "side2": "聊",
+              "side2b": "聊天"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "言",
+              "strokes": 7,
+              "side2": "言",
+              "side2b": "言論"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "烈",
+              "strokes": 10,
+              "side2": "烈",
+              "side2b": "烈火"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "些",
+              "strokes": 8,
+              "side2": "些",
+              "side2b": "些許"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "提",
+              "strokes": 12,
+              "side2": "提",
+              "side2b": "提醒"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "愁",
+              "strokes": 13,
+              "side2": "愁",
+              "side2b": "憂愁"
+            }
+          }
+        ],
+        "第三課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "短",
+              "strokes": 12,
+              "side2": "短",
+              "side2b": "短處"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "鐘",
+              "strokes": 20,
+              "side2": "鐘",
+              "side2b": "鬧鐘"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "鬼",
+              "strokes": 10,
+              "side2": "鬼",
+              "side2b": "鬼月"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "鬧",
+              "strokes": 15,
+              "side2": "鬧",
+              "side2b": "熱鬧"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "準",
+              "strokes": 13,
+              "side2": "準",
+              "side2b": "準備"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "朝",
+              "strokes": 12,
+              "side2": "朝",
+              "side2b": "朝廷"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "蹈",
+              "strokes": 17,
+              "side2": "蹈",
+              "side2b": "舞蹈"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "表",
+              "strokes": 8,
+              "side2": "表",
+              "side2b": "表現"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "暢",
+              "strokes": 14,
+              "side2": "暢",
+              "side2b": "順暢"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "無",
+              "strokes": 12,
+              "side2": "無",
+              "side2b": "無法"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "總",
+              "strokes": 17,
+              "side2": "總",
+              "side2b": "總統"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "響",
+              "strokes": 21,
+              "side2": "響",
+              "side2b": "音響"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "忘",
+              "strokes": 7,
+              "side2": "忘",
+              "side2b": "忘記"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "盡",
+              "strokes": 14,
+              "side2": "盡",
+              "side2b": "盡力"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "責",
+              "strokes": 11,
+              "side2": "責",
+              "side2b": "責任"
+            }
+          }
+        ],
+        "第四課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "指",
+              "strokes": 9,
+              "side2": "指",
+              "side2b": "指責"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "夕",
+              "strokes": 3,
+              "side2": "夕",
+              "side2b": "夕陽"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "賽",
+              "strokes": 17,
+              "side2": "賽",
+              "side2b": "比賽"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "緊",
+              "strokes": 14,
+              "side2": "緊",
+              "side2b": "緊繃"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "店",
+              "strokes": 8,
+              "side2": "店",
+              "side2b": "商店"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "逗",
+              "strokes": 11,
+              "side2": "逗",
+              "side2b": "逗留"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "轉",
+              "strokes": 18,
+              "side1p": "ㄓㄨㄢˇ",
+              "side2": "轉",
+              "side2b": "轉彎"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "露",
+              "strokes": 21,
+              "side2": "露",
+              "side2b": "露出"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "業",
+              "strokes": 13,
+              "side2": "業",
+              "side2b": "業務"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "專",
+              "strokes": 11,
+              "side1p": "ㄓㄨㄢ",
+              "side2": "專",
+              "side2b": "專心"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "勝",
+              "strokes": 12,
+              "side2": "勝",
+              "side2b": "勝利"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "利",
+              "strokes": 7,
+              "side2": "利",
+              "side2b": "利益"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "悅",
+              "strokes": 10,
+              "side2": "悅",
+              "side2b": "喜悅"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "乖",
+              "strokes": 8,
+              "side2": "乖",
+              "side2b": "乖巧"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "溫",
+              "strokes": 13,
+              "side2": "溫",
+              "side2b": "溫柔"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "生活": {
+    "無": {
       "部首": {
         "一畫": [
           {
@@ -13636,7 +14256,7 @@
           }
         ]
       },
-      "生活": {
+      "日曆": {
         "114假日": [
           {
             "type": "假日",
@@ -13844,7 +14464,9 @@
               "side2b": "豬年"
             }
           }
-        ],
+        ]
+      },
+      "數位": {
         "天干數": [
           {
             "type": "天干",
@@ -14084,8 +14706,10 @@
               "side2b": "一萬億"
             }
           }
-        ],
-        "量詞": [
+        ]
+      },
+      "計數": {
+        "量詞1": [
           {
             "id": "00001",
             "fields": {
@@ -14245,7 +14869,9 @@
               "side2": "場",
               "side2b": "一場球賽"
             }
-          },
+          }
+        ],
+        "量詞2": [
           {
             "id": "00021",
             "fields": {
@@ -14405,7 +15031,9 @@
               "side2": "口",
               "side2b": "三口人"
             }
-          },
+          }
+        ],
+        "量詞3": [
           {
             "id": "00041",
             "fields": {
@@ -14565,7 +15193,9 @@
               "side2": "節",
               "side2b": "一節課"
             }
-          },
+          }
+        ],
+        "量詞4": [
           {
             "id": "00061",
             "fields": {
@@ -14725,7 +15355,9 @@
               "side2": "堂",
               "side2b": "一堂課"
             }
-          },
+          }
+        ],
+        "量詞5": [
           {
             "id": "00081",
             "fields": {
