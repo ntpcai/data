@@ -9134,7 +9134,7 @@
               "side1": "夜",
               "strokes": 8,
               "side2": "夜",
-              "side2b": "半晚"
+              "side2b": "半夜"
             }
           },
           {
@@ -14093,9 +14093,9 @@
             "fields": {
               "side1": "處󠇡",
               "strokes": 11,
-              "side1p": "ㄔㄨˋ",
+              "side1p": "觸",
               "side2": "處󠇡",
-              "side2b": "到處"
+              "side2b": "到處󠇡"
             }
           },
           {
@@ -14321,7 +14321,7 @@
               "side1": "短",
               "strokes": 12,
               "side2": "短",
-              "side2b": "短處"
+              "side2b": "短處󠇡"
             }
           },
           {
@@ -14532,7 +14532,6 @@
             "fields": {
               "side1": "轉",
               "strokes": 18,
-              "side1p": "ㄓㄨㄢˇ",
               "side2": "轉",
               "side2b": "轉彎"
             }
@@ -14541,10 +14540,11 @@
             "type": "字",
             "id": "00008",
             "fields": {
-              "side1": "露",
+              "side1": "露󠇡",
               "strokes": 21,
-              "side2": "露",
-              "side2b": "露出"
+              "side1p": "漏",
+              "side2": "露󠇡",
+              "side2b": "露󠇡出"
             }
           },
           {
@@ -14563,7 +14563,6 @@
             "fields": {
               "side1": "專",
               "strokes": 11,
-              "side1p": "ㄓㄨㄢ",
               "side2": "專",
               "side2b": "專心"
             }
@@ -14666,7 +14665,7 @@
             "fields": {
               "side1": "吐",
               "strokes": 6,
-              "side1p": "ㄊㄨˇ",
+              "side1p": "土",
               "side2": "吐",
               "side2b": "談吐"
             }
@@ -14921,6 +14920,918 @@
               "strokes": 11,
               "side2": "剪",
               "side2b": "剪髮"
+            }
+          }
+        ],
+        "第7課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "背",
+              "strokes": 9,
+              "side2": "背",
+              "side2b": "手背"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "斑",
+              "strokes": 12,
+              "side2": "斑",
+              "side2b": "斑點"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "皺",
+              "strokes": 15,
+              "side2": "皺",
+              "side2b": "皺紋"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "懂",
+              "strokes": 16,
+              "side2": "懂",
+              "side2b": "懂事"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "凡",
+              "strokes": 3,
+              "side2": "凡",
+              "side2b": "凡事努力"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "梳",
+              "strokes": 10,
+              "side2": "梳",
+              "side2b": "梳髮"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "夾",
+              "strokes": 7,
+              "side2": "夾",
+              "side2b": "髮夾"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "藏",
+              "strokes": 18,
+              "side2": "藏",
+              "side2b": "藏寶"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "捏",
+              "strokes": 10,
+              "side2": "捏",
+              "side2b": "捏麵粉"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "摺",
+              "strokes": 14,
+              "side2": "摺",
+              "side2b": "摺紙"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "仔",
+              "strokes": 5,
+              "side2": "仔",
+              "side2b": "仔細"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "藝",
+              "strokes": 19,
+              "side2": "藝",
+              "side2b": "藝術"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "術",
+              "strokes": 11,
+              "side2": "術",
+              "side2b": "技術"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "雖",
+              "strokes": 17,
+              "side2": "雖",
+              "side2b": "雖然"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "創",
+              "strokes": 12,
+              "side2": "創",
+              "side2b": "創意"
+            }
+          }
+        ],
+        "第8課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "魔",
+              "strokes": 21,
+              "side2": "魔",
+              "side2b": "魔鬼"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "圍",
+              "strokes": 12,
+              "side2": "圍",
+              "side2b": "圍巾"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "巾",
+              "strokes": 3,
+              "side2": "巾",
+              "side2b": "手巾"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "視",
+              "strokes": 11,
+              "side2": "視",
+              "side2b": "近視眼"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "框",
+              "strokes": 10,
+              "side2": "框",
+              "side2b": "框架"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "誤",
+              "strokes": 14,
+              "side2": "誤",
+              "side2b": "失誤"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "愉",
+              "strokes": 12,
+              "side2": "愉",
+              "side2b": "愉快"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "數",
+              "strokes": 15,
+              "side2": "數",
+              "side2b": "數據"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "桶",
+              "strokes": 11,
+              "side2": "桶",
+              "side2b": "垃圾桶"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "刀",
+              "strokes": 2,
+              "side2": "刀",
+              "side2b": "剪刀"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "曾",
+              "strokes": 12,
+              "side2": "曾",
+              "side2b": "曾經"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "機",
+              "strokes": 16,
+              "side2": "機",
+              "side2b": "機會"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "解",
+              "strokes": 13,
+              "side2": "解",
+              "side2b": "解開"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "鏡",
+              "strokes": 19,
+              "side2": "鏡",
+              "side2b": "鏡子"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "齊",
+              "strokes": 14,
+              "side2": "齊",
+              "side2b": "整齊"
+            }
+          }
+        ],
+        "第9課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "醫",
+              "strokes": 18,
+              "side2": "醫",
+              "side2b": "醫師"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "穿",
+              "strokes": 9,
+              "side2": "穿",
+              "side2b": "穿過"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "袍",
+              "strokes": 10,
+              "side2": "袍",
+              "side2b": "旗袍"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "戴",
+              "strokes": 17,
+              "side2": "戴",
+              "side2b": "戴口罩"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "筒",
+              "strokes": 12,
+              "side2": "筒",
+              "side2b": "圓筒"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "啄",
+              "strokes": 11,
+              "side2": "啄",
+              "side2b": "啄木鳥"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "備",
+              "strokes": 12,
+              "side2": "備",
+              "side2b": "準備"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "幹",
+              "strokes": 13,
+              "side2": "幹",
+              "side2b": "樹幹"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "敲",
+              "strokes": 14,
+              "side2": "敲",
+              "side2b": "敲門"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "毒",
+              "strokes": 8,
+              "side2": "毒",
+              "side2b": "病毒"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "體",
+              "strokes": 23,
+              "side2": "體",
+              "side2b": "身體"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "淘",
+              "strokes": 11,
+              "side2": "淘",
+              "side2b": "淘氣"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "蘋",
+              "strokes": 20,
+              "side2": "蘋",
+              "side2b": "蘋果"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "般",
+              "strokes": 20,
+              "side2": "般",
+              "side2b": "百般"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "藥",
+              "strokes": 19,
+              "side2": "藥",
+              "side2b": "藥局"
+            }
+          }
+        ],
+        "第10課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "極",
+              "strokes": 13,
+              "side2": "極",
+              "side2b": "極限"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "熊",
+              "strokes": 14,
+              "side2": "熊",
+              "side2b": "熊貓"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "雪",
+              "strokes": 11,
+              "side2": "雪",
+              "side2b": "雪櫃"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "腦",
+              "strokes": 13,
+              "side2": "腦",
+              "side2b": "腦海"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "實",
+              "strokes": 14,
+              "side2": "實",
+              "side2b": "事實"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "根",
+              "strokes": 10,
+              "side2": "根",
+              "side2b": "根本"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "反",
+              "strokes": 4,
+              "side2": "反",
+              "side2b": "反對"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "射",
+              "strokes": 10,
+              "side2": "射",
+              "side2b": "射箭"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "膚",
+              "strokes": 15,
+              "side2": "膚",
+              "side2b": "皮膚"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "豬",
+              "strokes": 15,
+              "side2": "豬",
+              "side2b": "豬肉"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "呆",
+              "strokes": 7,
+              "side2": "呆",
+              "side2b": "發呆"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "印",
+              "strokes": 6,
+              "side2": "印",
+              "side2b": "印象"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "象",
+              "strokes": 12,
+              "side2": "象",
+              "side2b": "大象"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "憶",
+              "strokes": 16,
+              "side2": "憶",
+              "side2b": "記憶"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "滾",
+              "strokes": 14,
+              "side2": "滾",
+              "side2b": "打滾"
+            }
+          }
+        ],
+        "第11課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "額",
+              "strokes": 18,
+              "side2": "額",
+              "side2b": "額度"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "虎",
+              "strokes": 8,
+              "side2": "虎",
+              "side2b": "老虎"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "貓",
+              "strokes": 16,
+              "side2": "貓",
+              "side2b": "貓咪"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "臺",
+              "strokes": 14,
+              "side2": "臺",
+              "side2b": "電臺"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "灣",
+              "strokes": 25,
+              "side2": "灣",
+              "side2b": "海灣"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "獨",
+              "strokes": 16,
+              "side2": "獨",
+              "side2b": "獨立"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "萬",
+              "strokes": 13,
+              "side2": "萬",
+              "side2b": "萬歲"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "祖",
+              "strokes": 9,
+              "side2": "祖",
+              "side2b": "祖先"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "蛙",
+              "strokes": 12,
+              "side2": "蛙",
+              "side2b": "青蛙"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "捉",
+              "strokes": 10,
+              "side2": "捉",
+              "side2b": "捉迷藏"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "類",
+              "strokes": 19,
+              "side2": "類",
+              "side2b": "類別"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "占",
+              "strokes": 5,
+              "side2": "占",
+              "side2b": "占星術"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "雞",
+              "strokes": 18,
+              "side2": "雞",
+              "side2b": "火雞"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "肉",
+              "strokes": 6,
+              "side2": "肉",
+              "side2b": "梅花肉"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "威",
+              "strokes": 9,
+              "side2": "威",
+              "side2b": "威風"
+            }
+          }
+        ],
+        "第12課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "昆",
+              "strokes": 8,
+              "side2": "昆",
+              "side2b": "昆蟲"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "攻",
+              "strokes": 7,
+              "side2": "攻",
+              "side2b": "攻擊"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "擊",
+              "strokes": 17,
+              "side2": "擊",
+              "side2b": "擊劍"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "演",
+              "strokes": 14,
+              "side2": "演",
+              "side2b": "演化"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "保",
+              "strokes": 9,
+              "side2": "保",
+              "side2b": "保險"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "命",
+              "strokes": 8,
+              "side2": "命",
+              "side2b": "命令"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "翅",
+              "strokes": 10,
+              "side2": "翅",
+              "side2b": "翅膀"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "敵",
+              "strokes": 15,
+              "side2": "敵",
+              "side2b": "敵人"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "周",
+              "strokes": 8,
+              "side2": "周",
+              "side2b": "周末"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "竹",
+              "strokes": 6,
+              "side2": "竹",
+              "side2b": "竹子"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "節",
+              "strokes": 13,
+              "side2": "節",
+              "side2b": "節日"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "逼",
+              "strokes": 13,
+              "side2": "逼",
+              "side2b": "逼真"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "技",
+              "strokes": 7,
+              "side2": "技",
+              "side2b": "技術"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "退",
+              "strokes": 10,
+              "side2": "退",
+              "side2b": "退休"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "屁",
+              "strokes": 7,
+              "side2": "屁",
+              "side2b": "屁股"
             }
           }
         ]
@@ -15409,7 +16320,7 @@
             "fields": {
               "side1": "東奔西跑",
               "side2": "東奔西跑",
-              "side2b": "到處跑"
+              "side2b": "到處󠇡跑"
             }
           },
           {
