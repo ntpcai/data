@@ -1,4 +1,4 @@
-#!/Users/john/opt/anaconda3/bin/python3
+#!/opt/anaconda3/bin/python3
 import csv
 import json
 from collections import defaultdict
