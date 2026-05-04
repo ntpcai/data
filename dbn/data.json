@@ -16726,6 +16726,158 @@
               "side2b": "混亂"
             }
           }
+        ],
+        "第7課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "盤",
+              "strokes": 15,
+              "side2": "盤",
+              "side2b": "棋盤"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "擠",
+              "strokes": 17,
+              "side2": "擠",
+              "side2b": "擁擠"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "燦",
+              "strokes": 17,
+              "side2": "燦",
+              "side2b": "燦爛"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "爛",
+              "strokes": 21,
+              "side2": "爛",
+              "side2b": "腐爛"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "鹽",
+              "strokes": 24,
+              "side2": "鹽",
+              "side2b": "鹽巴"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "耙",
+              "strokes": 10,
+              "side2": "耙",
+              "side2b": "耙子"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "攪",
+              "strokes": 23,
+              "side2": "攪",
+              "side2b": "攪拌"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "抹",
+              "strokes": 8,
+              "side2": "抹",
+              "side2b": "抹布"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "塔",
+              "strokes": 13,
+              "side2": "塔",
+              "side2b": "鐵塔"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "棋",
+              "strokes": 12,
+              "side2": "棋",
+              "side2b": "圍棋"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "幢",
+              "strokes": 15,
+              "side2": "幢",
+              "side2b": "一幢"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "堂",
+              "strokes": 11,
+              "side2": "堂",
+              "side2b": "堂哥"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "雕",
+              "strokes": 16,
+              "side2": "雕",
+              "side2b": "雕刻"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "霞",
+              "strokes": 17,
+              "side2": "霞",
+              "side2b": "彩霞"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "霄",
+              "strokes": 15,
+              "side2": "霄",
+              "side2b": "雲霄"
+            }
+          }
         ]
       },
       "成語": {
