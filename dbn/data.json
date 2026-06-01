@@ -16834,8 +16834,10 @@
             "fields": {
               "side1": "幢",
               "strokes": 15,
+              "side1p": "床",
               "side2": "幢",
-              "side2b": "一幢"
+              "side2b": "一󠇢幢",
+              "side2p": "一床"
             }
           },
           {
@@ -16876,6 +16878,462 @@
               "strokes": 15,
               "side2": "霄",
               "side2b": "雲霄"
+            }
+          }
+        ],
+        "第8課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "叔",
+              "strokes": 8,
+              "side2": "叔",
+              "side2b": "叔叔"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "潛",
+              "strokes": 15,
+              "side2": "潛",
+              "side2b": "潛能"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "島",
+              "strokes": 10,
+              "side2": "島",
+              "side2b": "離島"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "浮",
+              "strokes": 10,
+              "side2": "浮",
+              "side2b": "漂浮"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "珊",
+              "strokes": 9,
+              "side2": "珊",
+              "side2b": "珊瑚"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "瑚",
+              "strokes": 13,
+              "side2": "瑚",
+              "side2b": "珊瑚"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "船",
+              "strokes": 11,
+              "side2": "船",
+              "side2b": "漁船"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "航",
+              "strokes": 10,
+              "side2": "航",
+              "side2b": "飛航"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "母",
+              "strokes": 5,
+              "side2": "母",
+              "side2b": "母親"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "丑",
+              "strokes": 4,
+              "side2": "丑",
+              "side2b": "小丑"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "寬",
+              "strokes": 15,
+              "side2": "寬",
+              "side2b": "寬大"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "岸",
+              "strokes": 8,
+              "side2": "岸",
+              "side2b": "海岸"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "郵",
+              "strokes": 12,
+              "side2": "郵",
+              "side2b": "郵筒"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "寄",
+              "strokes": 11,
+              "side2": "寄",
+              "side2b": "郵寄"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "底",
+              "strokes": 8,
+              "side2": "底",
+              "side2b": "底部"
+            }
+          }
+        ],
+        "第9課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "峽",
+              "strokes": 10,
+              "side2": "峽",
+              "side2b": "海峽"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "隧",
+              "strokes": 16,
+              "side2": "隧",
+              "side2b": "隧道"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "古",
+              "strokes": 5,
+              "side2": "古",
+              "side2b": "古代"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "窄",
+              "strokes": 10,
+              "side2": "窄",
+              "side2b": "冤窄"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "磚",
+              "strokes": 16,
+              "side2": "磚",
+              "side2b": "磚塊"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "拱",
+              "strokes": 9,
+              "side2": "拱",
+              "side2b": "拱橋"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "騎",
+              "strokes": 18,
+              "side2": "騎",
+              "side2b": "騎馬"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "樓",
+              "strokes": 15,
+              "side2": "樓",
+              "side2b": "樓梯"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "燈",
+              "strokes": 16,
+              "side2": "燈",
+              "side2b": "燈籠"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "籠",
+              "strokes": 22,
+              "side2": "籠",
+              "side2b": "小籠包"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "治",
+              "strokes": 8,
+              "side2": "治",
+              "side2b": "治理"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "示",
+              "strokes": 5,
+              "side2": "示",
+              "side2b": "表示"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "施",
+              "strokes": 9,
+              "side2": "施",
+              "side2b": "施工"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "獎",
+              "strokes": 15,
+              "side2": "獎",
+              "side2b": "獎盃"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "傻",
+              "strokes": 13,
+              "side2": "傻",
+              "side2b": "傻笑"
+            }
+          }
+        ],
+        "第10課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "鹹",
+              "strokes": 20,
+              "side2": "鹹",
+              "side2b": "鹹味"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "之",
+              "strokes": 4,
+              "side2": "之",
+              "side2b": "之前"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "川",
+              "strokes": 3,
+              "side2": "川",
+              "side2b": "四川"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "蒸",
+              "strokes": 14,
+              "side2": "蒸",
+              "side2b": "蒸氣"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "降",
+              "strokes": 9,
+              "side2": "降",
+              "side2b": "降雨"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "令",
+              "strokes": 5,
+              "side2": "令",
+              "side2b": "命令"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "凝",
+              "strokes": 16,
+              "side2": "凝",
+              "side2b": "凝固"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "刷",
+              "strokes": 8,
+              "side2": "刷",
+              "side2b": "刷牙"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "岩",
+              "strokes": 8,
+              "side2": "岩",
+              "side2b": "岩鹽"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "將",
+              "strokes": 11,
+              "side2": "將",
+              "side2b": "將來"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "或",
+              "strokes": 8,
+              "side2": "或",
+              "side2b": "或許"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "雜",
+              "strokes": 18,
+              "side2": "雜",
+              "side2b": "雜亂"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00013",
+            "fields": {
+              "side1": "質",
+              "strokes": 15,
+              "side2": "質",
+              "side2b": "氣質"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00014",
+            "fields": {
+              "side1": "積",
+              "strokes": 16,
+              "side2": "積",
+              "side2b": "積極"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00015",
+            "fields": {
+              "side1": "累󠇡",
+              "strokes": 11,
+              "side2": "累󠇡",
+              "side2b": "累積"
             }
           }
         ]
@@ -18443,6 +18901,63 @@
               "side2b": "能教"
             }
           }
+        ],
+        "下7課": [
+          {
+            "type": "成語",
+            "id": "00001",
+            "fields": {
+              "side1": "一望無邊",
+              "side2": "一望無邊",
+              "side2b": "非常寬",
+              "side2p": "一望吳邊"
+            }
+          },
+          {
+            "type": "成語",
+            "id": "00002",
+            "fields": {
+              "side1": "棋逢敵手",
+              "side2": "棋逢敵手",
+              "side2b": "一樣厲害"
+            }
+          },
+          {
+            "type": "成語",
+            "id": "00003",
+            "fields": {
+              "side1": "擠眉弄眼",
+              "side2": "擠眉弄眼",
+              "side2b": "做鬼臉"
+            }
+          },
+          {
+            "type": "成語",
+            "id": "00004",
+            "fields": {
+              "side1": "響徹雲霄",
+              "side2": "響徹雲霄",
+              "side2b": "很大聲"
+            }
+          },
+          {
+            "type": "成語",
+            "id": "00005",
+            "fields": {
+              "side1": "不肖商人",
+              "side2": "不肖商人",
+              "side2b": "壞心腸"
+            }
+          },
+          {
+            "type": "成語",
+            "id": "00006",
+            "fields": {
+              "side1": "九霄雲外",
+              "side2": "九霄雲外",
+              "side2b": "超級遠"
+            }
+          }
         ]
       },
       "語詞": {
@@ -19301,6 +19816,242 @@
               "side1": "毅力",
               "side2": "毅力",
               "side2b": "堅持不放棄"
+            }
+          }
+        ],
+        "下7課": [
+          {
+            "type": "語詞",
+            "id": "00001",
+            "fields": {
+              "side1": "調色盤",
+              "side2": "調色盤",
+              "side2b": "畫畫板"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00002",
+            "fields": {
+              "side1": "燦爛",
+              "side2": "燦爛",
+              "side2b": "亮又美"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00003",
+            "fields": {
+              "side1": "鹽耙",
+              "side2": "鹽耙",
+              "side2b": "撈鹹用"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00004",
+            "fields": {
+              "side1": "攪動",
+              "side2": "攪動",
+              "side2b": "搖一搖"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00005",
+            "fields": {
+              "side1": "金字塔",
+              "side2": "金字塔",
+              "side2b": "三角屋"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00006",
+            "fields": {
+              "side1": "棋盤",
+              "side2": "棋盤",
+              "side2b": "下子板"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00007",
+            "fields": {
+              "side1": "教堂",
+              "side2": "教堂",
+              "side2b": "禮拜處"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00008",
+            "fields": {
+              "side1": "光雕",
+              "side2": "光雕",
+              "side2b": "燈影秀"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00009",
+            "fields": {
+              "side1": "彩霞",
+              "side2": "彩霞",
+              "side2b": "雲紅紅"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00010",
+            "fields": {
+              "side1": "雲霄",
+              "side2": "雲霄",
+              "side2b": "天很高"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00011",
+            "fields": {
+              "side1": "推擠",
+              "side2": "推擠",
+              "side2b": "互相撞"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00012",
+            "fields": {
+              "side1": "擠壓",
+              "side2": "擠壓",
+              "side2b": "緊緊合"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00013",
+            "fields": {
+              "side1": "打攪",
+              "side2": "打攪",
+              "side2b": "吵別人"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00014",
+            "fields": {
+              "side1": "攪拌",
+              "side2": "攪拌",
+              "side2b": "混一起"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00015",
+            "fields": {
+              "side1": "塗抹",
+              "side2": "塗抹",
+              "side2b": "弄上去"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00016",
+            "fields": {
+              "side1": "抹布",
+              "side2": "抹布",
+              "side2b": "清潔巾"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00017",
+            "fields": {
+              "side1": "蕾絲",
+              "side2": "蕾絲",
+              "side2b": "花邊布"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00018",
+            "fields": {
+              "side1": "飄逸",
+              "side2": "飄逸",
+              "side2b": "輕飛飛"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00019",
+            "fields": {
+              "side1": "瀰漫",
+              "side2": "瀰漫",
+              "side2b": "滿四周"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00020",
+            "fields": {
+              "side1": "山澗",
+              "side2": "山澗",
+              "side2b": "小水流"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00021",
+            "fields": {
+              "side1": "愜意",
+              "side2": "愜意",
+              "side2b": "心舒服"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00022",
+            "fields": {
+              "side1": "悠閒",
+              "side2": "悠閒",
+              "side2b": "好輕鬆"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00023",
+            "fields": {
+              "side1": "潛水",
+              "side2": "潛水",
+              "side2b": "下海玩"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00024",
+            "fields": {
+              "side1": "浮潛",
+              "side2": "浮潛",
+              "side2b": "水面遊"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00025",
+            "fields": {
+              "side1": "深潛",
+              "side2": "深潛",
+              "side2b": "海底遊"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00026",
+            "fields": {
+              "side1": "販賣機",
+              "side2": "販賣機",
+              "side2b": "自動販賣機"
             }
           }
         ]
