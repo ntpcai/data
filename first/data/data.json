@@ -20922,6 +20922,647 @@
       }
     }
   },
+  "115學年": {
+    "無": {
+      "日文": {
+        "平假名": [
+          {
+            "type": "語詞",
+            "id": "00001",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "あ",
+              "side2": "あ",
+              "side2b": "ㄚ",
+              "side2p": "あ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00002",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "い",
+              "side2": "い",
+              "side2b": "ㄧ",
+              "side2p": "い"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00003",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "う",
+              "side2": "う",
+              "side2b": "ㄨ",
+              "side2p": "う"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00004",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "え",
+              "side2": "え",
+              "side2b": "ㄝ",
+              "side2p": "え"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00005",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "お",
+              "side2": "お",
+              "side2b": "ㄛ",
+              "side2p": "お"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00006",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "か",
+              "side2": "か",
+              "side2b": "ㄎㄚ",
+              "side2p": "か"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00007",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "き",
+              "side2": "き",
+              "side2b": "ㄑㄧ",
+              "side2p": "き"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00008",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "く",
+              "side2": "く",
+              "side2b": "ㄎㄨ",
+              "side2p": "く"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00009",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "け",
+              "side2": "け",
+              "side2b": "ㄎㄝ",
+              "side2p": "け"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00010",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "こ",
+              "side2": "こ",
+              "side2b": "ㄎㄛ",
+              "side2p": "こ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00011",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "さ",
+              "side2": "さ",
+              "side2b": "ㄙㄚ",
+              "side2p": "さ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00012",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "し",
+              "side2": "し",
+              "side2b": "ㄒㄧ",
+              "side2p": "し"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00013",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "す",
+              "side2": "す",
+              "side2b": "ㄙㄨ",
+              "side2p": "す"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00014",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "せ",
+              "side2": "せ",
+              "side2b": "ㄙㄝ",
+              "side2p": "せ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00015",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "そ",
+              "side2": "そ",
+              "side2b": "ㄙㄛ",
+              "side2p": "そ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00016",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "た",
+              "side2": "た",
+              "side2b": "ㄊㄚ",
+              "side2p": "た"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00017",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ち",
+              "side2": "ち",
+              "side2b": "ㄑㄧ",
+              "side2p": "ち"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00018",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "つ",
+              "side2": "つ",
+              "side2b": "ㄘㄨ",
+              "side2p": "つ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00019",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "て",
+              "side2": "て",
+              "side2b": "ㄊㄝ",
+              "side2p": "て"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00020",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "と",
+              "side2": "と",
+              "side2b": "ㄊㄛ",
+              "side2p": "と"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00021",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "な",
+              "side2": "な",
+              "side2b": "ㄋㄚ",
+              "side2p": "な"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00022",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "に",
+              "side2": "に",
+              "side2b": "ㄋㄧ",
+              "side2p": "に"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00023",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ぬ",
+              "side2": "ぬ",
+              "side2b": "ㄋㄨ",
+              "side2p": "ぬ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00024",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ね",
+              "side2": "ね",
+              "side2b": "ㄋㄝ",
+              "side2p": "ね"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00025",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "の",
+              "side2": "の",
+              "side2b": "ㄋㄛ",
+              "side2p": "の"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00026",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "は",
+              "side2": "は",
+              "side2b": "ㄏㄚ",
+              "side2p": "は"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00027",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ひ",
+              "side2": "ひ",
+              "side2b": "ㄒㄧ",
+              "side2p": "ひ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00028",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ふ",
+              "side2": "ふ",
+              "side2b": "ㄏㄨ",
+              "side2p": "ふ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00029",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "へ",
+              "side2": "へ",
+              "side2b": "ㄏㄝ",
+              "side2p": "へ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00030",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ほ",
+              "side2": "ほ",
+              "side2b": "ㄏㄛ",
+              "side2p": "ほ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00031",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ま",
+              "side2": "ま",
+              "side2b": "ㄇㄚ",
+              "side2p": "ま"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00032",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "み",
+              "side2": "み",
+              "side2b": "ㄇㄧ",
+              "side2p": "み"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00033",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "む",
+              "side2": "む",
+              "side2b": "ㄇㄨ",
+              "side2p": "む"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00034",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "め",
+              "side2": "め",
+              "side2b": "ㄇㄝ",
+              "side2p": "め"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00035",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "も",
+              "side2": "も",
+              "side2b": "ㄇㄛ",
+              "side2p": "も"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00036",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "や",
+              "side2": "や",
+              "side2b": "ㄧㄚ",
+              "side2p": "や"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00037",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ゆ",
+              "side2": "ゆ",
+              "side2b": "ㄧㄨ",
+              "side2p": "ゆ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00038",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "よ",
+              "side2": "よ",
+              "side2b": "ㄧㄛ",
+              "side2p": "よ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00039",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ら",
+              "side2": "ら",
+              "side2b": "ㄌㄚ",
+              "side2p": "ら"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00040",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "り",
+              "side2": "り",
+              "side2b": "ㄌㄧ",
+              "side2p": "り"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00041",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "る",
+              "side2": "る",
+              "side2b": "ㄌㄨ",
+              "side2p": "る"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00042",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "れ",
+              "side2": "れ",
+              "side2b": "ㄌㄝ",
+              "side2p": "れ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00043",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ろ",
+              "side2": "ろ",
+              "side2b": "ㄌㄛ",
+              "side2p": "ろ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00044",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "わ",
+              "side2": "わ",
+              "side2b": "ㄨㄚ",
+              "side2p": "わ"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00045",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "を",
+              "side2": "を",
+              "side2b": "ㄛ",
+              "side2p": "を"
+            }
+          },
+          {
+            "type": "語詞",
+            "id": "00046",
+            "lang": "ja-JP",
+            "fields": {
+              "side1": "ん",
+              "side2": "ん",
+              "side2b": "ㄣ",
+              "side2p": "ん"
+            }
+          }
+        ]
+      }
+    },
+    "康軒": {
+      "七年上": {
+        "第1課": [
+          {
+            "type": "字",
+            "id": "00001",
+            "fields": {
+              "side1": "撒",
+              "strokes": 15,
+              "side2": "撒",
+              "side2b": "撒種"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00002",
+            "fields": {
+              "side1": "枚",
+              "strokes": 8,
+              "side2": "枚",
+              "side2b": "枚數"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00003",
+            "fields": {
+              "side1": "欄",
+              "strokes": 21,
+              "side2": "欄",
+              "side2b": "欄杆"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00004",
+            "fields": {
+              "side1": "蜜",
+              "strokes": 14,
+              "side2": "蜜",
+              "side2b": "蜜蜂"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00005",
+            "fields": {
+              "side1": "樹",
+              "strokes": 16,
+              "side2": "樹",
+              "side2b": "樹木"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00006",
+            "fields": {
+              "side1": "銀",
+              "strokes": 14,
+              "side2": "銀",
+              "side2b": "銀行"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00007",
+            "fields": {
+              "side1": "闔",
+              "strokes": 18,
+              "side2": "闔",
+              "side2b": "闔上"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00008",
+            "fields": {
+              "side1": "朦",
+              "strokes": 17,
+              "side2": "朦",
+              "side2b": "朦朧"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00009",
+            "fields": {
+              "side1": "巒",
+              "strokes": 22,
+              "side2": "巒",
+              "side2b": "山巒"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00010",
+            "fields": {
+              "side1": "藤",
+              "strokes": 19,
+              "side2": "藤",
+              "side2b": "藤蔓"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00011",
+            "fields": {
+              "side1": "溜",
+              "strokes": 13,
+              "side1p": "ㄌㄧㄡ ",
+              "side2": "溜",
+              "side2b": "溜過"
+            }
+          },
+          {
+            "type": "字",
+            "id": "00012",
+            "fields": {
+              "side1": "愉",
+              "strokes": 12,
+              "side2": "愉",
+              "side2b": "愉快"
+            }
+          }
+        ]
+      }
+    }
+  },
   "生活": {
     "無": {
       "部首": {
